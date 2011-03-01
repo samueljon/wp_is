@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: WordPress\n"
+"Project-Id-Version: WordPress á íslensku\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-02-23 17:12:19+00:00\n"
-"PO-Revision-Date: 2011-02-28 23:39-0000\n"
-"Last-Translator: Samúel Jón Gunnarsson <sammi@villingaholt.nu>\n"
-"Language-Team: Icelandic - Brynjolfur Olason www.binni.is <binni@binni.is>\n"
+"PO-Revision-Date: 2011-03-01 10:02-0000\n"
+"Last-Translator: Samúel Jón Gunnarsson <sammi@lmi.is>\n"
+"Language-Team: Íslenskir Wordpress Notendur <sammi@villingaholt.nu>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -191,9 +191,8 @@ msgid "[%s] Password Lost/Changed"
 msgstr "[%s] Fá nýtt aðgangsorð"
 
 #: wp-includes/pluggable.php:1223
-#, fuzzy
 msgid "New user registration on your site %s:"
-msgstr "Nýr notandi hefur skráð sig á vefinn %s:"
+msgstr "Nýr notandi hefur nýskráð sig á vefinn %s:"
 
 #: wp-includes/pluggable.php:1224
 #: wp-includes/pluggable.php:1232
@@ -772,14 +771,12 @@ msgid "An unidentified error has occurred."
 msgstr "Óþekkt villa kom upp."
 
 #: wp-includes/script-loader.php:190
-#, fuzzy
 msgid "Next &gt;"
-msgstr "&lt;%1&gt;"
+msgstr "Næst &gt;"
 
 #: wp-includes/script-loader.php:191
-#, fuzzy
 msgid "&lt; Prev"
-msgstr "Finna fyrra"
+msgstr "&lt; Fyrra"
 
 #: wp-includes/script-loader.php:192
 msgid "Image"
@@ -961,9 +958,8 @@ msgid "Tags used on this post:"
 msgstr "Efnisorð þessarar færslu:"
 
 #: wp-includes/script-loader.php:320
-#, fuzzy
 msgid "Add new Tag"
-msgstr "Bæta við nýju merki..."
+msgstr "Bæta við nýju merki"
 
 #: wp-includes/script-loader.php:321
 #: wp-includes/taxonomy.php:408
@@ -1135,9 +1131,8 @@ msgid "Plugin Information:"
 msgstr "Upplýsingar um íbót:"
 
 #: wp-includes/script-loader.php:397
-#, fuzzy
 msgid "Are you sure you want to install this plugin?"
-msgstr "Viltu örugglega eyða þessarri deilingu?"
+msgstr "Ertu viss um að þú viljir innsetja þessa íbót?"
 
 #: wp-includes/script-loader.php:420
 #: wp-admin/includes/media.php:1312
