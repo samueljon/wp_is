@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: WordPress á íslensku\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-02-23 17:12:19+00:00\n"
-"PO-Revision-Date: 2011-03-01 10:02-0000\n"
-"Last-Translator: Samúel Jón Gunnarsson <sammi@lmi.is>\n"
+"PO-Revision-Date: 2011-03-01 21:17-0000\n"
+"Last-Translator: Samúel Jón Gunnarsson <sammi@villingaholt.nu>\n"
 "Language-Team: Íslenskir Wordpress Notendur <sammi@villingaholt.nu>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -442,7 +442,7 @@ msgstr "Veffang"
 
 #: wp-includes/theme-compat/comments.php:88
 msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
-msgstr ""
+msgstr "<strong>XHTML:</strong> Þú getur notað þessi merki: <code>%s</code>"
 
 #: wp-includes/theme-compat/comments.php:92
 msgid "Submit Comment"
@@ -497,7 +497,7 @@ msgstr "Línubil sjálfvirkt, netfang birtist ekki á vefsíðu, <acronym title=
 
 #: wp-includes/theme-compat/comments-popup.php:71
 msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
-msgstr ""
+msgstr "Innskráð(ur) <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Skrá út af þessum aðgang\">Skrá út &raquo;</a>"
 
 #: wp-includes/theme-compat/comments-popup.php:80
 #: wp-login.php:520
@@ -809,7 +809,7 @@ msgstr "Þú hefur raðað upp of mörgum skrám í einu."
 
 #: wp-includes/script-loader.php:223
 msgid "This file exceeds the maximum upload size for this site."
-msgstr ""
+msgstr "Þessi skrá er stærri en leyfileg hágmarksstærð fyrir þennan vef."
 
 #: wp-includes/script-loader.php:224
 msgid "This file is empty. Please try another."
@@ -1146,7 +1146,7 @@ msgstr "Vista..."
 
 #: wp-includes/script-loader.php:422
 msgid "Could not set that as the thumbnail image. Try a different attachment."
-msgstr ""
+msgstr "Ekki tókst að setja þetta sem myndaþumlu. Vinsamlegast reyndu annað viðhengi."
 
 #: wp-includes/script-loader.php:423
 msgid "Done"
@@ -1767,7 +1767,7 @@ msgstr "(Þessum skilaboðum var bætt við í útgáfu %s.)"
 
 #: wp-includes/functions.php:3422
 msgid "%1$s was called <strong>incorrectly</strong>. %2$s %3$s"
-msgstr ""
+msgstr "<strong>Ekki</strong> var kallað á %1$s með réttum hætti. %2$s %3$s"
 
 #: wp-includes/functions.php:4130
 msgid "Select a city"
@@ -1797,7 +1797,7 @@ msgstr "Villa kom upp sem bendir til þess að veitan liggi niðri. Reyndu aftur
 
 #: wp-includes/cron.php:159
 msgid "This argument has changed to an array to match the behavior of the other cron functions."
-msgstr ""
+msgstr "Þessum rökum var breytt í fylki til svo hægt væri að samræma þau með öðrum cron aðgerðum."
 
 #: wp-includes/cron.php:314
 msgid "Once Hourly"
@@ -2279,7 +2279,7 @@ msgstr "Ógilt flokkunarkerfi"
 
 #: wp-includes/default-widgets.php:1056
 msgid "Use this widget to add one of your custom menus as a widget."
-msgstr ""
+msgstr "Notaðu aukahlut til að bæta við einni af sérsniðnum valmyndum þínum sem aukahlut."
 
 #: wp-includes/default-widgets.php:1057
 #: wp-admin/includes/theme.php:304
@@ -2371,12 +2371,13 @@ msgstr "Sérsniðin"
 #: wp-includes/query.php:671
 #: wp-includes/query.php:691
 #: wp-includes/query.php:711
+#, fuzzy
 msgid "Conditional query tags do not work before the query is run. Before then, they always return false."
-msgstr ""
+msgstr "Merki útbúin sem skilyrt fyrirspurn virkar ekki fyrr en fyrirspurn er keyrð. Því mun merkið í fyrstu skila engu."
 
 #: wp-includes/query.php:1898
 msgid "\"caller_get_posts\" is deprecated. Use \"ignore_sticky_posts\" instead."
-msgstr ""
+msgstr "\"caller_get_posts\" er úrelt. Notið frekar \"ignore_sticky_posts\""
 
 #: wp-includes/formatting.php:40
 #: wp-includes/formatting.php:2894
@@ -6055,23 +6056,23 @@ msgstr ""
 
 #: wp-admin/index.php:39
 msgid "<strong>Right Now</strong> - Displays a summary of the content on your site and identifies which theme and version of WordPress you are using."
-msgstr ""
+msgstr "<strong>Þessa stundina</strong> - birtir samantekt á innihaldi vefsins og kannar hvaða snið og útgáfu af WordPress þú ert að nota. "
 
 #: wp-admin/index.php:40
 msgid "<strong>Recent Comments</strong> - Shows the most recent comments on your posts (configurable, up to 30) and allows you to moderate them."
-msgstr ""
+msgstr "<strong>Nýlegar athugasemdir</strong> - birta nýjustu athugasemdirnar við færslur á vefnum (Stillanlegt upp að 30) og leyfir þér að stýra þeim. "
 
 #: wp-admin/index.php:41
 msgid "<strong>Incoming Links</strong> - Shows links to your site found by Google Blog Search."
-msgstr ""
+msgstr "<strong>Bakvísanir</strong> - sýnir tengla sem vísa á vefinn þinn í gegnum Google Blog Search."
 
 #: wp-admin/index.php:42
 msgid "<strong>QuickPress</strong> - Allows you to create a new post and either publish it or save it as a draft."
-msgstr ""
+msgstr "<strong>Hjáleið</strong> - leyfir þér að stofna nýjar færslur og birta þær eða vista sem drög. "
 
 #: wp-admin/index.php:43
 msgid "<strong>Recent Drafts</strong> - Displays links to the 5 most recent draft posts you&#8217;ve started."
-msgstr ""
+msgstr "<strong>Nýleg drög</strong> - birtir tengla á síðustu 5 drög sem þú hefur stofnað."
 
 #: wp-admin/index.php:44
 msgid "<strong>WordPress Development Blog</strong> - Come here for the latest scoop."
@@ -6118,7 +6119,7 @@ msgstr ""
 
 #: wp-admin/edit-link-form.php:45
 msgid "XFN stands for <a href=\"http://gmpg.org/xfn/\" target=\"_blank\">XHTML Friends Network</a>, which is optional. WordPress allows the generation of XFN attributes to show how you are related to the authors/owners of the site to which you are linking."
-msgstr ""
+msgstr "XFN er skammstöfun á <a href=\"http://gmpg.org/xfn/\" target=\"_blank\">XHTML Friends Network</a> sem er valkvæmt að nota. WordPress býður upp á að útbúa  XFN eigindi sem sýna hvernig þú tengist höfundi/eiganda vefssetra sem þú ert að krækja á. "
 
 #: wp-admin/edit-link-form.php:47
 msgid "<a href=\"http://codex.wordpress.org/Links_Add_New_SubPanel\" target=\"_blank\">Documentation on Creating Links</a>"
@@ -6163,19 +6164,19 @@ msgstr "WordPress &rsaquo; Lagfæra gagnagrunn"
 
 #: wp-admin/maint/repair.php:22
 msgid "To allow use of this page to automatically repair database problems, please add the following line to your wp-config.php file.  Once this line is added to your config, reload this page."
-msgstr ""
+msgstr "Svo hægt sé að leyfa sjálfvirka viðgerð á gagnagrunnstengdum vandamálum þá þarf að bæta eftirfarandi línu í wp-config.php skránna. Eftir að þessari línu hefur verið bætt við þá er hægt að endurlesa þessa síðu til að sjá aðgerðir."
 
 #: wp-admin/maint/repair.php:71
 msgid "Some database problems could not be repaired. Please copy-and-paste the following list of errors to the <a href=\"%s\">WordPress support forums</a> to get additional assistance."
-msgstr ""
+msgstr "Ekki tókst að gera við sum af gagnagrunns vandamálunum. Vinsamlegast afritaðu og límdu eftirfarandi lista inn á <a href=\"%s\">WordPress support forums</a> til að fá frekari aðstoð. "
 
 #: wp-admin/maint/repair.php:77
 msgid "Repairs complete.  Please remove the following line from wp-config.php to prevent this page from being used by unauthorized users."
-msgstr ""
+msgstr "Viðgerð lokið. Vinsamlegast fjarlægðu eftirfarandi línu úr wp-config.php til að koma í veg fyrir að þessi síða sé notuð af notendum sem hafa ekki tilskilin réttindi."
 
 #: wp-admin/maint/repair.php:81
 msgid "One or more database tables are unavailable. To allow WordPress to attempt to repair these tables, press the &#8220;Repair Database&#8221; button. Repairing can take a while, so please be patient."
-msgstr ""
+msgstr "Ein eða fleiri gagnagrunnstöflur eru ekki aðgengilegar. Svo Wordpress getir reynt að lagfæra þessar töflur ýttu þá á &#8220;Lagfæra Gagnagrunn&#8221; hnappinn. Viðgerð getur tekið tíma, vinsamlegast sýnið biðlund."
 
 #: wp-admin/maint/repair.php:83
 msgid "WordPress can automatically look for some common database problems and repair them.  Repairing can take a while, so please be patient."
@@ -6214,19 +6215,19 @@ msgstr "d-m-Y H:i:s"
 
 #: wp-admin/options-general.php:62
 msgid "The fields on this screen determine some of the basics of your site setup."
-msgstr ""
+msgstr "Reitir á þessum skjá geyma nokkrar af grunnstillingum fyrir uppsetninguna á vefnum þínum."
 
 #: wp-admin/options-general.php:63
 msgid "Most themes display the site title at the top of every page, in the title bar of the browser, and as the identifying name for syndicated feeds. The tagline is also displayed by many themes."
-msgstr ""
+msgstr "Flest snið birta titil vefs efst á hverri síðu í titilrönd vafrans ásamt því að vera kenninafn fyrir fréttir af vefnum á fyrirsagnaformi. Kjörorð er einnig notað af mörgum sniðum."
 
 #: wp-admin/options-general.php:64
 msgid "The WordPress URL and the Site URL can be the same (example.com) or different; for example, having the WordPress core files (example.com/wordpress) in a subdirectory instead of the root directory."
-msgstr ""
+msgstr "Wordpress slóðin og slóð á vef geta verið sú sama (dæmi.is) eða aðskilin. Sem dæmi er hugsanlegt að Wordpress skrárnar séu vistaðar undir (dæmi.is/wordpress) í undirmöppu í stað þess að vera í vefrótsmöppu."
 
 #: wp-admin/options-general.php:65
 msgid "If you want site visitors to be able to register themselves, as opposed to being registered by the site administrator, check the membership box. A default user role can be set for all new users, whether self-registered or registered by the site administrator."
-msgstr ""
+msgstr "Hakaðu við allir geta skráð sig sem notendur ef þú vilt að gestir á vefnum geti skráð sig sem notendur í stað þess að kerfisstjóri vef verði að stofna þá. Einnig er hægt að velja sjálfvalda stöðu fyrir alla nýskráða notendur sem stofnaður eru hvort sem það er framkvæmt sjálfvirkt eða af kerfisstjóra."
 
 #: wp-admin/options-general.php:66
 msgid "UTC means Coordinated Universal Time."
@@ -6287,11 +6288,11 @@ msgstr "Sjálfvalin staða nýs notanda"
 
 #: wp-admin/options-general.php:125
 msgid "This address is used for admin purposes. If you change this we will send you an e-mail at your new address to confirm it. <strong>The new address will not become active until confirmed.</strong>"
-msgstr ""
+msgstr "Þetta netfang er notað í kerfisstjórnunarlegum tilgangi. Ef netfangi er breytt þá sendum við tölvupóst á nýtt netfang svo hægt sé að staðfesta það. <strong>Nýja netfangið mun ekki verða virkt fyrr en það hefur verið staðfest</strong>"
 
 #: wp-admin/options-general.php:130
 msgid "There is a pending change of the admin e-mail to <code>%1$s</code>. <a href=\"%2$s\">Cancel</a>"
-msgstr ""
+msgstr "Það bíður breyting á kerfisstjórnunarnefangi til <code>%1$s</code>. <a href=\"%2$s\">Hætta við</a>"
 
 #: wp-admin/options-general.php:140
 #: wp-admin/options-general.php:196
