@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WordPress\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-02-23 17:12:19+00:00\n"
-"PO-Revision-Date: 2011-02-28 21:56-0000\n"
+"PO-Revision-Date: 2011-02-28 23:39-0000\n"
 "Last-Translator: Samúel Jón Gunnarsson <sammi@villingaholt.nu>\n"
 "Language-Team: Icelandic - Brynjolfur Olason www.binni.is <binni@binni.is>\n"
 "MIME-Version: 1.0\n"
@@ -2723,7 +2723,7 @@ msgstr "Í yfirlestri"
 
 #: wp-includes/post.php:919
 msgid "Post types cannot exceed 20 characters in length"
-msgstr ""
+msgstr "Færslumerkingar mega ekki fara yfir 20 stafi að lengd"
 
 #: wp-includes/post.php:1153
 msgctxt "post type general name"
@@ -6001,7 +6001,7 @@ msgstr "Sleppa staðfestingarpósti"
 #: wp-admin/user-new.php:254
 #: wp-admin/user-new.php:338
 msgid "Add the user without sending them a confirmation email."
-msgstr ""
+msgstr "Bæta notanda við án þess að senda honum staðfestingarpóst."
 
 #: wp-admin/user-new.php:258
 msgid "Add Existing User "
@@ -9216,7 +9216,7 @@ msgstr "Síðast breytt %1$s kl. %2$s"
 
 #: wp-admin/update-core.php:139
 msgid "Check Again"
-msgstr "Reyndu aftur"
+msgstr "Kanna aftur"
 
 #: wp-admin/update-core.php:144
 msgid "You have the latest version of WordPress."
@@ -9233,11 +9233,11 @@ msgstr "Uppfærð útgáfa af WordPress er í boði."
 
 #: wp-admin/update-core.php:164
 msgid "While your site is being updated, it will be in maintenance mode. As soon as your updates are complete, your site will return to normal."
-msgstr ""
+msgstr "Á meðan uppfærslu stendur mun vefurinn vera í viðhaldsham. Að lokinni uppfærslu mun vefurinn fara í hefðbundin ham að nýju./"
 
 #: wp-admin/update-core.php:184
 msgid "Your plugins are all up to date."
-msgstr "Allar íbætur eru í nýjustu útgáfu."
+msgstr "Allar íbætur eru af nýjustu gerð."
 
 #: wp-admin/update-core.php:196
 msgid "The following plugins have new versions available. Check the ones you want to update and then click &#8220;Update Plugins&#8221;."
@@ -9280,7 +9280,7 @@ msgstr "Snið"
 
 #: wp-admin/update-core.php:260
 msgid "Your themes are all up to date."
-msgstr "Allar snið eru í nýjustu útgáfu."
+msgstr "Öll snið eru af nýjustu gerð."
 
 #: wp-admin/update-core.php:268
 msgid "The following themes have new versions available. Check the ones you want to update and then click &#8220;Update Themes&#8221;."
@@ -12161,7 +12161,7 @@ msgstr "Höfundur: %s"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:432
 msgid "Visit plugin site"
-msgstr "Skoða vefsíðu íbótarinnar"
+msgstr "Skoða vefsíðu íbótar"
 
 #: wp-admin/includes/upgrade.php:68
 msgid "<strong><em>Note that password</em></strong> carefully! It is a <em>random</em> password that was generated just for you."
@@ -12411,9 +12411,8 @@ msgstr "Nýjustu athugasemdirnar"
 
 #: wp-admin/includes/nav-menu.php:641
 #: wp-admin/includes/nav-menu.php:848
-#, fuzzy
 msgid "View All"
-msgstr "Skoða allar"
+msgstr "Skoða allt"
 
 #: wp-admin/includes/nav-menu.php:685
 #: wp-admin/includes/nav-menu.php:912
@@ -12478,18 +12477,16 @@ msgid "Custom database class."
 msgstr "Sérsniðinn gagnagrunnsklasi"
 
 #: wp-admin/includes/plugin.php:396
-#, fuzzy
 msgid "Custom database error message."
-msgstr "Villa við sendingu bréfs"
+msgstr "Sérsniðin gagnagrunns villuskilaboð."
 
 #: wp-admin/includes/plugin.php:397
 msgid "Custom install script."
 msgstr "Sérsniðið innsetningarskrifta."
 
 #: wp-admin/includes/plugin.php:398
-#, fuzzy
 msgid "Custom maintenance message."
-msgstr "Skrifaðu þín eigin skilaboð"
+msgstr "Sérsniðin viðhaldsskilaboð."
 
 #: wp-admin/includes/plugin.php:399
 #, fuzzy
@@ -12599,9 +12596,8 @@ msgid "%s from now"
 msgstr "%s héðan af"
 
 #: wp-admin/includes/class-wp-media-list-table.php:297
-#, fuzzy
 msgid "(Unattached)"
-msgstr "Ótengd gögn"
+msgstr "(óviðhengt)"
 
 #: wp-admin/includes/class-wp-media-list-table.php:298
 #: wp-admin/includes/class-wp-media-list-table.php:347
@@ -13183,14 +13179,12 @@ msgid "<code>_blank</code> &mdash; new window or tab."
 msgstr "<code>_blank</code> &mdash; nýr gluggi eða flipi."
 
 #: wp-admin/includes/meta-boxes.php:706
-#, fuzzy
 msgid "<code>_top</code> &mdash; current window or tab, with no frames."
-msgstr "<code>_top</code> - sami gluggi eða flipi sem nú er opinn, engir rammar."
+msgstr "<code>_top</code> - Þessi gluggi eða flipi án ramma."
 
 #: wp-admin/includes/meta-boxes.php:709
-#, fuzzy
 msgid "<code>_none</code> &mdash; same window or tab."
-msgstr "<code>_blank</code> &mdash; nýr gluggi eða flipi."
+msgstr "<code>_none</code> &mdash; sami gluggi eða flipi."
 
 #: wp-admin/includes/meta-boxes.php:711
 msgid "Choose the target frame for your link."
@@ -13587,9 +13581,8 @@ msgstr "Þú hefur ekki heimild til að flytja þennan hlut úr ruslinu."
 
 #: wp-admin/post.php:252
 #: wp-admin/post.php:255
-#, fuzzy
 msgid "Error in deleting."
-msgstr "Villa, get ekki eytt &hellip;"
+msgstr "Villa í eyðingu."
 
 #: wp-admin/options-permalink.php:15
 msgid "Permalink Settings"
@@ -13616,9 +13609,8 @@ msgid "The Optional fields let you customize the &#8220;category&#8221; and &#82
 msgstr ""
 
 #: wp-admin/options-permalink.php:26
-#, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Settings_Permalinks_SubPanel\" target=\"_blank\">Documentation on Permalinks Settings</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Users_Users_SubPanel\" target=\"_blank\">Skjölun á umsýslu með notendur</a>"
+msgstr ""
 
 #: wp-admin/options-permalink.php:27
 #, fuzzy
@@ -13804,15 +13796,13 @@ msgstr "<a href=\"http://codex.wordpress.org/Keyboard_Shortcuts\">Frekari upplý
 
 #: wp-admin/user-edit.php:209
 #: wp-admin/user-edit.php:210
-#, fuzzy
 msgid "Show Admin Bar"
-msgstr "Sýna síuslá"
+msgstr "Sýna kerfisstjóraslá"
 
 #. translators: Show admin bar when viewing site
 #: wp-admin/user-edit.php:213
-#, fuzzy
 msgid "when viewing site"
-msgstr "Þegar &vafrað er um þetta lén:"
+msgstr "Þegar vafrað er um vefinn"
 
 #. translators: Show admin bar in dashboard
 #: wp-admin/user-edit.php:216
@@ -13992,14 +13982,12 @@ msgid "Global Dashboard"
 msgstr "Stjórnborð skjáborðsins"
 
 #: wp-admin/admin-header.php:24
-#, fuzzy
 msgid "%1$s &#8212; WordPress"
-msgstr "Setja upp WordPress"
+msgstr "%1$s &#8212; WordPress"
 
 #: wp-admin/admin-header.php:26
-#, fuzzy
 msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
-msgstr "Fleiri WordPress-fréttir"
+msgstr "%1$s &lsaquo; %2$s &#8212; WordPress"
 
 #: wp-admin/admin-header.php:111
 #, fuzzy
@@ -14025,27 +14013,23 @@ msgid "Howdy, <a href=\"%1$s\" title=\"Edit your profile\">%2$s</a>"
 msgstr "Sælinú, <a href=\"%1$s\" title=\"Breyta þínu yfirliti\">%2$s</a>"
 
 #: wp-admin/plugins.php:20
-#, fuzzy
 msgid "You do not have sufficient permissions to manage plugins for this site."
-msgstr "Þú hefur ekki nógu hátt aðgangsstig til þess að breyta íbótum á þessum vef."
+msgstr "Þú hefur ekki fullnægjandi réttindi til að breyta íbótum á þessum vef."
 
 #: wp-admin/plugins.php:41
 #: wp-admin/plugins.php:71
 #: wp-admin/plugins.php:131
-#, fuzzy
 msgid "You do not have sufficient permissions to activate plugins for this site."
-msgstr "Þú hefur ekki nógu hátt aðgangsstig til þess að breyta íbótum á þessum vef."
+msgstr "Þú hefur ekki fullnægjandi réttindi til að virkja íbætur á þessum vef."
 
 #: wp-admin/plugins.php:157
 #: wp-admin/plugins.php:170
-#, fuzzy
 msgid "You do not have sufficient permissions to deactivate plugins for this site."
-msgstr "Þú hefur ekki heimild til að eyða íbótum á þessum vef."
+msgstr "Þú hefur ekki fullnægjandi réttindi til að afvirkja íbætur á þessum vef."
 
 #: wp-admin/plugins.php:193
-#, fuzzy
 msgid "You do not have sufficient permissions to delete plugins for this site."
-msgstr "Þú hefur ekki heimild til að eyða íbótum á þessum vef."
+msgstr "Þú hefur ekki fullnægjandi réttindi til að eyða íbótum á þessum vef."
 
 #: wp-admin/plugins.php:250
 msgid "Delete Plugin"
@@ -14060,20 +14044,18 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: wp-admin/plugins.php:255
-#, fuzzy
 msgid "You are about to remove the following plugin:"
 msgid_plural "You are about to remove the following plugins:"
-msgstr[0] "Þú ætlar að samþykkja eftirfarandi athugasemd:"
-msgstr[1] "Þú ætlar að samþykkja eftirfarandi athugasemd:"
+msgstr[0] "Þú ert við það að fjarlægja eftirfarandi íbót:"
+msgstr[1] "Þú ert við það að fjarlægja eftirfarandi íbætur:"
 
 #: wp-admin/plugins.php:262
 msgid "<strong>%1$s</strong> by <em>%2$s</em> (will also <strong>delete its data</strong>)"
 msgstr ""
 
 #: wp-admin/plugins.php:266
-#, fuzzy
 msgid "<strong>%1$s</strong> by <em>%2$s</em>"
-msgstr "Mótaldss&kipanir..."
+msgstr "<strong>%1$s</strong> eftir <em>%2$s</em>"
 
 #: wp-admin/plugins.php:273
 #, fuzzy
@@ -14466,9 +14448,8 @@ msgstr "Samsetning vefslóða"
 #: wp-admin/update.php:24
 #: wp-admin/update.php:50
 #: wp-admin/update.php:69
-#, fuzzy
 msgid "You do not have sufficient permissions to update plugins for this site."
-msgstr "Þú hefur ekki nógu hátt aðgangsstig til þess að breyta íbótum á þessum vef."
+msgstr "Þú hefur ekki fullnægjandi réttindi til að uppfæra íbætur á þessum vef."
 
 #: wp-admin/update.php:78
 msgid "Plugin Reactivation"
@@ -14484,9 +14465,8 @@ msgstr "Ekki tókst að endurvekja íbót sökum villu."
 
 #: wp-admin/update.php:97
 #: wp-admin/update.php:128
-#, fuzzy
 msgid "You do not have sufficient permissions to install plugins for this site."
-msgstr "Þú hefur ekki næg réttindi til þess að setja upp íbætur á þessum vef."
+msgstr "Þú hefur ekki fullnægjandi réttindi til að setja upp íbætur á þessum vef."
 
 #: wp-admin/update.php:112
 msgid "Installing Plugin: %s"
@@ -14502,15 +14482,13 @@ msgstr "Set upp íbót á upphlaðinni skrá: %s"
 
 #: wp-admin/update.php:152
 #: wp-admin/update.php:172
-#, fuzzy
 msgid "You do not have sufficient permissions to update themes for this site."
-msgstr "Þú hefur ekki næg réttindi til þess að uppnýja snið á þessum vef."
+msgstr "Þú hefur ekki fullnægjandi réttindi til að uppfæra sniðmát á þessum vef."
 
 #: wp-admin/update.php:198
 #: wp-admin/update.php:228
-#, fuzzy
 msgid "You do not have sufficient permissions to install themes for this site."
-msgstr "Þú hefur ekki næg réttindi til þess að setja upp snið á þessum vef."
+msgstr "Þú hefur ekki fullnægjandi réttindi til þess að setja upp snið á þessum vef."
 
 #: wp-admin/update.php:215
 msgid "Installing Theme: %s"
@@ -14541,19 +14519,16 @@ msgid "Your theme does not support navigation menus or widgets."
 msgstr ""
 
 #: wp-admin/nav-menus.php:237
-#, fuzzy
 msgid "The menu item has been successfully deleted."
-msgstr "Sniðið hefur verið upp sett."
+msgstr "Hlut í valmynd hefur verið eytt."
 
 #: wp-admin/nav-menus.php:256
-#, fuzzy
 msgid "The menu has been successfully deleted."
-msgstr "<p>%1 mynd hefur verið meðhöndluð.</p>"
+msgstr "Valmynd hefur verið eytt."
 
 #: wp-admin/nav-menus.php:296
-#, fuzzy
 msgid "The <strong>%s</strong> menu has been successfully created."
-msgstr "Þeman þín hefur verið búin til í %1."
+msgstr "Valmyndin <strong>%s</strong> hefur verið stofnuð."
 
 #: wp-admin/nav-menus.php:299
 #: wp-admin/nav-menus.php:309
@@ -14561,9 +14536,8 @@ msgid "Please enter a valid menu name."
 msgstr "Villa: sláðu inn rétt netfang. "
 
 #: wp-admin/nav-menus.php:385
-#, fuzzy
 msgid "The <strong>%s</strong> menu has been updated."
-msgstr "<b>Uppfærslu smámyndagagnagrunns er lokið</b>"
+msgstr "Valmyndin <strong>%s</strong> hefur verið uppfærð."
 
 #: wp-admin/nav-menus.php:452
 msgid "This feature, introduced in version 3.0, allows you to use a custom menu in place of your theme&#8217;s default menus. If your theme does not support the custom menus feature yet (the default theme, Twenty Ten, does), you can learn about adding this support by following the Documentation link in this tab. You can still use the &#8220;Custom Menu&#8221; widget to add menus to a sidebar."
@@ -14578,9 +14552,8 @@ msgid "To create a new custom menu, click on the + tab, give the menu a name, an
 msgstr ""
 
 #: wp-admin/nav-menus.php:456
-#, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Appearance_Menus_SubPanel\" target=\"_blank\">Documentation on Menus</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Users_Users_SubPanel\" target=\"_blank\">Skjölun á umsýslu með notendur</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Appearance_Menus_SubPanel\" target=\"_blank\">Skjölun um valmyndir</a>"
 
 #: wp-admin/nav-menus.php:494
 msgid "Add New Menu"
@@ -14728,15 +14701,13 @@ msgid "Error: please enter a valid email address."
 msgstr "Villa: sláðu inn rétt netfang. "
 
 #: wp-content/plugins/akismet/akismet.php:266
-#, fuzzy
 msgid "Akismet caught this comment as spam"
-msgstr "Akismet greip ummælin og merkti sem spam"
+msgstr "Akismet greip þessa athugasemd og merkti sem amasendingu"
 
 #: wp-content/plugins/akismet/akismet.php:268
 #: wp-content/plugins/akismet/akismet.php:276
-#, fuzzy
 msgid "Comment status was changed to %s"
-msgstr "Athugasemda við %s leitað á %s"
+msgstr "Staða amasendingu var breytt í %s"
 
 #: wp-content/plugins/akismet/akismet.php:271
 #, fuzzy
@@ -15025,9 +14996,8 @@ msgstr[0] "Með <a href=\"%1$s\">Akismet</a> hefur %2$s rusl-athugasemd þegar v
 msgstr[1] "Með <a href=\"%1$s\">Akismet</a> hafa %2$s rusl-athugasemdir verið stöðvaðar,"
 
 #: wp-content/plugins/akismet/admin.php:450
-#, fuzzy
 msgid "<a href=\"%1$s\">Akismet</a> blocks spam from getting to your blog. "
-msgstr "<a href=\"%1$s\">Akismet</a> kemur í veg fyrir að amapóstur berist í umræðukerfið,"
+msgstr "<a href=\"%1$s\">Akismet</a> kemur í veg fyrir að amasendingar berist inn í umræðukerfið."
 
 #: wp-content/plugins/akismet/admin.php:454
 #, fuzzy
@@ -15046,19 +15016,16 @@ msgid "Check for Spam"
 msgstr "Leita að amapósti"
 
 #: wp-content/plugins/akismet/admin.php:521
-#, fuzzy
 msgid "%s reported this comment as not spam"
-msgstr "Merkja þessa athugasemd sem rusl"
+msgstr "%s tilkynnti að þessi athugasemd væri ekki amasending"
 
 #: wp-content/plugins/akismet/admin.php:570
-#, fuzzy
 msgid "%s reported this comment as spam"
-msgstr "Merkja þessa athugasemd sem rusl"
+msgstr "%s tilkynnti þessa athugasemd sem amasendingu"
 
 #: wp-content/plugins/akismet/admin.php:615
-#, fuzzy
 msgid "%s changed the comment status to %s"
-msgstr "Svara þessari athugasemd"
+msgstr "%s breytti stöðu athugasemdar í %s"
 
 #: wp-content/plugins/akismet/admin.php:680
 #, fuzzy
