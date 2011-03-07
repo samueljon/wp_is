@@ -29,7 +29,7 @@ h3. Staða þýddra strengja
 
 h3. Að þýðingu lokinni
 
-Þegar búið er að fullþýða WordPress yfir á íslensku þá er mjög líklegt að þörf sé á að samræma hugtök og ýmis orðasambönd innan kerfisins. Þar af leiðandi er það óskandi að á þeim tíma verði komnir fleiri áhugasamir þáttakendur inn í verkefnið og geti lagt lið við að fínpússa og betrumbæta þýðinguna og jafnframt gera hana heilsteyptari. 
+Þegar búið er að fullþýða WordPress yfir á íslensku þá er mjög líklegt að þörf sé á að samræma hugtök og ýmis orðasambönd innan kerfisins. Þar af leiðandi er það óskandi að á þeim tíma verði komnir fleiri áhugasamir þáttakendur inn í verkefnið og geti lagt lið við að fínpússa og betrumbæta þýðinguna og jafnframt gert hana heilsteyptari. 
 
 h2. Aðrar markverðar breytingar
 
