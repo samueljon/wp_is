@@ -1,14 +1,16 @@
-h1. Þýðing fyrir Vefumsjónakerfið Wordpress 3.0.x og nýrri útgáfur.
+h1. Þýðing fyrir Vefumsjónakerfið Wordpress 3.0.x og nýrri útgáfur
 
-Byggt á grunni eldri þýðinga frá:
+h2. Inngangur
 
-* http://www.binni.is/wordpress/
-* http://www.axelrafn.org/2010/02/wordpress-2-9-1-a-islensku/
+Þessi kóðahirsla inniheldur þýðingu á WordPress og stór hluti strengja eða rúm 60% eru byggð á grunni eldri þýðinga frá:
+
+* "http://www.binni.is/wordpress/":http://www.binni.is/wordpress/
+* "http://www.axelrafn.org/2010/02/wordpress-2-9-1-a-islensku/":http://www.axelrafn.org/2010/02/wordpress-2-9-1-a-islensku/
 
 Öllum er velkomið að taka þátt í þessari vinnu og takmarkið er að koma þýðingunni inn hjá WordPress.org og gera íslenska þýðingu almennt aðgengilega öllum WordPress notendum, kerfisstjórum og forriturum. 
 
 
-h2. Virkjun á íslenskri þýðingu með WordPress.
+h2. Virkjun á íslenskri þýðingu með WordPress
 
 1. Kannaðu hvort mappan "languages" sé til staðar undir <WordPress vefrót>/wp-includes/. Ef mappan er ekki til staðar þá er óhætt að stofna hana.
 2. Komdu is_IS.mo skránni fyrir undir <WordPress vefrót>/wp-includes/
@@ -18,6 +20,7 @@ h2. Virkjun á íslenskri þýðingu með WordPress.
 h2. Staðan í grófum dráttum
 
 h3. Staða þýddra strengja 
+
 07. mar 2011 : 77% þýtt 3173 strengir ( 471 óljósir,228 óþýddir)
 01. mar 2011 : 76% þýtt 3173 strengir ( 471 óljósir,266 óþýddir)
 28. feb 2011 : 74% þýtt 3173 strengir ( 508 óljósir,293 óþýddir)
@@ -25,7 +28,8 @@ h3. Staða þýddra strengja
 22. feb 2011 : 66% þýtt 3186 strengir ( 661 óljósir,392 óþýddir)
 
 h3. Að þýðingu lokinni
-Þegar búið er að fullþýða WordPress yfir á íslensku þá er mjög líklegt að þörf sé á að samræma hugtök og ýmis orðasambönd innan kerfisins. Þess vegna vonast ég til þess að á þeim tíma verði komnir fleiri áhugasamir þáttakendur inn í verkefnið og geti lagt lið við að fínpússa og betrumbæta þýðinguna og jafnframt gera hana heilsteyptari. 
+
+Þegar búið er að fullþýða WordPress yfir á íslensku þá er mjög líklegt að þörf sé á að samræma hugtök og ýmis orðasambönd innan kerfisins. Þar af leiðandi er það óskandi að á þeim tíma verði komnir fleiri áhugasamir þáttakendur inn í verkefnið og geti lagt lið við að fínpússa og betrumbæta þýðinguna og jafnframt gera hana heilsteyptari. 
 
 h2. Aðrar markverðar breytingar
 
