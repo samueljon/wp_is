@@ -13,7 +13,7 @@ h2. Inngangur
 h2. Virkjun á íslenskri þýðingu með WordPress
 
 1. Kannaðu hvort mappan "languages" sé til staðar undir <WordPress vefrót>/wp-includes/. Ef mappan er ekki til staðar þá er óhætt að stofna hana.
-2. Komdu is_IS.mo skránni fyrir undir <WordPress vefrót>/wp-includes/
+2. Komdu is_IS.mo skránni fyrir undir <WordPress vefrót>/wp-includes/languages
 3. Breyttu define "('WPLANG', '');" í "define ('WPLANG', 'is_IS');" undir <WordPress vefrót>/wp-config.php 
 4. Uppsetningu er þá lokið og það ætti að vera nóg að lesa inn vefinn að nýju í vafra og hann ætti að birtast á íslensku. Ef þetta gerist ekki þá er vert að skoða skráarrétindi á wp-includes og is_IS.mo skránni en vefþjónninn þarf að geta opnað möppuna og lesið skránna. 
 
