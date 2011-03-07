@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WordPress á íslensku\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-02-23 17:12:19+00:00\n"
-"PO-Revision-Date: 2011-03-01 21:17-0000\n"
+"PO-Revision-Date: 2011-03-07 20:38-0000\n"
 "Last-Translator: Samúel Jón Gunnarsson <sammi@villingaholt.nu>\n"
 "Language-Team: Íslenskir Wordpress Notendur <sammi@villingaholt.nu>\n"
 "MIME-Version: 1.0\n"
@@ -2410,15 +2410,15 @@ msgstr[1] "%s dagar"
 
 #: wp-includes/formatting.php:2436
 msgid "The email address entered did not appear to be a valid email address. Please enter a valid email address."
-msgstr ""
+msgstr "Netfangið sem þú gafst upp virðist ekki vera gilt netfang. Vinsamlegast sláðu inn gilt netfang."
 
 #: wp-includes/formatting.php:2520
 msgid "The WordPress address you entered did not appear to be a valid URL. Please enter a valid URL."
-msgstr ""
+msgstr "WordPress vefslóðin sem þú gafst upp virðist ekki vera gild vefslóð (URL). Vinsamlegast sláðu inn gilda vefslóð."
 
 #: wp-includes/formatting.php:2530
 msgid "The Site address you entered did not appear to be a valid URL. Please enter a valid URL."
-msgstr ""
+msgstr "Vefslóðin sem þú slóst inn virðist ekki vera gild vefslóð (URL). Vinsamlegast sláðu inn gilda vefslóð."
 
 #: wp-includes/formatting.php:2678
 msgid ", "
@@ -2498,7 +2498,7 @@ msgstr "Kerfisstjórn"
 
 #: wp-includes/general-template.php:405
 msgid "The <code>%s</code> option is deprecated for the family of <code>bloginfo()</code> functions."
-msgstr ""
+msgstr "Valmöguleikinn <code>%s</code> er nú úreltur fyrir fjölskylduna af <code>bloginfo()</code> föllum."
 
 #: wp-includes/general-template.php:405
 msgid "Use the <code>%s</code> option instead."
@@ -6080,11 +6080,11 @@ msgstr ""
 
 #: wp-admin/index.php:45
 msgid "<strong>Other WordPress News</strong> - Shows the feed from <a href=\"http://planet.wordpress.org\" target=\"_blank\">WordPress Planet</a>. You can configure it to show a different feed of your choosing."
-msgstr ""
+msgstr "<strong>Fleiri WordPress fréttir</strong> - birta fréttamola frá <a href=\"http://planet.wordpress.org\" target=\"_blank\">WordPress Planet</a>. Hægt er að skipta út fyrir aðra fréttaveitu að eigin vali. "
 
 #: wp-admin/index.php:46
 msgid "<strong>Plugins</strong> - Features the most popular, newest, and recently updated plugins from the WordPress.org Plugin Directory."
-msgstr ""
+msgstr "<strong>Íbætur</strong> - birta yfirlit yfir vinsælustu, nýjar og nýlega uppfærðar íbætur frá WordPress.org. "
 
 #: wp-admin/index.php:48
 msgid "<a href=\"http://codex.wordpress.org/Dashboard_SubPanel\" target=\"_blank\">Documentation on Dashboard</a>"
@@ -6699,7 +6699,7 @@ msgstr "Villa við aðgerð á mynd"
 #: wp-admin/custom-header.php:616
 #: wp-admin/custom-header.php:676
 msgid "Image could not be processed.  Please go back and try again."
-msgstr ""
+msgstr "Úrvinnsla myndar mistókst. Vinsamlegast farðu til baka og reyndu að nýju."
 
 #: wp-admin/custom-header.php:616
 #: wp-admin/custom-header.php:676
@@ -6718,7 +6718,7 @@ msgstr "Veldu þann hluta myndarinnar sem þú vilt nota í síðuhausnum."
 
 #: wp-admin/custom-header.php:634
 msgid "You need Javascript to choose a part of the image."
-msgstr ""
+msgstr "Þú þarft að hafa Javascript stuðning til að velja hluta myndar. "
 
 #: wp-admin/custom-header.php:648
 #, fuzzy
@@ -6745,7 +6745,7 @@ msgstr ""
 #: wp-admin/options-reading.php:48
 #: wp-admin/options-permalink.php:24
 msgid "You must click the Save Changes button at the bottom of the screen for new settings to take effect."
-msgstr ""
+msgstr "Þú verður að ýta á Vista breytingar hnappinn neðst á skjánnum til að nýjar stillingar taki gildi."
 
 #: wp-admin/options-discussion.php:22
 #, fuzzy
@@ -7086,7 +7086,7 @@ msgstr "Setja upp íbætur"
 
 #: wp-admin/plugin-install.php:45
 msgid "Plugins hook into WordPress to extend its functionality with custom features. Plugins are developed independently from WordPress core by thousands of developers all over the world. All plugins in the official <a href=\"%s\" target=\"_blank\">WordPress.org Plugin Directory</a> are compatible with the WordPress GPL v2 license. You can find new plugins to install by searching or browsing the Directory right here in your own Plugins section."
-msgstr ""
+msgstr "Íbætur krækja inn í WordPress og útvíkka þannig virkni með sérsniðnum möguleikum. Íbætur eru þróaðar af þúsundum forritara út um allan heim.  Allar íbætur sem finna má á <a href=\"%s\" target=\"_blank\">WordPress.org íbótaspjaldskránni</a> eru samhæfð WordPress GPL v2 leyfinu. Þú getur fundið nýjar íbætur til innsetningar með því að leita eða vafra um spjaldskránna hér í íbóta hluta vefsins. "
 
 #: wp-admin/plugin-install.php:46
 msgid "If you know what you&#8217;re looking for, Search is your best bet. The Search screen has options to search the WordPress.org Plugin Directory for a particular Term, Author, or Tag. You can also search the directory by selecting a popular tags. Tags in larger type mean more plugins have been labeled with that tag."
@@ -10122,23 +10122,23 @@ msgstr "Flýtihnappar"
 
 #: wp-admin/includes/image-edit.php:123
 msgid "Arrow: move by 10px"
-msgstr ""
+msgstr "Örvar: flytja um 10px"
 
 #: wp-admin/includes/image-edit.php:124
 msgid "Shift + arrow: move by 1px"
-msgstr ""
+msgstr "Shift + örvar: flytja um 1px"
 
 #: wp-admin/includes/image-edit.php:125
 msgid "Ctrl + arrow: resize by 10px"
-msgstr ""
+msgstr "Ctrl + örvar: breyta stærð um 10px"
 
 #: wp-admin/includes/image-edit.php:126
 msgid "Ctrl + Shift + arrow: resize by 1px"
-msgstr ""
+msgstr "Ctrl + Shift + örvar: breyta stærð um 1px"
 
 #: wp-admin/includes/image-edit.php:127
 msgid "Shift + drag: lock aspect ratio"
-msgstr ""
+msgstr "Shift + draga: læsa afstöðuhlutföllum"
 
 #: wp-admin/includes/image-edit.php:130
 #, fuzzy
@@ -10195,7 +10195,7 @@ msgstr "Allar stærðir nema þumla"
 
 #: wp-admin/includes/image-edit.php:195
 msgid "There are unsaved changes that will be lost.  'OK' to continue, 'Cancel' to return to the Image Editor."
-msgstr ""
+msgstr "Það eru óvistaðar breytingar sem muu tapast. 'Í lagi' til að halda áfra eða 'Hætta við' til að fara tilbaka í myndaritil. "
 
 #: wp-admin/includes/image-edit.php:428
 msgid "Cannot load image metadata."
@@ -10224,7 +10224,7 @@ msgstr "Villa kom upp við að kvarða mynd. Prófaðu að endurhlaða síðunni
 
 #: wp-admin/includes/image-edit.php:537
 msgid "Nothing to save, the image has not changed."
-msgstr ""
+msgstr "Ekkert til að vista þar sem mynd hefur ekki breyst."
 
 #: wp-admin/includes/image-edit.php:580
 msgid "Unable to save the image."
@@ -11101,7 +11101,7 @@ msgstr "Tiltekin skrá stóðst ekki upphleðslupróf."
 #: wp-admin/includes/file.php:345
 #: wp-admin/includes/file.php:465
 msgid "Sorry, this file type is not permitted for security reasons."
-msgstr ""
+msgstr "Því miður er þessi skráargerð ekki leyfileg af öryggisástæðum. "
 
 #: wp-admin/includes/file.php:365
 #: wp-admin/includes/file.php:487
@@ -11199,7 +11199,7 @@ msgstr "Til þess að framkvæma umbeðna aðgerð þarf að slá inn upplýsing
 
 #: wp-admin/includes/file.php:1012
 msgid "Please enter your FTP or SSH credentials to proceed."
-msgstr ""
+msgstr "Vinsamlegast sláðu inn FTP eða SSH aðgangsupplýsingar til að halda áfram."
 
 #: wp-admin/includes/file.php:1013
 msgid "FTP/SSH Username"
@@ -11211,7 +11211,7 @@ msgstr "FTP/SSH lykilorð"
 
 #: wp-admin/includes/file.php:1016
 msgid "Please enter your FTP credentials to proceed."
-msgstr ""
+msgstr "Vinsamlegat sláðu inn FTP aðgangsupplýsingar til að halda áfram. "
 
 #: wp-admin/includes/file.php:1017
 msgid "FTP Username"
@@ -11223,7 +11223,7 @@ msgstr "FTP lykilorð"
 
 #: wp-admin/includes/file.php:1022
 msgid "If you do not remember your credentials, you should contact your web host."
-msgstr ""
+msgstr "Ef þú manst ekki aðgangsupplýsingarnar þína hafðu þá samband við hýsingaraðilann þinn."
 
 #: wp-admin/includes/file.php:1026
 msgid "Hostname"
@@ -11344,7 +11344,7 @@ msgstr "Grunntengill við skrá eða möppu..."
 
 #: wp-admin/includes/internal-linking.php:105
 msgid "No search term specified. Showing recent items."
-msgstr ""
+msgstr "Engin leitarskilyrði voru tilgreind. Birti nýlega hluti."
 
 #: wp-admin/includes/user.php:142
 #: wp-admin/includes/user.php:144
@@ -12122,7 +12122,7 @@ msgstr "ekki í notkun"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:346
 msgid "Requires <code>%s</code> in <code>wp-config.php</code>."
-msgstr ""
+msgstr "Krefst þess að <code>%s</code> sé í <code>wp-config.php</code>."
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:363
 #: wp-admin/includes/class-wp-plugins-list-table.php:372
@@ -13151,7 +13151,7 @@ msgstr "Engin (stök síða)"
 
 #: wp-admin/includes/meta-boxes.php:581
 msgid "Need help? Use the Help tab in the upper right of your screen."
-msgstr ""
+msgstr "Hjálparþurfi ? Notaðu hjálparflipann ofarlega hægra megin á skjánum."
 
 #: wp-admin/includes/meta-boxes.php:609
 msgid "Visit Link"
@@ -14111,7 +14111,7 @@ msgstr "Íbótin <code>%s</code> var gerð <strong>óvirk</strong> vegna þessar
 
 #: wp-admin/plugins.php:354
 msgid "You cannot delete a plugin while it is active on the main site."
-msgstr ""
+msgstr "Þú getur ekki eytt íbót meðan hún er í notkun á aðalvef."
 
 #: wp-admin/plugins.php:356
 msgid "The plugin generated %d characters of <strong>unexpected output</strong> during activation.  If you notice &#8220;headers already sent&#8221; messages, problems with syndication feeds or other issues, try deactivating or removing this plugin."
@@ -14169,11 +14169,11 @@ msgstr ""
 
 #: wp-admin/edit-tags.php:179
 msgid "You can create groups of links by using link categories. Link category names must be unique and link categories are separate from the categories you use for posts."
-msgstr ""
+msgstr "Þú getur stofnað hópa af tenglum með því að nota tenglaflokka. Nafn tenglaflokks verður að vera einkvæmur og tenglaflokkar eru aðskildir flokkum sem notaðir eru með færslum."
 
 #: wp-admin/edit-tags.php:181
 msgid "You can assign keywords to your posts using Post Tags. Unlike categories, tags have no hierarchy, meaning there&#8217;s no relationship from one tag to another."
-msgstr ""
+msgstr "Þú getur merkt færslur með færslumerkjum. Ólíkt flokkum þá hafa merki ekki stigskiptingu sem þýðir að engin vensl er á milli þeirra. "
 
 #: wp-admin/edit-tags.php:184
 msgid "You can delete link categories in the Bulk Action pulldown, but that action does not delete the links within the category. Instead, it moves them to the default link category."
@@ -14181,15 +14181,15 @@ msgstr ""
 
 #: wp-admin/edit-tags.php:186
 msgid "What&#8217;s the difference between categories and tags? Normally, tags are ad-hoc keywords that identify important information in your post (names, subjects, etc) that may or may not recur in other posts, while categories are pre-determined sections. If you think of your site like a book, the categories are like the Table of Contents and the tags are like the terms in the index."
-msgstr ""
+msgstr "Hver er munurinn milli flokka og merkja ? Vanalega eru merki notuð til að merkja mikilvægar upplýsingar úr færslum (nöfn, viðfangsefni, osfrv.) og geta jafnvel komið fyrir í öðrum færslum. Flokkar eru hinsvegar fyrirfram ákveðin kafli. Ef þú hugsar um vefinn þinn eins og bók þá hægt að líkja flokkum við efnisyfirlit og merki sem atriðaskrá."
 
 #: wp-admin/edit-tags.php:189
 msgid "When adding a new category on this screen, you&#8217;ll fill in the following fields:"
-msgstr ""
+msgstr "Þegar flokkum er bætt við á þessum skjá þá þarft þú að fylla út eftirfarandi reiti:"
 
 #: wp-admin/edit-tags.php:191
 msgid "When adding a new tag on this screen, you&#8217;ll fill in the following fields:"
-msgstr ""
+msgstr "Þegar mekjum er bætt við á þessum skjá þá þarftu að fylla út eftirfarani reiti:"
 
 #: wp-admin/edit-tags.php:196
 #, fuzzy
@@ -14611,7 +14611,7 @@ msgstr "Þú hefur ekki tilskilin réttindi til að breyta tenglum á þessum ve
 
 #: wp-admin/options.php:136
 msgid "The <code>%1$s</code> setting is unregistered. Unregistered settings are deprecated. See http://codex.wordpress.org/Settings_API"
-msgstr ""
+msgstr "Stillingin <code>%1$s</code> er afskráð. Afskráðar stillingar eru úreltar. Sjá http://codex.wordpress.org/Settings_API"
 
 #: wp-admin/options.php:169
 msgid "All Settings"
@@ -14654,7 +14654,7 @@ msgstr "Kerfisstjórinn hefur bannað þér að vista."
 
 #: wp-mail.php:29
 msgid "Slow down cowboy, no need to check for new mails so often!"
-msgstr ""
+msgstr "Hægan kúreki, engin þörf á að athuga póstinn svona oft !"
 
 #: wp-mail.php:49
 msgid "There doesn&#8217;t seem to be any new mail."
@@ -14712,7 +14712,7 @@ msgstr "Svara þessari athugasemd"
 
 #: wp-content/plugins/akismet/akismet.php:274
 msgid "Comment was caught by wp_blacklist_check"
-msgstr ""
+msgstr "Athugasemd var gripinn af wp_blacklist_check"
 
 #: wp-content/plugins/akismet/akismet.php:281
 msgid "Akismet was unable to check this comment (response: %s), will automatically retry again later."
@@ -14745,11 +14745,11 @@ msgstr[1] ""
 
 #: wp-content/plugins/akismet/admin.php:14
 msgid "Akismet %s requires WordPress 3.0 or higher."
-msgstr ""
+msgstr "Akismet %s krefst útgáfu 3.0 af WordPress eða hærri."
 
 #: wp-content/plugins/akismet/admin.php:14
 msgid "Please <a href=\"%s\">upgrade WordPress</a> to a current version, or <a href=\"%s\">downgrade to version 2.4 of the Akismet plugin</a>."
-msgstr ""
+msgstr "Vinsamlegast <a href=\"%s\">uppfærðu WordPress</a> upp í gildandi útgáfu eða <a href=\"%s\">niðurfærðu Akismet íbótina niður í útgáfu 2.4</a>."
 
 #: wp-content/plugins/akismet/admin.php:27
 msgid "Comment History"
@@ -14803,7 +14803,7 @@ msgstr "Stillingar vistaðar."
 
 #: wp-content/plugins/akismet/admin.php:139
 msgid "<strong>Sign up success!</strong> Please check your email for your Akismet API Key and enter it below."
-msgstr ""
+msgstr "<strong>Nýskráning tókst !</strong> Vinsamlegast kannaðu tölvupóstinn eftir Akismet API lykli og sláðu hann inn hér fyrir neðan. "
 
 #: wp-content/plugins/akismet/admin.php:144
 #, fuzzy
@@ -14949,7 +14949,7 @@ msgstr[1] "Vandamál á vefþjóni eða neti veldur því að Akismet virkar ekk
 
 #: wp-content/plugins/akismet/admin.php:325
 msgid "Flagged as spam by Akismet"
-msgstr ""
+msgstr "Merkt sem amasending af Akismet"
 
 #: wp-content/plugins/akismet/admin.php:327
 #, fuzzy
@@ -15135,7 +15135,7 @@ msgstr "Viðhald"
 #. Not gettexted string WP_I18N_MAINT_MSG
 #: wp-includes/load.php:172
 msgid "Briefly unavailable for scheduled maintenance. Check back in a minute."
-msgstr ""
+msgstr "Stuttlega fjarverandi vegna skipulagðs viðhalds. Vinsamlegast kíktu aftur eftir nokkrar mínútur. "
 
 #. Not gettexted string WP_I18N_BAD_PREFIX
 #: wp-includes/load.php:365
