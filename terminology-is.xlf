@@ -1,0 +1,4031 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-14 09:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.7.0\n"
+
+# Essential terminology list for general software localisation
+# License: GPL
+# Copyright Youssef Chahibi, Friedel Wolff 2006
+#: terminology-is.poabort
+msgid "abort"
+msgstr "hætta við"
+
+#: terminology-is.poabsolute
+msgid "absolute"
+msgstr "nákvæmt"
+
+#: terminology-is.poabstract
+msgid "abstract"
+msgstr "hugrænn"
+
+#: terminology-is.poaccelerator
+msgid "accelerator"
+msgstr "flýtilykill"
+
+#: terminology-is.poaccent
+msgid "accent"
+msgstr "áhersla"
+
+#: terminology-is.poaccept
+msgid "accept"
+msgstr "samþykkja"
+
+#: terminology-is.poaccess
+msgid "access"
+msgstr "aðgangur"
+
+#: terminology-is.poaccessibility
+msgid "accessibility"
+msgstr "aðgengi"
+
+#: terminology-is.poaccessory
+msgid "accessory"
+msgstr "aðgangur"
+
+#: terminology-is.poaccount
+msgid "account"
+msgstr "reikningur"
+
+#: terminology-is.poaccuracy
+msgid "accuracy"
+msgstr "nákvæmni"
+
+#: terminology-is.poacquire
+msgid "acquire"
+msgstr "ná í"
+
+#: terminology-is.poacronym
+msgid "acronym"
+msgstr "skammstöfun"
+
+#: terminology-is.poaction
+msgid "action"
+msgstr "aðgerð"
+
+#: terminology-is.poactivate
+msgid "activate"
+msgstr "virkja"
+
+#: terminology-is.poactive
+msgid "active"
+msgstr "virkur"
+
+#: terminology-is.poactivity
+msgid "activity"
+msgstr "verknaður"
+
+#: terminology-is.poadapter
+msgid "adapter"
+msgstr "tengildi"
+
+#: terminology-is.poadd
+msgid "add"
+msgstr "bæta við"
+
+#: terminology-is.poaddress
+msgid "address"
+msgstr "vistfang"
+
+#: terminology-is.poadjust
+msgid "adjust"
+msgstr "aðlaga"
+
+#: terminology-is.poadministration
+msgid "administration"
+msgstr "kerfisstjórnun"
+
+#: terminology-is.poadministrator
+msgid "administrator"
+msgstr "kerfisstjóri"
+
+#: terminology-is.poadvanced
+msgid "advanced"
+msgstr "ítarlegt"
+
+#: terminology-is.poagent
+msgid "agent"
+msgstr "gerandi"
+
+#: terminology-is.poagree
+msgid "agree"
+msgstr "samþykkja"
+
+#: terminology-is.poagreement
+msgid "agreement"
+msgstr "samkomulag"
+
+#: terminology-is.poalarm
+msgid "alarm"
+msgstr "aðvörun"
+
+#: terminology-is.poalert
+msgid "alert"
+msgstr "viðvörun"
+
+#: terminology-is.poalgorithm
+msgid "algorithm"
+msgstr "algrím"
+
+#: terminology-is.poalias
+msgid "alias"
+msgstr "samnefni"
+
+#: terminology-is.poaliasing
+msgid "aliasing"
+msgstr "stöllun"
+
+#: terminology-is.poalign
+msgid "align"
+msgstr "jafna"
+
+#: terminology-is.poalignment
+msgid "alignment"
+msgstr "textastilling"
+
+#: terminology-is.poallow
+msgid "allow"
+msgstr "leyfa"
+
+#: terminology-is.poalphanumeric
+msgid "alphanumeric"
+msgstr "ritstafa"
+
+#: terminology-is.poalternative
+msgid "alternative"
+msgstr "vara"
+
+#: terminology-is.poamount
+msgid "amount"
+msgstr "upphæð"
+
+#: terminology-is.poanalysis
+msgid "analysis"
+msgstr "greining"
+
+#: terminology-is.poanchor
+msgid "anchor"
+msgstr "markstikla"
+
+#: terminology-is.poangle
+msgid "angle"
+msgstr "sjónarhorn"
+
+#: terminology-is.poanimate
+msgid "animate"
+msgstr "myndlífga"
+
+#: terminology-is.poanimation
+msgid "animation"
+msgstr "myndlífgun"
+
+#: terminology-is.poannounce
+msgid "announce"
+msgstr "tilkynna"
+
+#: terminology-is.poannouncement
+msgid "announcement"
+msgstr "tilkynning"
+
+#: terminology-is.poanonymous
+msgid "anonymous"
+msgstr "ótilgreindur"
+
+#: terminology-is.poanti-aliasing
+msgid "anti-aliasing"
+msgstr "afstöllun"
+
+#: terminology-is.poanti virus
+msgid "anti virus"
+msgstr "vírusvörn"
+
+#: terminology-is.poappear
+msgid "appear"
+msgstr "birtast"
+
+#: terminology-is.poappend
+msgid "append"
+msgstr "viðskeyting"
+
+#: terminology-is.poapplet
+msgid "applet"
+msgstr "biðlarastefja"
+
+#: terminology-is.poapplication
+msgid "application"
+msgstr "forrit"
+
+#: terminology-is.poapply
+msgid "apply"
+msgstr "virkja"
+
+#: terminology-is.poapproval
+msgid "approval"
+msgstr "samþykki"
+
+#: terminology-is.poapprove
+msgid "approve"
+msgstr "samþykkja"
+
+#: terminology-is.poapproximate
+msgid "approximate"
+msgstr "nálgað"
+
+#: terminology-is.poarbitrary
+msgid "arbitrary"
+msgstr "algildi"
+
+#: terminology-is.poarchive
+msgid "archive"
+msgstr "safnvista"
+
+#: terminology-is.poarea
+msgid "area"
+msgstr "svæði"
+
+#: terminology-is.poargument
+msgid "argument"
+msgstr "frumbreyta"
+
+#: terminology-is.poarrangement
+msgid "arrangement"
+msgstr "fyrirkomulag"
+
+#: terminology-is.poarrow
+msgid "arrow"
+msgstr "ör"
+
+#: terminology-is.poarticle
+msgid "article"
+msgstr "grein"
+
+#: terminology-is.poascending
+msgid "ascending"
+msgstr "hækkandi"
+
+#: terminology-is.poaspect
+msgid "aspect"
+msgstr "horf"
+
+#: terminology-is.poassign
+msgid "assign"
+msgstr "úthluta"
+
+#: terminology-is.poassignment
+msgid "assignment"
+msgstr "úthlutun"
+
+#: terminology-is.poasynchronous
+msgid "asynchronous"
+msgstr "ósamstilltur"
+
+#: terminology-is.poattach
+msgid "attach"
+msgstr "láta fylgja"
+
+#: terminology-is.poattachment
+msgid "attachment"
+msgstr "fylgiskjal"
+
+#: terminology-is.poattempt
+msgid "attempt"
+msgstr "tilraun"
+
+#: terminology-is.poattribute
+msgid "attribute"
+msgstr "eigind"
+
+#: terminology-is.poaudio
+msgid "audio"
+msgstr "hljóð"
+
+#: terminology-is.poauthenticate
+msgid "authenticate"
+msgstr "sannvotta"
+
+#: terminology-is.poauthentication
+msgid "authentication"
+msgstr "sannvottun"
+
+#: terminology-is.poauthorization
+msgid "authorization"
+msgstr "heimild"
+
+#: terminology-is.poauthorize
+msgid "authorize"
+msgstr "heimila"
+
+#: terminology-is.poauto
+msgid "auto"
+msgstr "sjálfvirkt"
+
+#: terminology-is.poautomatic
+msgid "automatic"
+msgstr "sjálfvirkur"
+
+#: terminology-is.poavailability
+msgid "availability"
+msgstr "tiltækileiki"
+
+#: terminology-is.poavailable
+msgid "available"
+msgstr "tiltækur"
+
+#: terminology-is.poaverage
+msgid "average"
+msgstr "meðal"
+
+#: terminology-is.poaxis
+msgid "axis"
+msgstr "ás"
+
+#: terminology-is.pobackbone
+msgid "backbone"
+msgstr "bakendi"
+
+#: terminology-is.poback-end
+msgid "back-end"
+msgstr "bakendi"
+
+#: terminology-is.pobackground
+msgid "background"
+msgstr "bakgrunnur"
+
+#: terminology-is.pobackup
+msgid "backup"
+msgstr "afrit"
+
+#: terminology-is.pobandwidth
+msgid "bandwidth"
+msgstr "bandvídd"
+
+#: terminology-is.pobanner
+msgid "banner"
+msgstr "borði"
+
+#: terminology-is.pobar
+msgid "bar"
+msgstr "slá"
+
+#: terminology-is.pobase
+msgid "base"
+msgstr "grunnur"
+
+#: terminology-is.pobeep
+msgid "beep"
+msgstr "píp"
+
+#: terminology-is.pobegin
+msgid "begin"
+msgstr "byrja"
+
+#: terminology-is.pobehavior
+msgid "behavior"
+msgstr "hegðun"
+
+#: terminology-is.pobinary
+msgid "binary"
+msgstr "tvíundakerfi"
+
+#: terminology-is.pobind
+msgid "bind"
+msgstr "binda"
+
+#: terminology-is.pobit
+msgid "bit"
+msgstr "biti"
+
+#: terminology-is.pobitmap
+msgid "bitmap"
+msgstr "bitamynd"
+
+#: terminology-is.poblank
+msgid "blank"
+msgstr "tómur"
+
+#: terminology-is.poblink
+msgid "blink"
+msgstr "blikka"
+
+#: terminology-is.poblock (unit)
+msgid "block (unit)"
+msgstr "blokk (eining)"
+
+#: terminology-is.poblock (verb)
+msgid "block (verb)"
+msgstr "loka (sögn)"
+
+#: terminology-is.poblog
+msgid "blog"
+msgstr "blogg"
+
+#: terminology-is.poblur
+msgid "blur"
+msgstr "móða"
+
+#: terminology-is.poboard
+msgid "board"
+msgstr "borð"
+
+#: terminology-is.pobody
+msgid "body"
+msgstr "meginmál"
+
+#: terminology-is.pobold
+msgid "bold"
+msgstr "feitletrað"
+
+#: terminology-is.pobookmarks
+msgid "bookmarks"
+msgstr "bókamerki"
+
+#: terminology-is.poboot
+msgid "boot"
+msgstr "ræsa"
+
+#: terminology-is.poborder
+msgid "border"
+msgstr "rammi"
+
+#: terminology-is.pobox
+msgid "box"
+msgstr "kassi"
+
+#: terminology-is.pobracket
+msgid "bracket"
+msgstr "hornklofi"
+
+#: terminology-is.pobranch
+msgid "branch"
+msgstr "grein"
+
+#: terminology-is.pobreak
+msgid "break"
+msgstr "rofstaður"
+
+#: terminology-is.pobreak (program)
+msgid "break (program)"
+msgstr "rofstaður (forritun)"
+
+#: terminology-is.pobreak point
+msgid "break point"
+msgstr "rofstaður"
+
+#: terminology-is.pobridge (verb)
+msgid "bridge (verb)"
+msgstr "brúa (sögn)"
+
+#: terminology-is.pobridge (noun)
+msgid "bridge (noun)"
+msgstr "brú (nafnorð)"
+
+#: terminology-is.pobroken
+msgid "broken"
+msgstr "brotið"
+
+#: terminology-is.pobrowse
+msgid "browse"
+msgstr "vafra"
+
+#: terminology-is.pobrowser
+msgid "browser"
+msgstr "vafri"
+
+#: terminology-is.pobuffer
+msgid "buffer"
+msgstr "biðminni"
+
+#: terminology-is.pobug
+msgid "bug"
+msgstr "villa"
+
+#: terminology-is.pobuild
+msgid "build"
+msgstr "byggja"
+
+#: terminology-is.pobuilt-in
+msgid "built-in"
+msgstr "innbyggt"
+
+#: terminology-is.pobullet
+msgid "bullet"
+msgstr "áherslumerki"
+
+#: terminology-is.pobus
+msgid "bus"
+msgstr "rás"
+
+#: terminology-is.pobutton
+msgid "button"
+msgstr "hnappur"
+
+#: terminology-is.pobyte
+msgid "byte"
+msgstr "bæti"
+
+#: terminology-is.pocable
+msgid "cable"
+msgstr "snúra"
+
+#: terminology-is.pocache
+msgid "cache"
+msgstr "skyndiminni"
+
+#: terminology-is.pocalculate
+msgid "calculate"
+msgstr "útreikningar"
+
+#: terminology-is.pocalculator
+msgid "calculator"
+msgstr "reiknivél"
+
+#: terminology-is.pocalendar
+msgid "calendar"
+msgstr "dagatal"
+
+#: terminology-is.pocall
+msgid "call"
+msgstr "kall"
+
+#: terminology-is.pocamera
+msgid "camera"
+msgstr "myndavél"
+
+#: terminology-is.pocancel
+msgid "cancel"
+msgstr "hætta við"
+
+#: terminology-is.pocapability
+msgid "capability"
+msgstr "geta"
+
+#: terminology-is.pocapacity
+msgid "capacity"
+msgstr "afkastageta"
+
+#: terminology-is.pocaption
+msgid "caption"
+msgstr "titill"
+
+#: terminology-is.pocapture
+msgid "capture"
+msgstr "grípa"
+
+#: terminology-is.pocard
+msgid "card"
+msgstr "spjald"
+
+#: terminology-is.pocase
+msgid "case"
+msgstr "tilfelli"
+
+#: terminology-is.pocase (font)
+msgid "case (font)"
+msgstr "stafstaða (letur)"
+
+#: terminology-is.pocatalog
+msgid "catalog"
+msgstr "listi"
+
+#: terminology-is.pocategory
+msgid "category"
+msgstr "flokkur"
+
+#: terminology-is.pocell
+msgid "cell"
+msgstr "eining"
+
+#: terminology-is.pocertificate
+msgid "certificate"
+msgstr "skírteini"
+
+#: terminology-is.pocertify
+msgid "certify"
+msgstr "staðfesta"
+
+#: terminology-is.pochange
+msgid "change"
+msgstr "breyta"
+
+#: terminology-is.pochannel
+msgid "channel"
+msgstr "rás"
+
+#: terminology-is.pocharacter
+msgid "character"
+msgstr "stafur"
+
+#: terminology-is.pocharset
+msgid "charset"
+msgstr "stafatafla"
+
+#: terminology-is.pochart
+msgid "chart"
+msgstr "línurit"
+
+#: terminology-is.pochat
+msgid "chat"
+msgstr "spjall"
+
+#: terminology-is.pocheck
+msgid "check"
+msgstr "haka"
+
+#: terminology-is.pocheck box
+msgid "check box"
+msgstr "gátreitur"
+
+#: terminology-is.pochild
+msgid "child"
+msgstr "barn"
+
+#: terminology-is.pochoice
+msgid "choice"
+msgstr "valkostir"
+
+#: terminology-is.pochoose
+msgid "choose"
+msgstr "velja"
+
+#: terminology-is.poclass
+msgid "class"
+msgstr "klasi"
+
+#: terminology-is.poclassic
+msgid "classic"
+msgstr "hefðbundið"
+
+#: terminology-is.poclassify
+msgid "classify"
+msgstr "flokka"
+
+#: terminology-is.poclean
+msgid "clean"
+msgstr "hreinsa"
+
+#: terminology-is.poclear
+msgid "clear"
+msgstr "hreinsa"
+
+#: terminology-is.poclick (noun)
+msgid "click (noun)"
+msgstr "smellur (nafnorð)"
+
+#: terminology-is.poclick (verb)
+msgid "click (verb)"
+msgstr "smella (sagnorð)"
+
+#: terminology-is.poclient
+msgid "client"
+msgstr "biðlari"
+
+#: terminology-is.poclip art
+msgid "clip art"
+msgstr "klippimyndir"
+
+#: terminology-is.poclip board
+msgid "clip board"
+msgstr "klemmuspjald"
+
+#: terminology-is.poclock
+msgid "clock"
+msgstr "klukka"
+
+#: terminology-is.poclose
+msgid "close"
+msgstr "loka"
+
+#: terminology-is.pocode (program)
+msgid "code (program)"
+msgstr "kóði"
+
+#: terminology-is.pocode (symbol)
+msgid "code (symbol)"
+msgstr "tákn"
+
+#: terminology-is.pocodec
+msgid "codec"
+msgstr "kóði"
+
+#: terminology-is.pocollapse
+msgid "collapse"
+msgstr "fella saman"
+
+#: terminology-is.pocollect
+msgid "collect"
+msgstr "safna"
+
+#: terminology-is.pocolumn
+msgid "column"
+msgstr "dálkur"
+
+#: terminology-is.pocombination
+msgid "combination"
+msgstr "tenging"
+
+#: terminology-is.pocomma
+msgid "comma"
+msgstr "komma"
+
+#: terminology-is.pocommand
+msgid "command"
+msgstr "skipun"
+
+#: terminology-is.pocomment
+msgid "comment"
+msgstr "athugasemd"
+
+#: terminology-is.pocommon
+msgid "common"
+msgstr "algengt"
+
+#: terminology-is.pocommunication
+msgid "communication"
+msgstr "samskipti"
+
+#: terminology-is.pocompact
+msgid "compact"
+msgstr "þjappa"
+
+#: terminology-is.pocompare
+msgid "compare"
+msgstr "bera saman"
+
+#: terminology-is.pocompatibility
+msgid "compatibility"
+msgstr "samhæfni"
+
+#: terminology-is.pocompatible
+msgid "compatible"
+msgstr "samhæft"
+
+#: terminology-is.pocompilation
+msgid "compilation"
+msgstr "safnplötur"
+
+#: terminology-is.pocompile
+msgid "compile"
+msgstr "vistþýða"
+
+#: terminology-is.pocompiler
+msgid "compiler"
+msgstr "þýðandi"
+
+#: terminology-is.pocomplete
+msgid "complete"
+msgstr "lokið"
+
+#: terminology-is.pocomponent
+msgid "component"
+msgstr "hluti"
+
+#: terminology-is.pocompose
+msgid "compose"
+msgstr "semja"
+
+#: terminology-is.pocomposition
+msgid "composition"
+msgstr "samsetning"
+
+#: terminology-is.pocompress
+msgid "compress"
+msgstr "þjappa"
+
+#: terminology-is.pocompression
+msgid "compression"
+msgstr "þjöppun"
+
+#: terminology-is.pocomputer
+msgid "computer"
+msgstr "tölva"
+
+#: terminology-is.pocomputing
+msgid "computing"
+msgstr "reikna út"
+
+#: terminology-is.poconcatenate
+msgid "concatenate"
+msgstr "setja saman"
+
+#: terminology-is.poconcurrent
+msgid "concurrent"
+msgstr "samtímis"
+
+#: terminology-is.pocondense
+msgid "condense"
+msgstr "þjappa"
+
+#: terminology-is.pocondition
+msgid "condition"
+msgstr "skilyrði"
+
+#: terminology-is.poconfiguration
+msgid "configuration"
+msgstr "stillingar"
+
+#: terminology-is.poconfigure
+msgid "configure"
+msgstr "stilla"
+
+#: terminology-is.poconfirm
+msgid "confirm"
+msgstr "staðfesta"
+
+#: terminology-is.poconfirmation
+msgid "confirmation"
+msgstr "staðfesta"
+
+#: terminology-is.poconflict
+msgid "conflict"
+msgstr "árekstrar"
+
+#: terminology-is.poconnect
+msgid "connect"
+msgstr "tengjast"
+
+#: terminology-is.poconnection
+msgid "connection"
+msgstr "tenging"
+
+#: terminology-is.poconsole
+msgid "console"
+msgstr "gluggi"
+
+#: terminology-is.pocontact (noun)
+msgid "contact (noun)"
+msgstr "tengiliður"
+
+#: terminology-is.pocontact (verb)
+msgid "contact (verb)"
+msgstr "tengjast"
+
+#: terminology-is.pocontent
+msgid "content"
+msgstr "innihald"
+
+#: terminology-is.pocontext
+msgid "context"
+msgstr "samhengi"
+
+#: terminology-is.pocontinue
+msgid "continue"
+msgstr "áfram"
+
+#: terminology-is.pocontrast
+msgid "contrast"
+msgstr "birtuskil"
+
+#: terminology-is.pocontributor
+msgid "contributor"
+msgstr "þátttakandi"
+
+#: terminology-is.pocontrol
+msgid "control"
+msgstr "stýring"
+
+#: terminology-is.poconversion
+msgid "conversion"
+msgstr "umbreyting"
+
+#: terminology-is.poconvert
+msgid "convert"
+msgstr "umbreyta"
+
+#: terminology-is.pocookie
+msgid "cookie"
+msgstr "smákökur"
+
+#: terminology-is.pocooperative
+msgid "cooperative"
+msgstr "samvinnuþýður"
+
+#: terminology-is.pocoordinate
+msgid "coordinate"
+msgstr "hnit"
+
+#: terminology-is.pocopy (noun)
+msgid "copy (noun)"
+msgstr "afrit"
+
+#: terminology-is.pocopy (verb)
+msgid "copy (verb)"
+msgstr "afrita"
+
+#: terminology-is.pocopy left
+msgid "copy left"
+msgstr "afrita vinstri"
+
+#: terminology-is.pocopy right
+msgid "copy right"
+msgstr "afrita hægri"
+
+#: terminology-is.pocorrect
+msgid "correct"
+msgstr "rétt"
+
+#: terminology-is.pocorrespondence
+msgid "correspondence"
+msgstr "samskipti"
+
+#: terminology-is.pocorrespondent
+msgid "correspondent"
+msgstr "bréfritari"
+
+#: terminology-is.pocorrupt
+msgid "corrupt"
+msgstr "brenglað"
+
+#: terminology-is.pocount
+msgid "count"
+msgstr "fjöldi"
+
+#: terminology-is.pocountable
+msgid "countable"
+msgstr "teljanlegt"
+
+#: terminology-is.pocrash
+msgid "crash"
+msgstr "hrun"
+
+#: terminology-is.pocreate
+msgid "create"
+msgstr "bý til"
+
+#: terminology-is.pocreation
+msgid "creation"
+msgstr "búin til"
+
+#: terminology-is.pocriteria
+msgid "criteria"
+msgstr "forsenda"
+
+#: terminology-is.pocrop
+msgid "crop"
+msgstr "sníða utan af"
+
+#: terminology-is.pocross-platform
+msgid "cross-platform"
+msgstr "þverkerfa"
+
+#: terminology-is.pocrypt
+msgid "crypt"
+msgstr "dulkóða"
+
+#: terminology-is.pocryptology
+msgid "cryptology"
+msgstr "dulkóðun"
+
+#: terminology-is.pocurrent
+msgid "current"
+msgstr "núverandi"
+
+#: terminology-is.pocursor
+msgid "cursor"
+msgstr "sérsniðið"
+
+#: terminology-is.pocurve
+msgid "curve"
+msgstr "boglína"
+
+#: terminology-is.pocustom
+msgid "custom"
+msgstr "sérsniðið"
+
+#: terminology-is.pocustomization
+msgid "customization"
+msgstr "sérsniðing"
+
+#: terminology-is.pocustomize
+msgid "customize"
+msgstr "sérsníða"
+
+#: terminology-is.pocut
+msgid "cut"
+msgstr "klippa"
+
+#: terminology-is.pocycle
+msgid "cycle"
+msgstr "umferð"
+
+#: terminology-is.podaemon
+msgid "daemon"
+msgstr "púki"
+
+#: terminology-is.podamage
+msgid "damage"
+msgstr "skaði"
+
+#: terminology-is.podata
+msgid "data"
+msgstr "gögn"
+
+#: terminology-is.podatabase
+msgid "database"
+msgstr "gagnagrunnur"
+
+#: terminology-is.podebug
+msgid "debug"
+msgstr "kemba"
+
+#: terminology-is.podebugger
+msgid "debugger"
+msgstr "aflúsari"
+
+#: terminology-is.podecimal
+msgid "decimal"
+msgstr "brot"
+
+#: terminology-is.podecode
+msgid "decode"
+msgstr "afkóta"
+
+#: terminology-is.podecompress
+msgid "decompress"
+msgstr "afþjappa"
+
+#: terminology-is.podecrease
+msgid "decrease"
+msgstr "minnka"
+
+#: terminology-is.podecrypt
+msgid "decrypt"
+msgstr "afkóða"
+
+#: terminology-is.podecryption
+msgid "decryption"
+msgstr "afkóðun"
+
+#: terminology-is.podefault
+msgid "default"
+msgstr "sjálfgefið"
+
+#: terminology-is.podefect
+msgid "defect"
+msgstr "skynja"
+
+#: terminology-is.podefine
+msgid "define"
+msgstr "skilgreina"
+
+#: terminology-is.podefinition
+msgid "definition"
+msgstr "skilgreining"
+
+#: terminology-is.podegree
+msgid "degree"
+msgstr "gráður"
+
+#: terminology-is.podelay
+msgid "delay"
+msgstr "töf"
+
+#: terminology-is.podelete
+msgid "delete"
+msgstr "eyða"
+
+#: terminology-is.podeletion
+msgid "deletion"
+msgstr "eytt"
+
+#: terminology-is.podelimiter
+msgid "delimiter"
+msgstr "afmarkari"
+
+#: terminology-is.podemo
+msgid "demo"
+msgstr "sýnishorn"
+
+#: terminology-is.podeny
+msgid "deny"
+msgstr "hafna"
+
+#: terminology-is.podependence
+msgid "dependence"
+msgstr "tengsl"
+
+#: terminology-is.podependency
+msgid "dependency"
+msgstr "tengsl"
+
+#: terminology-is.podepth
+msgid "depth"
+msgstr "dýpi"
+
+#: terminology-is.poderived
+msgid "derived"
+msgstr "leiddur af"
+
+#: terminology-is.podescending
+msgid "descending"
+msgstr "lækkandi"
+
+#: terminology-is.podescription
+msgid "description"
+msgstr "lýsing"
+
+#: terminology-is.podeselect
+msgid "deselect"
+msgstr "afvelja"
+
+#: terminology-is.podesign
+msgid "design"
+msgstr "hanna"
+
+#: terminology-is.podesktop
+msgid "desktop"
+msgstr "skjáborð"
+
+#: terminology-is.podestination
+msgid "destination"
+msgstr "áfangastaður"
+
+#: terminology-is.podestroy
+msgid "destroy"
+msgstr "eyðileggja"
+
+#: terminology-is.podetach
+msgid "detach"
+msgstr "aftengja"
+
+#: terminology-is.podetect
+msgid "detect"
+msgstr "skynja"
+
+#: terminology-is.podevelop
+msgid "develop"
+msgstr "þróa"
+
+#: terminology-is.podevelopment
+msgid "development"
+msgstr "þróun"
+
+#: terminology-is.podeveloper
+msgid "developer"
+msgstr "forritari"
+
+#: terminology-is.podevice
+msgid "device"
+msgstr "tæki"
+
+#: terminology-is.podiagram
+msgid "diagram"
+msgstr "skýringarmynd"
+
+#: terminology-is.podial
+msgid "dial"
+msgstr "hringja"
+
+#: terminology-is.podialog
+msgid "dialog"
+msgstr "svargluggi"
+
+#: terminology-is.podialup
+msgid "dialup"
+msgstr "innhringiaðgangur"
+
+#: terminology-is.podifference
+msgid "difference"
+msgstr "mismunur"
+
+#: terminology-is.podigit
+msgid "digit"
+msgstr "tala"
+
+#: terminology-is.podigital
+msgid "digital"
+msgstr "stafræn"
+
+#: terminology-is.podimension
+msgid "dimension"
+msgstr "stærð"
+
+#: terminology-is.podirectory
+msgid "directory"
+msgstr "skráasafn"
+
+#: terminology-is.podisable
+msgid "disable"
+msgstr "slökkva"
+
+#: terminology-is.podisc
+msgid "disc"
+msgstr "diskur"
+
+#: terminology-is.podiscard
+msgid "discard"
+msgstr "henda"
+
+#: terminology-is.podisconnect
+msgid "disconnect"
+msgstr "aftengja"
+
+#: terminology-is.podiscussion
+msgid "discussion"
+msgstr "umræða"
+
+#: terminology-is.podisk
+msgid "disk"
+msgstr "diskur"
+
+#: terminology-is.podispatch
+msgid "dispatch"
+msgstr "senda"
+
+#: terminology-is.podisplay
+msgid "display"
+msgstr "birta"
+
+#: terminology-is.podistort
+msgid "distort"
+msgstr "aflaga"
+
+#: terminology-is.podistribute
+msgid "distribute"
+msgstr "dreifa"
+
+#: terminology-is.podistribution
+msgid "distribution"
+msgstr "dreifing"
+
+#: terminology-is.podistributor
+msgid "distributor"
+msgstr "dreifingaraðili"
+
+#: terminology-is.podock
+msgid "dock"
+msgstr "á spjald"
+
+#: terminology-is.podocument
+msgid "document"
+msgstr "skjal"
+
+#: terminology-is.podocumentation
+msgid "documentation"
+msgstr "skjölun"
+
+#: terminology-is.podomain
+msgid "domain"
+msgstr "lén"
+
+#: terminology-is.podouble click
+msgid "double click"
+msgstr "tvísmellt"
+
+#: terminology-is.podownload
+msgid "download"
+msgstr "hlaða niður"
+
+#: terminology-is.podrag
+msgid "drag"
+msgstr "draga"
+
+#: terminology-is.podraw
+msgid "draw"
+msgstr "jafntefli"
+
+#: terminology-is.podriver
+msgid "driver"
+msgstr "rekill"
+
+#: terminology-is.podual
+msgid "dual"
+msgstr "tvöfalt"
+
+#: terminology-is.podump
+msgid "dump"
+msgstr "sturta"
+
+#: terminology-is.poduplicate
+msgid "duplicate"
+msgstr "afrita"
+
+#: terminology-is.podynamic
+msgid "dynamic"
+msgstr "virkur"
+
+#: terminology-is.poecho
+msgid "echo"
+msgstr "bergmál"
+
+#: terminology-is.poedit
+msgid "edit"
+msgstr "breyta"
+
+#: terminology-is.poedition
+msgid "edition"
+msgstr "útgáfa"
+
+#: terminology-is.poeditor
+msgid "editor"
+msgstr "ritill"
+
+#: terminology-is.poeffect
+msgid "effect"
+msgstr "áhrif"
+
+#: terminology-is.poeject
+msgid "eject"
+msgstr "ýta út"
+
+#: terminology-is.poelectronic
+msgid "electronic"
+msgstr "raftæknilegur"
+
+#: terminology-is.poelement
+msgid "element"
+msgstr "einindi"
+
+#: terminology-is.poemail
+msgid "email"
+msgstr "tölvupóstfang"
+
+#: terminology-is.poembed
+msgid "embed"
+msgstr "ívefja"
+
+#: terminology-is.poemoticon
+msgid "emoticon"
+msgstr "broskarlar"
+
+#: terminology-is.poempty
+msgid "empty"
+msgstr "tómt"
+
+#: terminology-is.poemulate
+msgid "emulate"
+msgstr "herma"
+
+#: terminology-is.poemulation
+msgid "emulation"
+msgstr "hermun"
+
+#: terminology-is.poemulator
+msgid "emulator"
+msgstr "hermir"
+
+#: terminology-is.poenable
+msgid "enable"
+msgstr "virkja"
+
+#: terminology-is.poenabled
+msgid "enabled"
+msgstr "virkur"
+
+#: terminology-is.poencode
+msgid "encode"
+msgstr "dulkóða"
+
+#: terminology-is.poencoding
+msgid "encoding"
+msgstr "dulkóðun"
+
+#: terminology-is.poencrypt
+msgid "encrypt"
+msgstr "dulrita"
+
+#: terminology-is.poencrypted
+msgid "encrypted"
+msgstr "dulritað"
+
+#: terminology-is.poencryption
+msgid "encryption"
+msgstr "dulritun"
+
+#: terminology-is.poengine
+msgid "engine"
+msgstr "vél"
+
+#: terminology-is.poenhancement
+msgid "enhancement"
+msgstr "endurbót"
+
+#: terminology-is.poenlarge
+msgid "enlarge"
+msgstr "eða stækka"
+
+#: terminology-is.poenlargement
+msgid "enlargement"
+msgstr "stækkun"
+
+#: terminology-is.poenter
+msgid "enter"
+msgstr "færa inn"
+
+#: terminology-is.poentertainment
+msgid "entertainment"
+msgstr "skemmtun"
+
+#: terminology-is.poentry
+msgid "entry"
+msgstr "færsla"
+
+#: terminology-is.poenvironment
+msgid "environment"
+msgstr "umhverfi"
+
+#: terminology-is.poequalizer
+msgid "equalizer"
+msgstr "hljóðblandari"
+
+#: terminology-is.poerase
+msgid "erase"
+msgstr "eyða"
+
+#: terminology-is.poerror
+msgid "error"
+msgstr "villa"
+
+#: terminology-is.poescape
+msgid "escape"
+msgstr "sleppa"
+
+#: terminology-is.poevaluation
+msgid "evaluation"
+msgstr "reynslutími"
+
+#: terminology-is.poevent
+msgid "event"
+msgstr "atburður"
+
+#: terminology-is.poexception
+msgid "exception"
+msgstr "frávik"
+
+#: terminology-is.poexecutable
+msgid "executable"
+msgstr "keyrsluskrá"
+
+#: terminology-is.poexecute
+msgid "execute"
+msgstr "keyra"
+
+#: terminology-is.poexisting
+msgid "existing"
+msgstr "til fyrir"
+
+#: terminology-is.poexit
+msgid "exit"
+msgstr "hætta"
+
+#: terminology-is.poexpand
+msgid "expand"
+msgstr "þenja út"
+
+#: terminology-is.poexpansion
+msgid "expansion"
+msgstr "útþensla"
+
+#: terminology-is.poexplore
+msgid "explore"
+msgstr "kanna"
+
+#: terminology-is.poexport
+msgid "export"
+msgstr "valmöguleikar"
+
+#: terminology-is.poexpression
+msgid "expression"
+msgstr "segð"
+
+#: terminology-is.poextend
+msgid "extend"
+msgstr "teygt"
+
+#: terminology-is.poextensible
+msgid "extensible"
+msgstr "víkkanlegur"
+
+#: terminology-is.poextension
+msgid "extension"
+msgstr "nafnauki"
+
+#: terminology-is.poexternal
+msgid "external"
+msgstr "ytri"
+
+#: terminology-is.poextra
+msgid "extra"
+msgstr "auka"
+
+#: terminology-is.poextract
+msgid "extract"
+msgstr "afþjappa"
+
+#: terminology-is.pofail
+msgid "fail"
+msgstr "mistókst"
+
+#: terminology-is.pofatal
+msgid "fatal"
+msgstr "banvænt"
+
+#: terminology-is.pofault
+msgid "fault"
+msgstr "villa"
+
+#: terminology-is.pofavorite
+msgid "favorite"
+msgstr "eftirlætissmappa"
+
+#: terminology-is.pofeature
+msgid "feature"
+msgstr "smíða nýtt"
+
+#: terminology-is.pofeed
+msgid "feed"
+msgstr "straumur"
+
+#: terminology-is.pofeedback
+msgid "feedback"
+msgstr "viðbrögð"
+
+#: terminology-is.pofetch
+msgid "fetch"
+msgstr "sækja"
+
+#: terminology-is.pofield
+msgid "field"
+msgstr "svæði"
+
+#: terminology-is.pofigure
+msgid "figure"
+msgstr "mynd"
+
+#: terminology-is.pofile
+msgid "file"
+msgstr "skrá"
+
+#: terminology-is.pofill
+msgid "fill"
+msgstr "fylling"
+
+#: terminology-is.pofilter
+msgid "filter"
+msgstr "sía"
+
+#: terminology-is.pofind
+msgid "find"
+msgstr "fara inn"
+
+#: terminology-is.pofirewall
+msgid "firewall"
+msgstr "eldveggur"
+
+#: terminology-is.pofirmware
+msgid "firmware"
+msgstr "fastbúnaður"
+
+#: terminology-is.pofit
+msgid "fit"
+msgstr "laga að"
+
+#: terminology-is.pofix
+msgid "fix"
+msgstr "póstfax"
+
+#: terminology-is.poflag
+msgid "flag"
+msgstr "stöðuvísir"
+
+#: terminology-is.poflash
+msgid "flash"
+msgstr "flass"
+
+#: terminology-is.poflat
+msgid "flat"
+msgstr "flatt"
+
+#: terminology-is.poflip
+msgid "flip"
+msgstr "spegla"
+
+#: terminology-is.pofloat (verb)
+msgid "float (verb)"
+msgstr "fljóta"
+
+#: terminology-is.poflood
+msgid "flood"
+msgstr "flæða"
+
+#: terminology-is.pofloppy
+msgid "floppy"
+msgstr "disklingur"
+
+#: terminology-is.pofolder
+msgid "folder"
+msgstr "möppu"
+
+#: terminology-is.pofont
+msgid "font"
+msgstr "leturgerð"
+
+#: terminology-is.pofooter
+msgid "footer"
+msgstr "fótur"
+
+#: terminology-is.poform
+msgid "form"
+msgstr "eyðublað"
+
+#: terminology-is.poformat (noun)
+msgid "format (noun)"
+msgstr "sniðmát"
+
+#: terminology-is.poformat (verb)
+msgid "format (verb)"
+msgstr "sníða"
+
+#: terminology-is.poformatted
+msgid "formatted"
+msgstr "forsniðið"
+
+#: terminology-is.poformula
+msgid "formula"
+msgstr "formúla"
+
+#: terminology-is.poforum
+msgid "forum"
+msgstr "umræðusvæði"
+
+#: terminology-is.pofragment
+msgid "fragment"
+msgstr "brot"
+
+#: terminology-is.poframe
+msgid "frame"
+msgstr "rammi"
+
+#: terminology-is.poframe set
+msgid "frame set"
+msgstr "rammar"
+
+#: terminology-is.poframework
+msgid "framework"
+msgstr "uppbygging"
+
+#: terminology-is.pofree software
+msgid "free software"
+msgstr "frjáls hugbúnaður"
+
+#: terminology-is.pofreeze
+msgid "freeze"
+msgstr "frysta"
+
+#: terminology-is.pofrequency
+msgid "frequency"
+msgstr "tíðni"
+
+#: terminology-is.pofront end
+msgid "front end"
+msgstr "framendi"
+
+#: terminology-is.pofunction
+msgid "function"
+msgstr "fall"
+
+#: terminology-is.pogallery
+msgid "gallery"
+msgstr "myndasafn"
+
+#: terminology-is.pogame
+msgid "game"
+msgstr "leikur"
+
+#: terminology-is.pogateway
+msgid "gateway"
+msgstr "hlið"
+
+#: terminology-is.pogenerate
+msgid "generate"
+msgstr "búa til lyklapar"
+
+#: terminology-is.pogeneration
+msgid "generation"
+msgstr "gerð"
+
+#: terminology-is.pogenerator
+msgid "generator"
+msgstr "rafall"
+
+#: terminology-is.pogeneric
+msgid "generic"
+msgstr "almennt"
+
+#: terminology-is.pogeometric
+msgid "geometric"
+msgstr "rúmfræðilegur"
+
+#: terminology-is.pogeometry
+msgid "geometry"
+msgstr "stærð"
+
+#: terminology-is.pograb
+msgid "grab"
+msgstr "grípa"
+
+#: terminology-is.pogradient
+msgid "gradient"
+msgstr "litblöndun"
+
+#: terminology-is.pograin
+msgid "grain"
+msgstr "ögn"
+
+#: terminology-is.pograph
+msgid "graph"
+msgstr "línurit"
+
+#: terminology-is.pographic
+msgid "graphic"
+msgstr "mynd"
+
+#: terminology-is.pographical
+msgid "graphical"
+msgstr "sýndur á grafi"
+
+#: terminology-is.pographics
+msgid "graphics"
+msgstr "myndefni"
+
+#: terminology-is.pogray-scale
+msgid "gray-scale"
+msgstr "gráskali"
+
+#: terminology-is.pogrid
+msgid "grid"
+msgstr "hnitanet"
+
+#: terminology-is.pogroup
+msgid "group"
+msgstr "hópur"
+
+#: terminology-is.poguess
+msgid "guess"
+msgstr "giska"
+
+#: terminology-is.poguest
+msgid "guest"
+msgstr "gestur"
+
+#: terminology-is.pohandle (noun)
+msgid "handle (noun)"
+msgstr "handfang"
+
+#: terminology-is.pohandle (verb)
+msgid "handle (verb)"
+msgstr "meðhöndla"
+
+#: terminology-is.pohandler
+msgid "handler"
+msgstr "meðhöndlari"
+
+#: terminology-is.pohardware
+msgid "hardware"
+msgstr "vélbúnaður"
+
+#: terminology-is.pohash
+msgid "hash"
+msgstr "strikuð"
+
+#: terminology-is.pohead
+msgid "head"
+msgstr "haus"
+
+#: terminology-is.poheader
+msgid "header"
+msgstr "haus"
+
+#: terminology-is.poheight
+msgid "height"
+msgstr "hæð"
+
+#: terminology-is.pohelp
+msgid "help"
+msgstr "hjálp"
+
+#: terminology-is.pohide
+msgid "hide"
+msgstr "fela"
+
+#: terminology-is.pohierarchy
+msgid "hierarchy"
+msgstr "stigskipun"
+
+#: terminology-is.pohigh light
+msgid "high light"
+msgstr "litun"
+
+#: terminology-is.pohistory
+msgid "history"
+msgstr "skipanasaga"
+
+#: terminology-is.pohost
+msgid "host"
+msgstr "netþjón"
+
+#: terminology-is.pohostname
+msgid "hostname"
+msgstr "netfang"
+
+#: terminology-is.pohyperlink
+msgid "hyperlink"
+msgstr "tengill"
+
+#: terminology-is.pohypertext
+msgid "hypertext"
+msgstr "stiklutexti"
+
+#: terminology-is.poicon
+msgid "icon"
+msgstr "táknmynd"
+
+#: terminology-is.poidentify
+msgid "identify"
+msgstr "bera kennsl á"
+
+#: terminology-is.poidle
+msgid "idle"
+msgstr "aðgerðalaus"
+
+#: terminology-is.poignore
+msgid "ignore"
+msgstr "hunsa"
+
+#: terminology-is.poimage
+msgid "image"
+msgstr "mynd"
+
+#: terminology-is.poimplement
+msgid "implement"
+msgstr "útfæra"
+
+#: terminology-is.poimport
+msgid "import"
+msgstr "flytja inn"
+
+#: terminology-is.poinactive
+msgid "inactive"
+msgstr "óvirkt"
+
+#: terminology-is.poinbox
+msgid "inbox"
+msgstr "innhólf"
+
+#: terminology-is.poinch
+msgid "inch"
+msgstr "tomma"
+
+#: terminology-is.poinclude
+msgid "include"
+msgstr "taka með"
+
+#: terminology-is.poincoming
+msgid "incoming"
+msgstr "viðtaka"
+
+#: terminology-is.poincompatible
+msgid "incompatible"
+msgstr "ósamhæfður"
+
+#: terminology-is.poincrease
+msgid "increase"
+msgstr "auka"
+
+#: terminology-is.poincrement
+msgid "increment"
+msgstr "hækka"
+
+#: terminology-is.poindent
+msgid "indent"
+msgstr "draga inn"
+
+#: terminology-is.poindex
+msgid "index"
+msgstr "atriðaskrá"
+
+#: terminology-is.poindice
+msgid "indice"
+msgstr "atriðaskrá"
+
+#: terminology-is.poinfect
+msgid "infect"
+msgstr "sýkja"
+
+#: terminology-is.poinfinite
+msgid "infinite"
+msgstr "takmarkalaust"
+
+#: terminology-is.poinformation
+msgid "information"
+msgstr "upplýsingar"
+
+#: terminology-is.poinfrared
+msgid "infrared"
+msgstr "innrauður"
+
+#: terminology-is.poinitial
+msgid "initial"
+msgstr "upphaf"
+
+#: terminology-is.poinitialize
+msgid "initialize"
+msgstr "frumstilla"
+
+#: terminology-is.poinput
+msgid "input"
+msgstr "inntak"
+
+#: terminology-is.poinsert
+msgid "insert"
+msgstr "setja inn"
+
+#: terminology-is.poinstall
+msgid "install"
+msgstr "setja inn"
+
+#: terminology-is.poinstaller
+msgid "installer"
+msgstr "innsetning"
+
+#: terminology-is.poinstance
+msgid "instance"
+msgstr "tilvik"
+
+#: terminology-is.poinstruction
+msgid "instruction"
+msgstr "leiðbeiningar"
+
+#: terminology-is.pointeger
+msgid "integer"
+msgstr "heiltala"
+
+#: terminology-is.pointegral
+msgid "integral"
+msgstr "heill"
+
+#: terminology-is.pointegrate
+msgid "integrate"
+msgstr "samþætta"
+
+#: terminology-is.pointegration
+msgid "integration"
+msgstr "samþætting"
+
+#: terminology-is.pointegrity
+msgid "integrity"
+msgstr "heiðarleiki"
+
+#: terminology-is.pointensity
+msgid "intensity"
+msgstr "styrkur"
+
+#: terminology-is.pointeractivity
+msgid "interactivity"
+msgstr "gagnvirkni"
+
+#: terminology-is.pointerface
+msgid "interface"
+msgstr "viðmót"
+
+#: terminology-is.pointernal
+msgid "internal"
+msgstr "innri"
+
+#: terminology-is.pointernet
+msgid "internet"
+msgstr "internetið"
+
+#: terminology-is.pointerrupt
+msgid "interrupt"
+msgstr "grípa inn í"
+
+#: terminology-is.poinvalid
+msgid "invalid"
+msgstr "ógildur"
+
+#: terminology-is.poinverse
+msgid "inverse"
+msgstr "andhverfa"
+
+#: terminology-is.poinvert
+msgid "invert"
+msgstr "öfugt"
+
+#: terminology-is.poinvoke
+msgid "invoke"
+msgstr "kalla"
+
+#: terminology-is.poitalic
+msgid "italic"
+msgstr "skáletrað"
+
+#: terminology-is.poitem
+msgid "item"
+msgstr "hlutur"
+
+#: terminology-is.poiteration
+msgid "iteration"
+msgstr "ítranir"
+
+#: terminology-is.pojag
+msgid "jag"
+msgstr "oddur"
+
+#: terminology-is.pojam
+msgid "jam"
+msgstr "festa"
+
+#: terminology-is.pojob
+msgid "job"
+msgstr "verk"
+
+#: terminology-is.pojoin
+msgid "join"
+msgstr "fara inn"
+
+#: terminology-is.pojoy stick
+msgid "joy stick"
+msgstr "stýripinni"
+
+#: terminology-is.pojump
+msgid "jump"
+msgstr "stökkva"
+
+#: terminology-is.pojunk
+msgid "junk"
+msgstr "ruslpóstur"
+
+#: terminology-is.pojustify
+msgid "justify"
+msgstr "jafna"
+
+#: terminology-is.pokeep
+msgid "keep"
+msgstr "halda"
+
+#: terminology-is.pokernel
+msgid "kernel"
+msgstr "kjarni"
+
+#: terminology-is.pokey
+msgid "key"
+msgstr "lykill"
+
+#: terminology-is.pokeyboard
+msgid "keyboard"
+msgstr "lyklaborð"
+
+#: terminology-is.pokey stroke
+msgid "key stroke"
+msgstr "ásláttur"
+
+#: terminology-is.pokey word
+msgid "key word"
+msgstr "stikkorð"
+
+#: terminology-is.polabel
+msgid "label"
+msgstr "merking"
+
+#: terminology-is.polandscape
+msgid "landscape"
+msgstr "lárétt"
+
+#: terminology-is.polanguage
+msgid "language"
+msgstr "tungumál"
+
+#: terminology-is.polaptop
+msgid "laptop"
+msgstr "fartölva"
+
+#: terminology-is.polaunch
+msgid "launch"
+msgstr "keyra"
+
+#: terminology-is.polayer
+msgid "layer"
+msgstr "lag"
+
+#: terminology-is.polayout
+msgid "layout"
+msgstr "útlit"
+
+#: terminology-is.polength
+msgid "length"
+msgstr "lengd"
+
+#: terminology-is.policense
+msgid "license"
+msgstr "notkunarskilmálar"
+
+#: terminology-is.poline
+msgid "line"
+msgstr "notkunarskilmálar"
+
+#: terminology-is.polink
+msgid "link"
+msgstr "vísun"
+
+#: terminology-is.polist
+msgid "list"
+msgstr "listi"
+
+#: terminology-is.poload
+msgid "load"
+msgstr "hlaða inn"
+
+#: terminology-is.polocal
+msgid "local"
+msgstr "staðbundið"
+
+#: terminology-is.polocalization
+msgid "localization"
+msgstr "staðfærsla"
+
+#: terminology-is.polocation
+msgid "location"
+msgstr "staðsetning"
+
+#: terminology-is.polog
+msgid "log"
+msgstr "annáll"
+
+#: terminology-is.polookup
+msgid "lookup"
+msgstr "finna"
+
+#: terminology-is.polower-case
+msgid "lower-case"
+msgstr "lágstafir"
+
+#: terminology-is.pomachine
+msgid "machine"
+msgstr "örgjörvi"
+
+#: terminology-is.pomain board
+msgid "main board"
+msgstr "aðalborð"
+
+#: terminology-is.pomaintainer
+msgid "maintainer"
+msgstr "haldið við af"
+
+#: terminology-is.pomaintenance
+msgid "maintenance"
+msgstr "viðhald"
+
+#: terminology-is.pomanage
+msgid "manage"
+msgstr "sýsla með"
+
+#: terminology-is.pomanagement
+msgid "management"
+msgstr "umsýsla"
+
+#: terminology-is.pomanager
+msgid "manager"
+msgstr "yfirmaður"
+
+#: terminology-is.pomanual
+msgid "manual"
+msgstr "man"
+
+#: terminology-is.pomargin
+msgid "margin"
+msgstr "spássía"
+
+#: terminology-is.pomark
+msgid "mark"
+msgstr "merkja"
+
+#: terminology-is.pomaster
+msgid "master"
+msgstr "yfirsíða"
+
+#: terminology-is.pomatch
+msgid "match"
+msgstr "passar við"
+
+#: terminology-is.pomaximize
+msgid "maximize"
+msgstr "hámarka"
+
+#: terminology-is.pomemory
+msgid "memory"
+msgstr "minni"
+
+#: terminology-is.pomenu
+msgid "menu"
+msgstr "valmynd"
+
+#: terminology-is.pomerge
+msgid "merge"
+msgstr "bræða saman"
+
+#: terminology-is.pomessage
+msgid "message"
+msgstr "skilaboð"
+
+#: terminology-is.pomethod
+msgid "method"
+msgstr "aðferð"
+
+#: terminology-is.pominimize
+msgid "minimize"
+msgstr "minnka"
+
+#: terminology-is.pomode
+msgid "mode"
+msgstr "hamur"
+
+#: terminology-is.pomodem
+msgid "modem"
+msgstr "mótald"
+
+#: terminology-is.pomoderator
+msgid "moderator"
+msgstr "ritstjóri"
+
+#: terminology-is.pomodify
+msgid "modify"
+msgstr "breyta"
+
+#: terminology-is.pomodule
+msgid "module"
+msgstr "eining"
+
+#: terminology-is.pomonitor
+msgid "monitor"
+msgstr "skjár"
+
+#: terminology-is.pomosaic
+msgid "mosaic"
+msgstr "mósaík"
+
+#: terminology-is.pomotion
+msgid "motion"
+msgstr "hreyfing"
+
+#: terminology-is.pomouse
+msgid "mouse"
+msgstr "mús"
+
+#: terminology-is.pomove
+msgid "move"
+msgstr "færa"
+
+#: terminology-is.pomultimedia
+msgid "multimedia"
+msgstr "margmiðlun"
+
+#: terminology-is.pomultitasking
+msgid "multitasking"
+msgstr "fjölverkavinnsla"
+
+#: terminology-is.poname
+msgid "name"
+msgstr "heiti"
+
+#: terminology-is.ponavigation
+msgid "navigation"
+msgstr "stjórn"
+
+#: terminology-is.ponavigator
+msgid "navigator"
+msgstr "uppbygging"
+
+#: terminology-is.ponetwork
+msgid "network"
+msgstr "net"
+
+#: terminology-is.ponews group
+msgid "news group"
+msgstr "umræðuhópur"
+
+#: terminology-is.ponext
+msgid "next"
+msgstr "næsti"
+
+#: terminology-is.ponick name
+msgid "nick name"
+msgstr "gælunafn"
+
+#: terminology-is.pono
+msgid "no"
+msgstr "nei"
+
+#: terminology-is.ponode
+msgid "node"
+msgstr "tengipunktur"
+
+#: terminology-is.ponotation
+msgid "notation"
+msgstr "ritun"
+
+#: terminology-is.ponote
+msgid "note"
+msgstr "athugasemd"
+
+#: terminology-is.ponotebook
+msgid "notebook"
+msgstr "fartölva"
+
+#: terminology-is.ponotification
+msgid "notification"
+msgstr "tilkynning"
+
+#: terminology-is.ponotify
+msgid "notify"
+msgstr "aðvara"
+
+#: terminology-is.ponull
+msgid "null"
+msgstr "núll"
+
+#: terminology-is.ponumber
+msgid "number"
+msgstr "tala"
+
+#: terminology-is.ponumbering
+msgid "numbering"
+msgstr "tölusetning"
+
+#: terminology-is.poobject
+msgid "object"
+msgstr "hlutur"
+
+#: terminology-is.pooccurence
+msgid "occurence"
+msgstr "tilvik"
+
+#: terminology-is.pooctet
+msgid "octet"
+msgstr "oktett"
+
+#: terminology-is.pooffline
+msgid "offline"
+msgstr "aftengdur"
+
+#: terminology-is.poOK
+msgid "OK"
+msgstr "Í lagi"
+
+#: terminology-is.poonline
+msgid "online"
+msgstr "tengdur"
+
+#: terminology-is.poongoing
+msgid "ongoing"
+msgstr "áframhaldandi"
+
+#: terminology-is.poopacity
+msgid "opacity"
+msgstr "gegnsæi"
+
+#: terminology-is.poopaque
+msgid "opaque"
+msgstr "ógegnsær"
+
+#: terminology-is.poopen
+msgid "open"
+msgstr "opna"
+
+#: terminology-is.pooperation
+msgid "operation"
+msgstr "aðgerð"
+
+#: terminology-is.pooption
+msgid "option"
+msgstr "valkostur"
+
+#: terminology-is.pooptional
+msgid "optional"
+msgstr "stilling"
+
+#: terminology-is.poorder
+msgid "order"
+msgstr "röð"
+
+#: terminology-is.poorganize
+msgid "organize"
+msgstr "raða"
+
+#: terminology-is.poorientation
+msgid "orientation"
+msgstr "stefna"
+
+#: terminology-is.pooriginal
+msgid "original"
+msgstr "upprunaleg"
+
+#: terminology-is.pooutgoing
+msgid "outgoing"
+msgstr "útsent"
+
+#: terminology-is.pooutput
+msgid "output"
+msgstr "útkoma"
+
+#: terminology-is.pooverflow
+msgid "overflow"
+msgstr "yfirflæði"
+
+#: terminology-is.pooverride
+msgid "override"
+msgstr "hunsa"
+
+#: terminology-is.pooverwrite
+msgid "overwrite"
+msgstr "skrifa yfir"
+
+#: terminology-is.poowner
+msgid "owner"
+msgstr "eigandi"
+
+#: terminology-is.popack
+msgid "pack"
+msgstr "pakka"
+
+#: terminology-is.popackage
+msgid "package"
+msgstr "pakki"
+
+#: terminology-is.popacket
+msgid "packet"
+msgstr "pakki"
+
+#: terminology-is.popadding
+msgid "padding"
+msgstr "fylla"
+
+#: terminology-is.popage
+msgid "page"
+msgstr "síða"
+
+#: terminology-is.popaint
+msgid "paint"
+msgstr "mála"
+
+#: terminology-is.popair
+msgid "pair"
+msgstr "par"
+
+#: terminology-is.popalette
+msgid "palette"
+msgstr "litaspjald"
+
+#: terminology-is.popanel
+msgid "panel"
+msgstr "spjaldið"
+
+#: terminology-is.poparallel
+msgid "parallel"
+msgstr "samhliða"
+
+#: terminology-is.poparameter
+msgid "parameter"
+msgstr "viðfang"
+
+#: terminology-is.poparcel
+msgid "parcel"
+msgstr "böggull"
+
+#: terminology-is.poparent
+msgid "parent"
+msgstr "foreldri"
+
+#: terminology-is.poparity
+msgid "parity"
+msgstr "tvístæða"
+
+#: terminology-is.poparse
+msgid "parse"
+msgstr "þátta"
+
+#: terminology-is.popartition
+msgid "partition"
+msgstr "disksvæði"
+
+#: terminology-is.popass
+msgid "pass"
+msgstr "látún"
+
+#: terminology-is.popassword
+msgid "password"
+msgstr "lykilorð"
+
+#: terminology-is.popaste
+msgid "paste"
+msgstr "líma"
+
+#: terminology-is.popatch (noun)
+msgid "patch (noun)"
+msgstr "bót"
+
+#: terminology-is.popatch (verb)
+msgid "patch (verb)"
+msgstr "bæta"
+
+#: terminology-is.popath
+msgid "path"
+msgstr "slóð"
+
+#: terminology-is.popattern
+msgid "pattern"
+msgstr "mynstur"
+
+#: terminology-is.popause
+msgid "pause"
+msgstr "bíða"
+
+#: terminology-is.poperipheral
+msgid "peripheral"
+msgstr "jaðartæki"
+
+#: terminology-is.popermanent
+msgid "permanent"
+msgstr "fast"
+
+#: terminology-is.popermission
+msgid "permission"
+msgstr "leyfi"
+
+#: terminology-is.popermutation
+msgid "permutation"
+msgstr "umröðun"
+
+#: terminology-is.pophysical
+msgid "physical"
+msgstr "raunverulegur"
+
+#: terminology-is.popicture
+msgid "picture"
+msgstr "mynd"
+
+#: terminology-is.popipe
+msgid "pipe"
+msgstr "pípa"
+
+#: terminology-is.popixel
+msgid "pixel"
+msgstr "punktur"
+
+#: terminology-is.poplacement
+msgid "placement"
+msgstr "staðsetning"
+
+#: terminology-is.poplain
+msgid "plain"
+msgstr "einfalt"
+
+#: terminology-is.poplot (verb)
+msgid "plot (verb)"
+msgstr "teikna"
+
+#: terminology-is.poplotter
+msgid "plotter"
+msgstr "teiknari"
+
+#: terminology-is.poplugin
+msgid "plugin"
+msgstr "tengiforrit"
+
+#: terminology-is.popop up
+msgid "pop up"
+msgstr "sprettgluggi"
+
+#: terminology-is.poport
+msgid "port"
+msgstr "gátt"
+
+#: terminology-is.poposition
+msgid "position"
+msgstr "staðsetning"
+
+#: terminology-is.popost
+msgid "post"
+msgstr "færsla"
+
+#: terminology-is.popreferences
+msgid "preferences"
+msgstr "valkostir"
+
+#: terminology-is.poprepare
+msgid "prepare"
+msgstr "undirbúa"
+
+#: terminology-is.popresentation
+msgid "presentation"
+msgstr "kynning"
+
+#: terminology-is.popress
+msgid "press"
+msgstr "ýta"
+
+#: terminology-is.poprevent
+msgid "prevent"
+msgstr "koma í veg fyrir"
+
+#: terminology-is.popreview
+msgid "preview"
+msgstr "forsýna"
+
+#: terminology-is.poprimary
+msgid "primary"
+msgstr "fyrra"
+
+#: terminology-is.poprincipal
+msgid "principal"
+msgstr "umbjóðandi"
+
+#: terminology-is.poprint
+msgid "print"
+msgstr "prenta"
+
+#: terminology-is.poprinter
+msgid "printer"
+msgstr "prentari"
+
+#: terminology-is.popriority
+msgid "priority"
+msgstr "forgangur"
+
+#: terminology-is.poprivacy
+msgid "privacy"
+msgstr "friðhelgi"
+
+#: terminology-is.poprivate
+msgid "private"
+msgstr "einkamál"
+
+#: terminology-is.popriviledge
+msgid "priviledge"
+msgstr "forréttindi"
+
+#: terminology-is.poprocedure
+msgid "procedure"
+msgstr "framvinda"
+
+#: terminology-is.poprocess
+msgid "process"
+msgstr "framvinda"
+
+#: terminology-is.poprocessor
+msgid "processor"
+msgstr "gjörvi"
+
+#: terminology-is.poproduct
+msgid "product"
+msgstr "vara"
+
+#: terminology-is.poprofile
+msgid "profile"
+msgstr "notandi"
+
+#: terminology-is.poprogram
+msgid "program"
+msgstr "forrit"
+
+#: terminology-is.poprogrammer
+msgid "programmer"
+msgstr "forritari"
+
+#: terminology-is.poproject
+msgid "project"
+msgstr "verkefni"
+
+#: terminology-is.poprompt
+msgid "prompt"
+msgstr "spyrja"
+
+#: terminology-is.poproperty
+msgid "property"
+msgstr "eiginleiki"
+
+#: terminology-is.poproprietary
+msgid "proprietary"
+msgstr "sér"
+
+#: terminology-is.poprotect
+msgid "protect"
+msgstr "vernda"
+
+#: terminology-is.poprotection
+msgid "protection"
+msgstr "vörn"
+
+#: terminology-is.poprotocol
+msgid "protocol"
+msgstr "samskiptareglur"
+
+#: terminology-is.poprovide
+msgid "provide"
+msgstr "skaffa"
+
+#: terminology-is.poprovider
+msgid "provider"
+msgstr "þjónustuaðili"
+
+#: terminology-is.poproxy
+msgid "proxy"
+msgstr "milliþjónn"
+
+#: terminology-is.popublic
+msgid "public"
+msgstr "almennt"
+
+#: terminology-is.popublish
+msgid "publish"
+msgstr "gefa út"
+
+#: terminology-is.popull
+msgid "pull"
+msgstr "draga"
+
+#: terminology-is.popush
+msgid "push"
+msgstr "ýta"
+
+#: terminology-is.poquality
+msgid "quality"
+msgstr "gæði"
+
+#: terminology-is.poquantity
+msgid "quantity"
+msgstr "fjöldi"
+
+#: terminology-is.poquarantine
+msgid "quarantine"
+msgstr "einangra"
+
+#: terminology-is.poquery
+msgid "query"
+msgstr "fyrirspurn"
+
+#: terminology-is.poqueue
+msgid "queue"
+msgstr "röð"
+
+#: terminology-is.poquit
+msgid "quit"
+msgstr "hætta"
+
+#: terminology-is.poquota
+msgid "quota"
+msgstr "kvóti"
+
+#: terminology-is.poquotation
+msgid "quotation"
+msgstr "tilvitnun"
+
+#: terminology-is.poquote
+msgid "quote"
+msgstr "tilvitnun"
+
+#: terminology-is.poraise
+msgid "raise"
+msgstr "hækka"
+
+#: terminology-is.porandom
+msgid "random"
+msgstr "handahófskenndur"
+
+#: terminology-is.porange
+msgid "range"
+msgstr "svið"
+
+#: terminology-is.porate
+msgid "rate"
+msgstr "hlutfall"
+
+#: terminology-is.poratio
+msgid "ratio"
+msgstr "hlutfall"
+
+#: terminology-is.poraw
+msgid "raw"
+msgstr "hrá"
+
+#: terminology-is.poray
+msgid "ray"
+msgstr "geisli"
+
+#: terminology-is.poread
+msgid "read"
+msgstr "lesa"
+
+#: terminology-is.poread only
+msgid "read only"
+msgstr "einungis til lestrar"
+
+#: terminology-is.poready
+msgid "ready"
+msgstr "tilbúin"
+
+#: terminology-is.poreal
+msgid "real"
+msgstr "gefa"
+
+#: terminology-is.poreboot
+msgid "reboot"
+msgstr "endurræsa"
+
+#: terminology-is.poreceipt
+msgid "receipt"
+msgstr "kvittun"
+
+#: terminology-is.poreceive
+msgid "receive"
+msgstr "móttaka"
+
+#: terminology-is.porecognition
+msgid "recognition"
+msgstr "kennsl"
+
+#: terminology-is.poreconnect
+msgid "reconnect"
+msgstr "endurtengja"
+
+#: terminology-is.porecord
+msgid "record"
+msgstr "færsla"
+
+#: terminology-is.porecord (verb)
+msgid "record (verb)"
+msgstr "taka upp"
+
+#: terminology-is.porecover
+msgid "recover"
+msgstr "endurheimta"
+
+#: terminology-is.porecovery
+msgid "recovery"
+msgstr "endurheimta"
+
+#: terminology-is.porecursion
+msgid "recursion"
+msgstr "rakning"
+
+#: terminology-is.porecursive
+msgid "recursive"
+msgstr "endurkvæmt"
+
+#: terminology-is.poredirect
+msgid "redirect"
+msgstr "beina til"
+
+#: terminology-is.poredo
+msgid "redo"
+msgstr "endurtaka"
+
+#: terminology-is.poreduce
+msgid "reduce"
+msgstr "minnka"
+
+#: terminology-is.poreduction
+msgid "reduction"
+msgstr "minnkun"
+
+#: terminology-is.poredundant
+msgid "redundant"
+msgstr "óþarfur"
+
+#: terminology-is.poreference
+msgid "reference"
+msgstr "tilvísun"
+
+#: terminology-is.poreferer
+msgid "referer"
+msgstr "tilvitnandi"
+
+#: terminology-is.poreferral
+msgid "referral"
+msgstr "tilvísun"
+
+#: terminology-is.poreflexive
+msgid "reflexive"
+msgstr "miðmynd"
+
+#: terminology-is.porefresh
+msgid "refresh"
+msgstr "uppfæra"
+
+#: terminology-is.porefuse
+msgid "refuse"
+msgstr "hafna"
+
+#: terminology-is.poregenerate
+msgid "regenerate"
+msgstr "skjölun"
+
+#: terminology-is.poregister
+msgid "register"
+msgstr "innskráning"
+
+#: terminology-is.poregistration
+msgid "registration"
+msgstr "skráning"
+
+#: terminology-is.poregistry
+msgid "registry"
+msgstr "stýriskrá"
+
+#: terminology-is.poregular
+msgid "regular"
+msgstr "venjulegt"
+
+#: terminology-is.poregulate
+msgid "regulate"
+msgstr "stjórna"
+
+#: terminology-is.porelay
+msgid "relay"
+msgstr "endurvarpa"
+
+#: terminology-is.porelease
+msgid "release"
+msgstr "sleppa"
+
+#: terminology-is.poremaining
+msgid "remaining"
+msgstr "eftir"
+
+#: terminology-is.poremind
+msgid "remind"
+msgstr "minna á"
+
+#: terminology-is.poremote
+msgid "remote"
+msgstr "fjartenging"
+
+#: terminology-is.poremovable
+msgid "removable"
+msgstr "færanlegur"
+
+#: terminology-is.poremove
+msgid "remove"
+msgstr "taka burt"
+
+#: terminology-is.porename
+msgid "rename"
+msgstr "endurnefna"
+
+#: terminology-is.porender
+msgid "render"
+msgstr "myndgera"
+
+#: terminology-is.porenew
+msgid "renew"
+msgstr "endurnýja"
+
+#: terminology-is.porepair
+msgid "repair"
+msgstr "laga"
+
+#: terminology-is.porepeat
+msgid "repeat"
+msgstr "endurtaka"
+
+#: terminology-is.poreplace
+msgid "replace"
+msgstr "breyta"
+
+#: terminology-is.poreplicate
+msgid "replicate"
+msgstr "afrita"
+
+#: terminology-is.poreplication
+msgid "replication"
+msgstr "afrit"
+
+#: terminology-is.poreply
+msgid "reply"
+msgstr "svara"
+
+#: terminology-is.poreport
+msgid "report"
+msgstr "skýrsla"
+
+#: terminology-is.porepository
+msgid "repository"
+msgstr "geymsla"
+
+#: terminology-is.porequest
+msgid "request"
+msgstr "beiðni"
+
+#: terminology-is.porequire
+msgid "require"
+msgstr "nauðsynlegt"
+
+#: terminology-is.porequirement
+msgid "requirement"
+msgstr "kröfur"
+
+#: terminology-is.poreset
+msgid "reset"
+msgstr "endursetja"
+
+#: terminology-is.poresize
+msgid "resize"
+msgstr "breyta stærð"
+
+#: terminology-is.poresolution
+msgid "resolution"
+msgstr "upplausn"
+
+#: terminology-is.poresolver
+msgid "resolver"
+msgstr "leyst"
+
+#: terminology-is.poresource
+msgid "resource"
+msgstr "tilfang"
+
+#: terminology-is.poresponse
+msgid "response"
+msgstr "svar"
+
+#: terminology-is.porestart
+msgid "restart"
+msgstr "endurræsa"
+
+#: terminology-is.porestore
+msgid "restore"
+msgstr "bjarga"
+
+#: terminology-is.porestrict
+msgid "restrict"
+msgstr "takmarka"
+
+#: terminology-is.porestriction
+msgid "restriction"
+msgstr "takmörkun"
+
+#: terminology-is.poresult
+msgid "result"
+msgstr "niðurstaða"
+
+#: terminology-is.poresume
+msgid "resume"
+msgstr "halda áfram"
+
+#: terminology-is.poretrieve
+msgid "retrieve"
+msgstr "sækja"
+
+#: terminology-is.poretry
+msgid "retry"
+msgstr "reyna aftur"
+
+#: terminology-is.poreturn
+msgid "return"
+msgstr "til baka"
+
+#: terminology-is.poreverse
+msgid "reverse"
+msgstr "snúa við"
+
+#: terminology-is.porevert
+msgid "revert"
+msgstr "afmá"
+
+#: terminology-is.porevocation
+msgid "revocation"
+msgstr "afturköllun"
+
+#: terminology-is.porevoke
+msgid "revoke"
+msgstr "afturkalla"
+
+#: terminology-is.poRSID
+msgid "RSID"
+msgstr "RSID breytingaauðkenni"
+
+#: terminology-is.poroot
+msgid "root"
+msgstr "kerfisstjóri"
+
+#: terminology-is.porotate
+msgid "rotate"
+msgstr "snúa"
+
+#: terminology-is.poroute
+msgid "route"
+msgstr "leið"
+
+#: terminology-is.porouter
+msgid "router"
+msgstr "beinir"
+
+#: terminology-is.poroutine
+msgid "routine"
+msgstr "beining"
+
+#: terminology-is.porow
+msgid "row"
+msgstr "röð"
+
+#: terminology-is.porule
+msgid "rule"
+msgstr "regla"
+
+#: terminology-is.porun
+msgid "run"
+msgstr "keyra"
+
+#: terminology-is.poruntime
+msgid "runtime"
+msgstr "keyrsluumhverfi"
+
+#: terminology-is.posafe
+msgid "safe"
+msgstr "vista"
+
+#: terminology-is.posample
+msgid "sample"
+msgstr "dæmi"
+
+#: terminology-is.posans
+msgid "sans"
+msgstr "krókalaust letur"
+
+#: terminology-is.posave
+msgid "save"
+msgstr "vista"
+
+#: terminology-is.poscalable
+msgid "scalable"
+msgstr "stækkanlegt"
+
+#: terminology-is.poscale
+msgid "scale"
+msgstr "skali"
+
+#: terminology-is.poscan
+msgid "scan"
+msgstr "leita"
+
+#: terminology-is.poscanner
+msgid "scanner"
+msgstr "skanni"
+
+#: terminology-is.poschedule
+msgid "schedule"
+msgstr "áætlun"
+
+#: terminology-is.poscheme
+msgid "scheme"
+msgstr "skema"
+
+#: terminology-is.poscratch
+msgid "scratch"
+msgstr "klóra"
+
+#: terminology-is.poscreen
+msgid "screen"
+msgstr "skjár"
+
+#: terminology-is.poscrew
+msgid "screw"
+msgstr "skrúfa"
+
+#: terminology-is.poscript
+msgid "script"
+msgstr "skrifta"
+
+#: terminology-is.poscroll
+msgid "scroll"
+msgstr "skruna"
+
+#: terminology-is.posearch
+msgid "search"
+msgstr "leita"
+
+#: terminology-is.posection
+msgid "section"
+msgstr "val"
+
+#: terminology-is.posector
+msgid "sector"
+msgstr "svæði"
+
+#: terminology-is.posecure
+msgid "secure"
+msgstr "öruggt"
+
+#: terminology-is.posecurity
+msgid "security"
+msgstr "öryggi"
+
+#: terminology-is.poseek
+msgid "seek"
+msgstr "leita"
+
+#: terminology-is.posegment
+msgid "segment"
+msgstr "hluti"
+
+#: terminology-is.posegmentation
+msgid "segmentation"
+msgstr "skipting"
+
+#: terminology-is.poselect
+msgid "select"
+msgstr "velja"
+
+#: terminology-is.poselection
+msgid "selection"
+msgstr "val"
+
+#: terminology-is.posemantic
+msgid "semantic"
+msgstr "merkingarfræðilegur"
+
+#: terminology-is.posend
+msgid "send"
+msgstr "senda"
+
+#: terminology-is.posender
+msgid "sender"
+msgstr "sendandi"
+
+#: terminology-is.posensitive
+msgid "sensitive"
+msgstr "næmt"
+
+#: terminology-is.posensor
+msgid "sensor"
+msgstr "skynjari"
+
+#: terminology-is.poserif
+msgid "serif"
+msgstr "krókur"
+
+#: terminology-is.poserver
+msgid "server"
+msgstr "netþjónn"
+
+#: terminology-is.posession
+msgid "session"
+msgstr "lota"
+
+#: terminology-is.poset
+msgid "set"
+msgstr "mengi"
+
+#: terminology-is.posettings
+msgid "settings"
+msgstr "stillingar"
+
+#: terminology-is.posetup
+msgid "setup"
+msgstr "uppsetning"
+
+#: terminology-is.poshading
+msgid "shading"
+msgstr "skygging"
+
+#: terminology-is.poshadow
+msgid "shadow"
+msgstr "skuggi"
+
+#: terminology-is.poshape
+msgid "shape"
+msgstr "lögun"
+
+#: terminology-is.poshare
+msgid "share"
+msgstr "deila"
+
+#: terminology-is.posharp
+msgid "sharp"
+msgstr "beittur"
+
+#: terminology-is.posheet
+msgid "sheet"
+msgstr "blað"
+
+#: terminology-is.poshell
+msgid "shell"
+msgstr "skel"
+
+#: terminology-is.poshift
+msgid "shift"
+msgstr "skipti"
+
+#: terminology-is.poshortcut
+msgid "shortcut"
+msgstr "flýtilykill"
+
+#: terminology-is.poshow
+msgid "show"
+msgstr "sýna"
+
+#: terminology-is.poshrink
+msgid "shrink"
+msgstr "minnka"
+
+#: terminology-is.poshut down
+msgid "shut down"
+msgstr "ganga frá"
+
+#: terminology-is.poside bar
+msgid "side bar"
+msgstr "hliðslá"
+
+#: terminology-is.posign
+msgid "sign"
+msgstr "undirskrift"
+
+#: terminology-is.posignal
+msgid "signal"
+msgstr "merki"
+
+#: terminology-is.posignature
+msgid "signature"
+msgstr "undirskrift"
+
+#: terminology-is.posite
+msgid "site"
+msgstr "svæði"
+
+#: terminology-is.posize
+msgid "size"
+msgstr "stærð"
+
+#: terminology-is.poskew
+msgid "skew"
+msgstr "skekkja"
+
+#: terminology-is.poskip
+msgid "skip"
+msgstr "sleppa"
+
+#: terminology-is.poslave
+msgid "slave"
+msgstr "vista"
+
+#: terminology-is.posleep
+msgid "sleep"
+msgstr "svæfa"
+
+#: terminology-is.poslide
+msgid "slide"
+msgstr "skyggna"
+
+#: terminology-is.poslot
+msgid "slot"
+msgstr "hólf"
+
+#: terminology-is.posmart
+msgid "smart"
+msgstr "snjöll"
+
+#: terminology-is.posmiley
+msgid "smiley"
+msgstr "broskall"
+
+#: terminology-is.posmooth
+msgid "smooth"
+msgstr "slétta"
+
+#: terminology-is.posocket
+msgid "socket"
+msgstr "sökkull"
+
+#: terminology-is.posoftware
+msgid "software"
+msgstr "hugbúnaður"
+
+#: terminology-is.posolid
+msgid "solid"
+msgstr "gegnheilt"
+
+#: terminology-is.posort
+msgid "sort"
+msgstr "raða"
+
+#: terminology-is.posource
+msgid "source"
+msgstr "kóði"
+
+#: terminology-is.pospace
+msgid "space"
+msgstr "bil"
+
+#: terminology-is.pospacing
+msgid "spacing"
+msgstr "bil"
+
+#: terminology-is.pospam
+msgid "spam"
+msgstr "ruslpóstur"
+
+#: terminology-is.pospan
+msgid "span"
+msgstr "spanna"
+
+#: terminology-is.pospawn
+msgid "spawn"
+msgstr "búa til"
+
+#: terminology-is.pospecify
+msgid "specify"
+msgstr "tilgreina"
+
+#: terminology-is.pospeed
+msgid "speed"
+msgstr "hraði"
+
+#: terminology-is.pospelling
+msgid "spelling"
+msgstr "stafsetning"
+
+#: terminology-is.posplash
+msgid "splash"
+msgstr "skvetta"
+
+#: terminology-is.posplit
+msgid "split"
+msgstr "kljúfa"
+
+#: terminology-is.pospool
+msgid "spool"
+msgstr "spóla"
+
+#: terminology-is.pospread sheet
+msgid "spread sheet"
+msgstr "töflureiknir"
+
+#: terminology-is.postack
+msgid "stack"
+msgstr "stafla"
+
+#: terminology-is.postand alone
+msgid "stand alone"
+msgstr "standa einn"
+
+#: terminology-is.postandard
+msgid "standard"
+msgstr "venjuleg"
+
+#: terminology-is.postart
+msgid "start"
+msgstr "byrjar"
+
+#: terminology-is.postate
+msgid "state"
+msgstr "fylki"
+
+#: terminology-is.postatic
+msgid "static"
+msgstr "föst"
+
+#: terminology-is.postatistics
+msgid "statistics"
+msgstr "tölfræði"
+
+#: terminology-is.postep
+msgid "step"
+msgstr "skref"
+
+#: terminology-is.postop
+msgid "stop"
+msgstr "hætta"
+
+#: terminology-is.postorage
+msgid "storage"
+msgstr "geymsla"
+
+#: terminology-is.postore
+msgid "store"
+msgstr "geymsla"
+
+#: terminology-is.postream
+msgid "stream"
+msgstr "straumur"
+
+#: terminology-is.postretch
+msgid "stretch"
+msgstr "teygt"
+
+#: terminology-is.postrict
+msgid "strict"
+msgstr "fast"
+
+#: terminology-is.postring
+msgid "string"
+msgstr "strengur"
+
+#: terminology-is.postrip
+msgid "strip"
+msgstr "hreinsa"
+
+#: terminology-is.postroke
+msgid "stroke"
+msgstr "strik"
+
+#: terminology-is.postructure
+msgid "structure"
+msgstr "samsetning"
+
+#: terminology-is.postub
+msgid "stub"
+msgstr "stubbur"
+
+#: terminology-is.postyle
+msgid "style"
+msgstr "stíll"
+
+#: terminology-is.posub directory
+msgid "sub directory"
+msgstr "undirmappa"
+
+#: terminology-is.posub folder
+msgid "sub folder"
+msgstr "undirmappa"
+
+#: terminology-is.posubmission
+msgid "submission"
+msgstr "senda"
+
+#: terminology-is.posubmit
+msgid "submit"
+msgstr "staðfesta"
+
+#: terminology-is.posubscribe
+msgid "subscribe"
+msgstr "panta áskrift"
+
+#: terminology-is.posubscription
+msgid "subscription"
+msgstr "áskrift"
+
+#: terminology-is.posubtract
+msgid "subtract"
+msgstr "draga frá"
+
+#: terminology-is.posucceed
+msgid "succeed"
+msgstr "tókst"
+
+#: terminology-is.posuggest
+msgid "suggest"
+msgstr "leggja til"
+
+#: terminology-is.posuggestion
+msgid "suggestion"
+msgstr "uppástunga"
+
+#: terminology-is.posum (noun)
+msgid "sum (noun)"
+msgstr "summa"
+
+#: terminology-is.posum (verb)
+msgid "sum (verb)"
+msgstr "summa"
+
+#: terminology-is.posummary
+msgid "summary"
+msgstr "lýsing"
+
+#: terminology-is.posupport
+msgid "support"
+msgstr "stuðningur"
+
+#: terminology-is.posurface
+msgid "surface"
+msgstr "yfirborð"
+
+#: terminology-is.posuspend
+msgid "suspend"
+msgstr "svæfa"
+
+#: terminology-is.posuspicious
+msgid "suspicious"
+msgstr "grunsamlegur"
+
+#: terminology-is.poswap
+msgid "swap"
+msgstr "skipta"
+
+#: terminology-is.poswitch
+msgid "switch"
+msgstr "skipta"
+
+#: terminology-is.posymbol
+msgid "symbol"
+msgstr "tákn"
+
+#: terminology-is.posynchronize
+msgid "synchronize"
+msgstr "samstilla"
+
+#: terminology-is.posyntax
+msgid "syntax"
+msgstr "notkun"
+
+#: terminology-is.posystem
+msgid "system"
+msgstr "kerfi"
+
+#: terminology-is.potab
+msgid "tab"
+msgstr "dálkur"
+
+#: terminology-is.potable
+msgid "table"
+msgstr "tafla"
+
+#: terminology-is.potag
+msgid "tag"
+msgstr "flokkur"
+
+#: terminology-is.potarget
+msgid "target"
+msgstr "mark"
+
+#: terminology-is.potemplate
+msgid "template"
+msgstr "sniðmát"
+
+#: terminology-is.potemporary
+msgid "temporary"
+msgstr "tímabundin"
+
+#: terminology-is.poterminal
+msgid "terminal"
+msgstr "þýðingar"
+
+#: terminology-is.potest
+msgid "test"
+msgstr "afgangur"
+
+#: terminology-is.potext
+msgid "text"
+msgstr "texti"
+
+#: terminology-is.potexture
+msgid "texture"
+msgstr "áferð"
+
+#: terminology-is.potheme
+msgid "theme"
+msgstr "þema"
+
+#: terminology-is.pothread
+msgid "thread"
+msgstr "þráður"
+
+#: terminology-is.pothumbnail
+msgid "thumbnail"
+msgstr "smámynd"
+
+#: terminology-is.potick
+msgid "tick"
+msgstr "smella"
+
+#: terminology-is.potile
+msgid "tile"
+msgstr "tígla"
+
+#: terminology-is.potime
+msgid "time"
+msgstr "tími"
+
+#: terminology-is.potime out
+msgid "time out"
+msgstr "tímamörk"
+
+#: terminology-is.potip
+msgid "tip"
+msgstr "ábending"
+
+#: terminology-is.potitle
+msgid "title"
+msgstr "titli"
+
+#: terminology-is.potoggle
+msgid "toggle"
+msgstr "víxla"
+
+#: terminology-is.potoken
+msgid "token"
+msgstr "tákn"
+
+#: terminology-is.potool
+msgid "tool"
+msgstr "verkfæri"
+
+#: terminology-is.potool bar
+msgid "tool bar"
+msgstr "tækjaslá"
+
+#: terminology-is.potool box
+msgid "tool box"
+msgstr "verkfærakassi"
+
+#: terminology-is.potopic
+msgid "topic"
+msgstr "efni"
+
+#: terminology-is.potrace
+msgid "trace"
+msgstr "eiginleiki"
+
+#: terminology-is.potrack
+msgid "track"
+msgstr "lag"
+
+#: terminology-is.potraffic
+msgid "traffic"
+msgstr "umferð"
+
+#: terminology-is.potransfer
+msgid "transfer"
+msgstr "flutningur"
+
+#: terminology-is.potransform
+msgid "transform"
+msgstr "ummynda"
+
+#: terminology-is.potransformation
+msgid "transformation"
+msgstr "umbreyting"
+
+#: terminology-is.potrap
+msgid "trap"
+msgstr "hleri"
+
+#: terminology-is.potrash
+msgid "trash"
+msgstr "ruslakarfa"
+
+#: terminology-is.potrigger
+msgid "trigger"
+msgstr "vekjari"
+
+#: terminology-is.potrouble shoot
+msgid "trouble shoot"
+msgstr "úrræðaleit"
+
+#: terminology-is.potune
+msgid "tune"
+msgstr "tón"
+
+#: terminology-is.potweak
+msgid "tweak"
+msgstr "ótraust"
+
+#: terminology-is.potype (noun)
+msgid "type (noun)"
+msgstr "tegund"
+
+#: terminology-is.potype (verb)
+msgid "type (verb)"
+msgstr "tegund"
+
+#: terminology-is.potype face
+msgid "type face"
+msgstr "leturgerð"
+
+#: terminology-is.pounavailable
+msgid "unavailable"
+msgstr "ekki tiltækt"
+
+#: terminology-is.poundelete
+msgid "undelete"
+msgstr "afturkalla eyðingu"
+
+#: terminology-is.pounder line
+msgid "under line"
+msgstr "undirstrikað"
+
+#: terminology-is.poundo
+msgid "undo"
+msgstr "hætta við"
+
+#: terminology-is.pouninstall
+msgid "uninstall"
+msgstr "taka út"
+
+#: terminology-is.pounit
+msgid "unit"
+msgstr "eining"
+
+#: terminology-is.pounknown
+msgid "unknown"
+msgstr "óþekkt"
+
+#: terminology-is.pounload
+msgid "unload"
+msgstr "afhlaða"
+
+#: terminology-is.ponamed
+msgid "named"
+msgstr "nefnd"
+
+#: terminology-is.poreachable
+msgid "reachable"
+msgstr "ná til"
+
+#: terminology-is.poreadable
+msgid "readable"
+msgstr "lesanlegt"
+
+#: terminology-is.pounspecified
+msgid "unspecified"
+msgstr "ótilgreint"
+
+#: terminology-is.pounsubscribe
+msgid "unsubscribe"
+msgstr "afpanta áskrift að"
+
+#: terminology-is.pounsupported
+msgid "unsupported"
+msgstr "óstudd"
+
+#: terminology-is.poupdate
+msgid "update"
+msgstr "uppfæra"
+
+#: terminology-is.poupgrade
+msgid "upgrade"
+msgstr "uppfæra"
+
+#: terminology-is.poupload
+msgid "upload"
+msgstr "senda"
+
+#: terminology-is.poupper case
+msgid "upper case"
+msgstr "hástafir"
+
+#: terminology-is.pousage
+msgid "usage"
+msgstr "notkun"
+
+#: terminology-is.pouser
+msgid "user"
+msgstr "notandi"
+
+#: terminology-is.pouser name
+msgid "user name"
+msgstr "notandanafn"
+
+#: terminology-is.poutility
+msgid "utility"
+msgstr "hjálparforrit"
+
+#: terminology-is.povalid
+msgid "valid"
+msgstr "gilt"
+
+#: terminology-is.povalidation
+msgid "validation"
+msgstr "prófun"
+
+#: terminology-is.povalidity
+msgid "validity"
+msgstr "sannreyna"
+
+#: terminology-is.povalue
+msgid "value"
+msgstr "gildi"
+
+#: terminology-is.povariable
+msgid "variable"
+msgstr "breyta"
+
+#: terminology-is.povector
+msgid "vector"
+msgstr "vigur"
+
+#: terminology-is.poverbose
+msgid "verbose"
+msgstr "langorður"
+
+#: terminology-is.poverify
+msgid "verify"
+msgstr "staðfesti"
+
+#: terminology-is.poversion
+msgid "version"
+msgstr "útgáfa"
+
+#: terminology-is.povideo
+msgid "video"
+msgstr "myndefni"
+
+#: terminology-is.poview
+msgid "view"
+msgstr "skoða"
+
+#: terminology-is.poviewer
+msgid "viewer"
+msgstr "skoðari"
+
+#: terminology-is.povirtual
+msgid "virtual"
+msgstr "sýndar"
+
+#: terminology-is.povirus
+msgid "virus"
+msgstr "vírus"
+
+#: terminology-is.povisual
+msgid "visual"
+msgstr "myndrænt"
+
+#: terminology-is.povolume
+msgid "volume"
+msgstr "hljóðstyrkur"
+
+#: terminology-is.powallpaper
+msgid "wallpaper"
+msgstr "veggfóður"
+
+#: terminology-is.powarn
+msgid "warn"
+msgstr "aðvörun"
+
+#: terminology-is.poweb
+msgid "web"
+msgstr "vefur"
+
+#: terminology-is.poweb cam
+msgid "web cam"
+msgstr "vefmyndavél"
+
+#: terminology-is.poweb master
+msgid "web master"
+msgstr "vefstjórnandi"
+
+#: terminology-is.poweb page
+msgid "web page"
+msgstr "vefsíða"
+
+#: terminology-is.powidget
+msgid "widget"
+msgstr "nýtt"
+
+#: terminology-is.powidth
+msgid "width"
+msgstr "breidd"
+
+#: terminology-is.powi fi
+msgid "wi fi"
+msgstr "þráðlaust"
+
+#: terminology-is.powild card
+msgid "wild card"
+msgstr "algildisstafur"
+
+#: terminology-is.powindow
+msgid "window"
+msgstr "gluggi"
+
+#: terminology-is.powizard
+msgid "wizard"
+msgstr "leiðarvísir"
+
+#: terminology-is.poword processor
+msgid "word processor"
+msgstr "ritvinnsluforrit"
+
+#: terminology-is.powork around
+msgid "work around"
+msgstr "fara í kringum"
+
+#: terminology-is.powork group
+msgid "work group"
+msgstr "vinnuhópur"
+
+#: terminology-is.powork station
+msgid "work station"
+msgstr "vinnustöð"
+
+#: terminology-is.powrap
+msgid "wrap"
+msgstr "textaskrið"
+
+#: terminology-is.poyes
+msgid "yes"
+msgstr "já"
+
+#: terminology-is.pozone
+msgid "zone"
+msgstr "svæði"
+
+#: terminology-is.pozoom
+msgid "zoom"
+msgstr "stækka"
