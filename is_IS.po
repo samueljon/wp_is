@@ -1,24 +1,27 @@
 # translation of is_IS.po to icelandic
 # Sveinn í Felli <sveinki@nett.is>, 2011.
+# Samúel Jón Gunnarsson <sammi@lmi.is>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: is_IS\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-02-23 17:12:19+00:00\n"
-"PO-Revision-Date: 2011-03-09 09:31+0000\n"
-"Last-Translator: Sveinn í Felli <sveinki@nett.is>\n"
-"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2011-03-14 11:22+0000\n"
+"Last-Translator: Samúel Jón Gunnarsson <sammi@lmi.is>\n"
+"Language-Team: Samúel Jón Gunnarsson\n"
+"Language: is\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.5.2\n"
 "X-Rosetta-Version: 0.1\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "X-Poedit-Country: ICELAND\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-Language: Icelandic\n"
 "X-Poedit-Basepath: .\n"
-"X-Poedit-SearchPath-0: /Users/samueljon/transmem/rosetta-maverick/is/LC_MESSAGES\n"
-"X-Generator: Lokalize 1.1\n"
+"X-Poedit-SearchPath-0: /Users/samueljon/transmem/rosetta-"
+"maverick/is/LC_MESSAGES\n"
 
 #: wp-includes/capabilities.php:727
 msgid "Usage of user levels by plugins and themes is deprecated. Use roles and capabilities instead."
@@ -346,7 +349,7 @@ msgstr "Gild <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
 #: wp-includes/theme-compat/sidebar.php:74
 #, fuzzy
 msgid "XHTML Friends Network"
-msgstr "Netstýringaforrit"
+msgstr "XHTML vinanet"
 
 #: wp-includes/theme-compat/sidebar.php:74
 msgid "XFN"
@@ -552,7 +555,7 @@ msgstr "Get ekki ákvarðað stærð á myndskrá"
 
 #: wp-includes/media.php:419
 msgid "Could not calculate resized image dimensions"
-msgstr ""
+msgstr "Ekki tókst að reikna út hlutföll myndar í breyttri stærð"
 
 #: wp-includes/media.php:448
 #: wp-includes/media.php:451
@@ -1138,7 +1141,9 @@ msgstr "Vista..."
 
 #: wp-includes/script-loader.php:422
 msgid "Could not set that as the thumbnail image. Try a different attachment."
-msgstr "Ekki tókst að setja þetta sem myndaþumlu. Vinsamlegast reyndu annað viðhengi."
+msgstr ""
+"Ekki tókst að setja þetta sem myndaþumlu. Vinsamlegast reyndu annað "
+"viðhengi."
 
 #: wp-includes/script-loader.php:423
 msgid "Done"
@@ -1148,7 +1153,7 @@ msgstr "Lokið"
 #, fuzzy
 msgctxt "search results"
 msgid "No results found."
-msgstr "Engar niðurstöður fundust."
+msgstr "Ekkert fannst."
 
 #: wp-includes/script-loader.php:431
 msgid ""
@@ -1210,7 +1215,8 @@ msgstr "Heim"
 
 #: wp-includes/post-template.php:1213
 msgid "This post is password protected. To view it please enter your password below:"
-msgstr "Þessi færsla er lokuð. Sláðu inn aðgangsorð hér að neðan til að opna færslu."
+msgstr ""
+"Þessi færsla er lokuð. Sláðu inn aðgangsorð hér að neðan til að opna færslu."
 
 #: wp-includes/post-template.php:1214
 #: wp-admin/includes/meta-boxes.php:145
@@ -1277,8 +1283,10 @@ msgid "Actions"
 msgstr "Aðgerðir"
 
 #: wp-includes/author-template.php:55
+#, fuzzy
 msgid "Use <code>get_the_author()</code> instead if you do not want the value echoed."
 msgstr ""
+"Notið <code>get_the_author()</code> í staðinn ef þú vilt að gildið birtist."
 
 #: wp-includes/author-template.php:143
 msgid "Visit %s&#8217;s website"
@@ -1386,9 +1394,8 @@ msgid "Email"
 msgstr "Netfang"
 
 #: wp-includes/comment-template.php:1530
-#, fuzzy
 msgid "Required fields are marked %s"
-msgstr "Þú ert nú merkt(ur) sem %1."
+msgstr "Reitir merktir með %s þarf að fylla út"
 
 #: wp-includes/comment-template.php:1535
 msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
@@ -1444,9 +1451,8 @@ msgid "Could not update comment status"
 msgstr "Gat ekki uppnýjað stöðu fyrir athugasemdir"
 
 #: wp-includes/class-http.php:244
-#, fuzzy
 msgid "A valid URL was not provided."
-msgstr "Þjónustan sem í boði er, er ekki gild"
+msgstr ""
 
 #: wp-includes/class-http.php:247
 msgid "User has blocked requests through HTTP."
@@ -1491,7 +1497,9 @@ msgstr "Vefur hefur verið lagður niður. "
 #: wp-includes/user.php:111
 #, fuzzy
 msgid "<strong>ERROR</strong>: The password you entered for the username <strong>%1$s</strong> is incorrect. <a href=\"%2$s\" title=\"Password Lost and Found\">Lost your password</a>?"
-msgstr "<strong>VILLA</strong>: Ógilt notandanafn. <a href=\"%s\" title=\"Tapað/Fundið\">Glatað aðgangsorð</a>?"
+msgstr ""
+"<strong>VILLA</strong>: Ógilt notandanafn. <a href=\"%s\" "
+"title=\"Tapað/Fundið\">Glatað aðgangsorð</a>?"
 
 #: wp-includes/user.php:137
 msgid "Please log in again."
@@ -1528,19 +1536,16 @@ msgstr "Ekki tókst að setja vefinn eðlilega upp sem þú óskaðir eftir . Ha
 #: wp-includes/registration-functions.php:7
 #: wp-includes/registration.php:7
 msgid "This file no longer needs to be included."
-msgstr ""
+msgstr "Þessi skrá þarf ekki lengur að vera innifalin."
 
 #: wp-includes/functions.php:396
 msgid "%s is a protected WP option and may not be modified"
-msgstr "%s er varin WP-stilling sem ekki er unnt að breyta"
+msgstr "%s er varin WP valkostur sem ekki er unnt að breyta"
 
 #: wp-includes/functions.php:1740
 #, fuzzy
 msgid "ERROR: %s is not a valid feed template."
 msgstr ""
-"<b>Villa</b>\n"
-"‚%s‘ er ekki gild Perl segð.\n"
-"%s"
 
 #: wp-includes/functions.php:2202
 #: wp-includes/functions.php:2320
@@ -5241,7 +5246,7 @@ msgstr "Þú hefur ekki aðgang að athugasemdum."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1476
 msgid "You are not allowed to update options."
-msgstr "Þú hefur ekki heimild til að breyta stillingum."
+msgstr "Þú hefur ekki heimild til að breyta valkostum."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1525
 #, fuzzy
@@ -6202,7 +6207,9 @@ msgstr "d-m-Y H:i:s"
 
 #: wp-admin/options-general.php:62
 msgid "The fields on this screen determine some of the basics of your site setup."
-msgstr "Reitir á þessum skjá geyma nokkrar af grunnstillingum fyrir uppsetninguna á vefnum þínum."
+msgstr ""
+"Reitir á þessum skjá geyma nokkrar af grunnstillingum fyrir uppsetninguna á "
+"vefnum þínum."
 
 #: wp-admin/options-general.php:63
 msgid "Most themes display the site title at the top of every page, in the title bar of the browser, and as the identifying name for syndicated feeds. The tagline is also displayed by many themes."
@@ -6222,7 +6229,9 @@ msgstr "UTC stendur fyrir samræmd alþjóðleg tímastilling"
 
 #: wp-admin/options-general.php:67
 msgid "Remember to click the Save Changes button at the bottom of the screen for new settings to take effect."
-msgstr "Mundu að ýta á vista breytingar hnappinn neðst á skjánum svo nýjar stillingar taki gildi. "
+msgstr ""
+"Mundu að ýta á hnappinn vista breytingar neðst á skjánum svo nýjar "
+"stillingar taki gildi. "
 
 #: wp-admin/options-general.php:69
 msgid "<a href=\"http://codex.wordpress.org/Settings_General_SubPanel\" target=\"_blank\">Documentation on General Settings</a>"
@@ -6297,7 +6306,9 @@ msgstr "klukkustundir"
 #: wp-admin/options-general.php:167
 #: wp-admin/options-general.php:203
 msgid "<abbr title=\"Coordinated Universal Time\">UTC</abbr> time is <code>%s</code>"
-msgstr "<abbr title=\"Coordinated Universal Time\">UTC</abbr> (samræmd alþjóðleg tímastilling) er <code>%s</code>"
+msgstr ""
+"<abbr title=\"Coordinated Universal Time\">UTC</abbr> (samræmd alþjóðleg "
+"tímastilling) er <code>%s</code>"
 
 #: wp-admin/options-general.php:169
 msgid "UTC %1$s is <code>%2$s</code>"
@@ -6350,9 +6361,10 @@ msgid "Custom:"
 msgstr "Sérsniðið:"
 
 #: wp-admin/options-general.php:283
-#, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Formatting_Date_and_Time\">Documentation on date and time formatting</a>."
-msgstr "<a href=\"http://codex.wordpress.org/Formatting_Date_and_Time\">Leiðbeiningar um snið dagsetninga</a>. Smelltu á &#8222;Uppnýja stillingar&#8220; til þess að sjá breytt sýnishorn."
+msgstr ""
+"<a href=\"http://codex.wordpress.org/Formatting_Date_and_Time\">Skjölun á "
+"dagsetningar og tímaforsniði</a>."
 
 #: wp-admin/options-general.php:295
 #: wp-admin/includes/schema.php:225
@@ -6397,7 +6409,9 @@ msgstr "Virkt snið er gallað. Taka aftur upp sjálfgefið snið."
 #: wp-admin/themes.php:64
 #, fuzzy
 msgid "New theme activated. This theme supports widgets, please visit the <a href=\"%s\">widgets settings</a> screen to configure them."
-msgstr "Nýtt snið er nú virkt. Sniðið styður aukahluti, skoðaðu <a href=\"%s\">stillingar fyrir aukahluti</a> til að nota þá með sniðinu."
+msgstr ""
+"Nýtt snið er nú virkt. Sniðið styður aukahluti, skoðaðu <a href=\"%"
+"s\">stillingar fyrir aukahluti</a> til að nota þá með sniðinu."
 
 #: wp-admin/themes.php:66
 msgid "New theme activated. <a href=\"%s\">Visit site</a>"
@@ -6608,7 +6622,9 @@ msgstr "Fjarlægja mynd"
 #: wp-admin/custom-header.php:503
 #, fuzzy
 msgid "This will remove the header image. You will not be able to restore any customizations."
-msgstr "Þessi aðgerð færir síðuhaus og lit í upprunalegt horf. Eldri stillingar hverfa; ekki hægt að afturkalla."
+msgstr ""
+"Þessi aðgerð fjarlægir mynd í síðuhaus. Eldri séraðlaganir hverfa og ekki er "
+"hægt að afturkalla."
 
 #: wp-admin/custom-header.php:504
 #, fuzzy
@@ -6623,7 +6639,9 @@ msgstr "Umslagsmynd"
 #: wp-admin/custom-header.php:513
 #, fuzzy
 msgid "This will restore the original header image. You will not be able to restore any customizations."
-msgstr "Þessi aðgerð færir síðuhaus og lit í upprunalegt horf. Eldri stillingar hverfa; ekki hægt að afturkalla."
+msgstr ""
+"Þessi aðgerð færir síðuhaus og lit í upprunalegt horf. Eldri stillingar "
+"hverfa; ekki hægt að afturkalla."
 
 #: wp-admin/custom-header.php:514
 #, fuzzy
@@ -6671,7 +6689,9 @@ msgstr "Endursetja lit á texta"
 #: wp-admin/custom-header.php:552
 #, fuzzy
 msgid "This will restore the original header text. You will not be able to restore any customizations."
-msgstr "Þessi aðgerð færir síðuhaus og lit í upprunalegt horf. Eldri stillingar hverfa; ekki hægt að afturkalla."
+msgstr ""
+"Þessi aðgerð færir síðuhaus og lit í upprunalegt horf. Eldri stillingar "
+"hverfa; ekki hægt að afturkalla."
 
 #: wp-admin/custom-header.php:553
 #, fuzzy
@@ -6732,7 +6752,9 @@ msgstr ""
 #: wp-admin/options-reading.php:48
 #: wp-admin/options-permalink.php:24
 msgid "You must click the Save Changes button at the bottom of the screen for new settings to take effect."
-msgstr "Þú verður að ýta á Vista breytingar hnappinn neðst á skjánnum til að nýjar stillingar taki gildi."
+msgstr ""
+"Þú verður að ýta á hnappinn Vista breytingar neðst á skjánum til að nýjar "
+"stillingar taki gildi."
 
 #: wp-admin/options-discussion.php:22
 #, fuzzy
@@ -7097,7 +7119,7 @@ msgstr "XML-villa: %1$s á línu %2$s"
 
 #: wp-admin/options-privacy.php:15
 msgid "Privacy Settings"
-msgstr "Stillingar fyrir friðhelgi"
+msgstr "Stillingar á friðhelgi"
 
 #: wp-admin/options-privacy.php:19
 msgid "You can choose whether or not your site will be crawled by robots, ping services, and spiders. If you want those services to ignore your site, click the second option here. Note that your privacy is not complete; your site is still visible on the web."
@@ -7109,7 +7131,9 @@ msgstr ""
 
 #: wp-admin/options-privacy.php:23
 msgid "<a href=\"http://codex.wordpress.org/Settings_Privacy_SubPanel\" target=\"_blank\">Documentation on Privacy Settings</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Settings_Privacy_SubPanel\" target=\"_blank\">Skjölun á friðhelgisstillingum</a>"
+msgstr ""
+"<a href=\"http://codex.wordpress.org/Settings_Privacy_SubPanel\" "
+"target=\"_blank\">Skjölun á friðhelgisstillingum</a>"
 
 #: wp-admin/options-privacy.php:39
 #: wp-admin/options-privacy.php:40
@@ -7579,7 +7603,9 @@ msgstr "<a href=\"http://codex.wordpress.org/\" target=\"_blank\">Leiðbeiningar
 #: wp-admin/edit-form-advanced.php:194
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Pages_Pages_SubPanel#Editing_Individual_Pages\" target=\"_blank\">Documentation on Editing Pages</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Settings_General_SubPanel\" target=\"_blank\">Almennar stillingar</a>"
+msgstr ""
+"<a href=\"http://codex.wordpress.org/Pages_Pages_SubPanel#Editing_Individual_"
+"Pages\" target=\"_blank\">Skjölun á hvernig breyta á síðum</a>"
 
 #: wp-admin/edit-form-advanced.php:246
 #, fuzzy
@@ -7968,46 +7994,46 @@ msgstr "<a href=\"http://codex.wordpress.org/\" target=\"_blank\">Leiðbeiningar
 
 #: wp-admin/custom-background.php:169
 #: wp-admin/includes/theme.php:301
-#, fuzzy
 msgid "Custom Background"
 msgstr "Sérsniðinn bakgrunnur"
 
 #: wp-admin/custom-background.php:172
-#, fuzzy
 msgid "Background updated. <a href=\"%s\">Visit your site</a> to see how it looks."
-msgstr "Færsla uppnýjuð. <a href=\"%s\">Skoða færslu</a>"
+msgstr ""
+"Bakgrunnur uppfærður. <a href=\"%s\">Skoðaðu vef þinn</a> til að sjá hann "
+"lítur út."
 
 #: wp-admin/custom-background.php:180
-#, fuzzy
 msgid "Background Image"
 msgstr "Bakgrunnsmynd"
 
 #: wp-admin/custom-background.php:213
-#, fuzzy
 msgid "Remove Background Image"
-msgstr "Bakgrunnur mynda (mótstæður)"
+msgstr "Fjarlægja bakgrunnsmynd"
 
 #: wp-admin/custom-background.php:214
-#, fuzzy
 msgid "This will remove the background image. You will not be able to restore any customizations."
-msgstr "Þessi aðgerð færir síðuhaus og lit í upprunalegt horf. Eldri stillingar hverfa; ekki hægt að afturkalla."
+msgstr ""
+"Þessi aðgerð mun fjarlægja bakgrunnsmyndina. Ekki verður hægt að endurheimta "
+"séraðlaganir."
 
 #: wp-admin/custom-background.php:222
 #: wp-admin/custom-background.php:226
 #: wp-admin/includes/image-edit.php:97
-#, fuzzy
 msgid "Restore Original Image"
 msgstr "Endurheimta upprunalega mynd"
 
 #: wp-admin/custom-background.php:227
 #, fuzzy
 msgid "This will restore the original background image. You will not be able to restore any customizations."
-msgstr "Þessi aðgerð færir síðuhaus og lit í upprunalegt horf. Eldri stillingar hverfa; ekki hægt að afturkalla."
+msgstr ""
+"Þessi aðgerð mun fjarlægja upprunalegu bakgrunnsmyndina. Ekki verður hægt að "
+"endurheimta séraðlaganir."
 
 #: wp-admin/custom-background.php:247
 #, fuzzy
 msgid "Display Options"
-msgstr "Stillingar útlits"
+msgstr "Birtingarvalkostir"
 
 #: wp-admin/custom-background.php:253
 #: wp-admin/widgets.php:278
@@ -8015,38 +8041,32 @@ msgid "Position"
 msgstr "Staða"
 
 #: wp-admin/custom-background.php:254
-#, fuzzy
 msgid "Background Position"
-msgstr "Y staða"
+msgstr "Staðsetning á bakgrunni"
 
 #: wp-admin/custom-background.php:271
 msgid "Repeat"
 msgstr "Endurtaka"
 
 #: wp-admin/custom-background.php:272
-#, fuzzy
 msgid "Background Repeat"
-msgstr "Endurtaka lag"
+msgstr "Endurtaka bakgrunn"
 
 #: wp-admin/custom-background.php:273
-#, fuzzy
 msgid "No Repeat"
-msgstr "Endurtaka lag"
+msgstr "Ekki endurtaka"
 
 #: wp-admin/custom-background.php:274
-#, fuzzy
 msgid "Tile"
-msgstr "Flísaleggja"
+msgstr "Tígla"
 
 #: wp-admin/custom-background.php:275
-#, fuzzy
 msgid "Tile Horizontally"
-msgstr "Tile Horizontally"
+msgstr "Tígla lárétt"
 
 #: wp-admin/custom-background.php:276
-#, fuzzy
 msgid "Tile Vertically"
-msgstr "Tile Vertically"
+msgstr "Tígla lóðrétt"
 
 #: wp-admin/custom-background.php:281
 msgid "Attachment"
@@ -8058,9 +8078,8 @@ msgid "Background Attachment"
 msgstr "Hleð viðhengi upp (%d%%)"
 
 #: wp-admin/custom-background.php:285
-#, fuzzy
 msgid "Scroll"
-msgstr "Skruna"
+msgstr "skruna"
 
 #: wp-admin/custom-background.php:289
 #, fuzzy
@@ -8133,9 +8152,8 @@ msgid "Large size"
 msgstr "Stór stærð"
 
 #: wp-admin/options-media.php:78
-#, fuzzy
 msgid "Embeds"
-msgstr "Koma fyrir kóta"
+msgstr ""
 
 #: wp-admin/options-media.php:83
 #, fuzzy
@@ -8150,7 +8168,7 @@ msgstr ""
 #: wp-admin/options-media.php:90
 #, fuzzy
 msgid "Maximum embed size"
-msgstr "Hámarksstærð: %1 MiB"
+msgstr "Hámarksstærð ívefja"
 
 #: wp-admin/options-media.php:96
 msgid "If the width value is left blank, embeds will default to the max width of your theme."
@@ -15172,5 +15190,3 @@ msgstr "ltr"
 #: wp-load.php:52
 msgid "There doesn't seem to be a <code>wp-config.php</code> file. I need this before we can get started. Need more help? <a href='http://codex.wordpress.org/Editing_wp-config.php'>We got it</a>. You can create a <code>wp-config.php</code> file through a web interface, but this doesn't work for all server setups. The safest way is to manually create the file.</p><p><a href='%ssetup-config.php' class='button'>Create a Configuration File</a>"
 msgstr "Engin <code>wp-config.php</code> skrá virðist tiltæk. Við þurfum á henni að halda. Vantar þig aðstoð? <a href='http://codex.wordpress.org/Editing_wp-config.php'>Við getum veitt hana</a>. Þú getur búið til <code>wp-config.php</code> skrá í gegnum netið, en það virkar ekki á öllum þjónum. Öruggast er að búa til skrána handvirkt.</p><p><a href='%ssetup-config.php' class='button'>Búa til samskipanaskrá</a>"
-
-
