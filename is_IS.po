@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: is_IS\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-02-23 17:12:19+00:00\n"
-"PO-Revision-Date: 2011-03-21 00:02-0000\n"
+"PO-Revision-Date: 2011-03-21 02:16-0000\n"
 "Last-Translator: Samúel Jón Gunnarsson <sammi@villingaholt.nu>\n"
 "Language-Team: Samúel Jón Gunnarsson <sammi@villingaholt.nu>\n"
 "Language: is\n"
@@ -224,7 +224,7 @@ msgstr "[%s] Notandanafn þitt og aðgangsorð"
 #: wp-includes/theme-compat/header.php:10
 #: wp-includes/theme-compat/comments-popup.php:10
 msgid "Theme without %1$s"
-msgstr "Snið án %1$s"
+msgstr "Þema án %1$s"
 
 #: wp-includes/theme-compat/footer.php:10
 #: wp-includes/theme-compat/sidebar.php:10
@@ -232,7 +232,7 @@ msgstr "Snið án %1$s"
 #: wp-includes/theme-compat/header.php:10
 #: wp-includes/theme-compat/comments-popup.php:10
 msgid "Please include a %1$s template in your theme."
-msgstr "Vinsamlegast legðu til %1$s skapalón fyrir sniðið þitt."
+msgstr "Vinsamlegast legðu til %1$s skapalón fyrir þemuna þína."
 
 #: wp-includes/theme-compat/footer.php:17
 msgid "%1$s is proudly powered by %2$s"
@@ -348,7 +348,7 @@ msgstr "Gild <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
 #: wp-includes/theme-compat/sidebar.php:74
 #, fuzzy
 msgid "XHTML Friends Network"
-msgstr "XHTML vinanet"
+msgstr "Netstýringaforrit"
 
 #: wp-includes/theme-compat/sidebar.php:74
 msgid "XFN"
@@ -1150,7 +1150,7 @@ msgstr "Lokið"
 #, fuzzy
 msgctxt "search results"
 msgid "No results found."
-msgstr "Ekkert fannst."
+msgstr "Engar niðurstöður fundust."
 
 #: wp-includes/script-loader.php:431
 msgid ""
@@ -1446,8 +1446,9 @@ msgid "Could not update comment status"
 msgstr "Gat ekki uppnýjað stöðu fyrir athugasemdir"
 
 #: wp-includes/class-http.php:244
+#, fuzzy
 msgid "A valid URL was not provided."
-msgstr ""
+msgstr "Þjónustan sem í boði er, er ekki gild"
 
 #: wp-includes/class-http.php:247
 msgid "User has blocked requests through HTTP."
@@ -1539,6 +1540,9 @@ msgstr "%s er varin WP valkostur sem ekki er unnt að breyta"
 #, fuzzy
 msgid "ERROR: %s is not a valid feed template."
 msgstr ""
+"<b>Villa</b>\n"
+"‚%s‘ er ekki gild Perl segð.\n"
+"%s"
 
 #: wp-includes/functions.php:2202
 #: wp-includes/functions.php:2320
@@ -1687,7 +1691,7 @@ msgstr "Tilraun þín til að breyta skránni &#8222;%s&#8220; mistókst."
 
 #: wp-includes/functions.php:2614
 msgid "Your attempt to edit this theme file: &#8220;%s&#8221; has failed."
-msgstr "Tilraun þín til að breyta sniðskránni &#8222;%s&#8220; mistókst."
+msgstr "Tilraun þín til að breyta þessari Þemuskrá: &#8220;%s&#8221; mistókst."
 
 #: wp-includes/functions.php:2615
 msgid "Your attempt to switch to this theme: &#8220;%s&#8221; has failed."
@@ -1841,7 +1845,7 @@ msgstr "Bæta við nýjum tenglaflokk"
 #: wp-includes/taxonomy.php:68
 #, fuzzy
 msgid "New Link Category Name"
-msgstr "Settu inn nafn á albúminu:"
+msgstr "Bæta við nýjum tenglaflokk"
 
 #: wp-includes/taxonomy.php:90
 #: wp-includes/taxonomy.php:91
@@ -2120,7 +2124,7 @@ msgstr "Athugasemdir með <abbr title=\"Really Simple Syndication\">RSS</abbr>"
 #: wp-includes/default-widgets.php:330
 #, fuzzy
 msgid "A calendar of your site&#8217;s posts"
-msgstr "Dagatal með færslunum þínum"
+msgstr "Nýjustu færslurnar á vefnum þínum"
 
 #: wp-includes/default-widgets.php:331
 #: wp-includes/general-template.php:1149
@@ -2259,9 +2263,8 @@ msgid "Tags"
 msgstr "Efnisorð"
 
 #: wp-includes/default-widgets.php:1028
-#, fuzzy
 msgid "Taxonomy:"
-msgstr "Ógilt flokkunarkerfi"
+msgstr "Flokkunarkerfi:"
 
 #: wp-includes/default-widgets.php:1056
 msgid "Use this widget to add one of your custom menus as a widget."
@@ -2274,9 +2277,8 @@ msgid "Custom Menu"
 msgstr "Valmyndar sem er skipt upp"
 
 #: wp-includes/default-widgets.php:1094
-#, fuzzy
 msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
-msgstr "Nýtt snið virkjað. <a href=\"%s\">Skoða vef</a>"
+msgstr "Engar valmyndir hafa verið stofnaðar. <a href=\"%s\">Stofna nokkrar</a>."
 
 #: wp-includes/default-widgets.php:1103
 #: wp-admin/nav-menus.php:487
@@ -2882,7 +2884,7 @@ msgstr "Spjall"
 #, fuzzy
 msgctxt "Post format"
 msgid "Gallery"
-msgstr "Myndasafn"
+msgstr "Samstæða"
 
 #: wp-includes/post.php:5061
 msgctxt "Post format"
@@ -2946,18 +2948,16 @@ msgid "Template is missing."
 msgstr "Sniðmát vantar."
 
 #: wp-includes/theme.php:336
-#, fuzzy
 msgid "The parent theme is missing. Please install the \"%s\" parent theme."
-msgstr "Virkt snið er gallað. Taka aftur upp sjálfgefið snið."
+msgstr "Yfirþema vantar. Vinsamlegast innsettu yfirþemað \"%s\"."
 
 #: wp-includes/theme.php:639
 msgid "Stylesheet is missing."
 msgstr "Stílmát vantar."
 
 #: wp-includes/admin-bar.php:91
-#, fuzzy
 msgid "Edit My Profile"
-msgstr "Breyta völdum setusniðum"
+msgstr "Breyta minni forstillingu"
 
 #: wp-includes/admin-bar.php:93
 #: wp-includes/admin-bar.php:95
@@ -2986,9 +2986,8 @@ msgid "Blavatar"
 msgstr "Genglar"
 
 #: wp-includes/admin-bar.php:128
-#, fuzzy
 msgid "Manage Comments"
-msgstr "Bæta við athugasemdum"
+msgstr "Stjórna athugasemdum"
 
 #: wp-includes/admin-bar.php:131
 #: wp-admin/admin-header.php:117
@@ -3002,7 +3001,6 @@ msgid "Shortlink"
 msgstr "Skjóta inn tengli"
 
 #: wp-includes/admin-bar.php:198
-#, fuzzy
 msgctxt "admin bar menu group label"
 msgid "Add New"
 msgstr "Bæta við"
@@ -3027,25 +3025,22 @@ msgstr "Valmyndir"
 
 #: wp-includes/admin-bar.php:277
 #: wp-admin/menu.php:48
-#, fuzzy
 msgid "%d WordPress Update"
-msgstr "Stigbæta WordPress"
+msgstr "%d WordPress uppfærsla"
 
 #: wp-includes/admin-bar.php:279
 #: wp-admin/menu.php:50
-#, fuzzy
 msgid "%d Plugin Update"
 msgid_plural "%d Plugin Updates"
-msgstr[0] "Uppfæra straum hv&erja:"
-msgstr[1] "%d viðbót"
+msgstr[0] "%d uppfærsla á viðbót"
+msgstr[1] "%d uppfærslur á viðbótum"
 
 #: wp-includes/admin-bar.php:281
 #: wp-admin/menu.php:52
-#, fuzzy
 msgid "%d Theme Update"
 msgid_plural "%d Themes Updates"
-msgstr[0] "Stigbæta snið"
-msgstr[1] "Síða sniðs"
+msgstr[0] "%d uppfærsla á þemu"
+msgstr[1] "%d uppfærsla á þemu"
 
 #: wp-includes/admin-bar.php:286
 #: wp-admin/menu.php:58
@@ -4158,7 +4153,7 @@ msgstr "Leyfi"
 #: wp-admin/plugins.php:340
 #: wp-admin/menu.php:179
 msgid "Plugins"
-msgstr "Íbætur"
+msgstr "Viðbætur"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:255
 #: wp-admin/includes/class-wp-plugins-list-table.php:189
@@ -5160,7 +5155,7 @@ msgstr "Því miður, þú getur ekki breytt færslum á þessum vef."
 #: wp-includes/class-wp-xmlrpc-server.php:813
 #, fuzzy
 msgid "Sorry, you must be able to edit posts on this site in order to view tags."
-msgstr "Þú verður að hafa heimild til að breyta færslum á þessum vef til þess að skoða efnisorð."
+msgstr "Þú verður að hafa heimild til að breyta færslum á þessum vef til þess að geta skoðað merkingar."
 
 #: wp-includes/class-wp-xmlrpc-server.php:858
 msgid "Sorry, you do not have the right to add a category."
@@ -5178,7 +5173,7 @@ msgstr "Því miður, þú hefur ekki heimild til að eyða flokki."
 #: wp-includes/class-wp-xmlrpc-server.php:942
 #, fuzzy
 msgid "Sorry, you must be able to edit posts to this site in order to view categories."
-msgstr "Þú verður að hafa leyfi til að breyta færslum til þess að skoða flokka."
+msgstr "Þú verður að hafa leyfi til að breyta færslum á þessum vef til þess að geta skoðað flokka."
 
 #: wp-includes/class-wp-xmlrpc-server.php:978
 #: wp-includes/class-wp-xmlrpc-server.php:1100
@@ -5187,7 +5182,7 @@ msgstr "Þú verður að hafa leyfi til að breyta færslum til þess að skoða
 #: wp-includes/class-wp-xmlrpc-server.php:1137
 #, fuzzy
 msgid "You are not allowed to moderate comments on this site."
-msgstr "Þú hefur ekki heimild til að breyta athugasemdum við þessa færslu."
+msgstr "Þú hefur ekki heimild til að breyta athugasemdum á þessum vef."
 
 #: wp-includes/class-wp-xmlrpc-server.php:983
 #: wp-includes/class-wp-xmlrpc-server.php:1108
@@ -5231,7 +5226,7 @@ msgstr "Slá verður inn gilt netfang"
 #: wp-includes/class-wp-xmlrpc-server.php:1398
 #, fuzzy
 msgid "You are not allowed access to details about this site."
-msgstr "Þú hefur ekki aðgang að upplýsingum um þennan vef."
+msgstr "Þú hefur ekki heimild til að skoða upplýsingar um þennan vef."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1314
 msgid "You are not allowed access to details about comments."
@@ -5244,7 +5239,7 @@ msgstr "Þú hefur ekki heimild til að breyta valkostum."
 #: wp-includes/class-wp-xmlrpc-server.php:1525
 #, fuzzy
 msgid "You are not allowed to upload files on this site."
-msgstr "Þú hefur ekki heimild til að hlaða upp gögnum á þennan vef."
+msgstr "Því miður hefur þú ekki heimild til að senda inn færslu á þessum vef."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1530
 #, fuzzy
@@ -5651,7 +5646,7 @@ msgstr "Skráningu lokið. Athugaðu pósthólfið þitt."
 #: wp-login.php:621
 #, fuzzy
 msgid "Your session has expired. Please log-in again."
-msgstr "Vinsamlegast skráðu þig inn aftur vegna þess að setan þín rann út. "
+msgstr "Setan þín rann út. Vinsamlegast skráðu þig inn að nýju. "
 
 #: wp-admin/revision.php:96
 msgid "Compare Revisions of &#8220;%1$s&#8221;"
@@ -5679,7 +5674,7 @@ msgstr "Þessar útgáfur eru eins."
 #: wp-admin/link.php:18
 #, fuzzy
 msgid "You do not have sufficient permissions to edit the links for this site."
-msgstr "Þú hefur ekki tilskilin réttindi til að breyta tenglum á þessum vef."
+msgstr "Þú hefur ekki fullnægjandi réttindi til að breyta tenglum á þessum vef."
 
 #: wp-admin/link-manager.php:44
 msgid "You can add links here to be displayed on your site, usually using <a href=\"%s\">Widgets</a>. By default, links to several sites in the WordPress community are included as examples."
@@ -5736,12 +5731,12 @@ msgstr ""
 #: wp-admin/nav-menus.php:455
 #, fuzzy
 msgid "For more information:"
-msgstr "Sjá %1 til að fá frekari upplýsingar."
+msgstr "Nánari upplýsingar:"
 
 #: wp-admin/link-manager.php:49
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Links_Links_SubPanel\" target=\"_blank\">Documentation on Managing Links</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Users_Users_SubPanel\" target=\"_blank\">Skjölun á umsýslu með notendur</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Links_Links_SubPanel\" target=\"_blank\">Skjölun á umsýslu með tengla</a>"
 
 #: wp-admin/link-manager.php:50
 #: wp-admin/user-new.php:150
@@ -5910,7 +5905,7 @@ msgstr ""
 #: wp-admin/user-new.php:149
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Users_Add_New_SubPanel\" target=\"_blank\">Documentation on Adding New Users</a>"
-msgstr "<a href=\"http://codex.wordpress.org/\" target=\"_blank\">Leiðbeiningar</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Links_Add_New_SubPanel\" target=\"_blank\">Skjölun á stofnun tengla</a>"
 
 #: wp-admin/user-new.php:163
 msgid "Invitation email sent to new user. A confirmation link must be clicked before their account is created."
@@ -5931,12 +5926,12 @@ msgstr "Þessi notandi er núþegar meðlimur á þessum vef. "
 #: wp-admin/user-new.php:175
 #, fuzzy
 msgid "The requested user does not exist."
-msgstr "Snið sem óskað er eftir er ekki til."
+msgstr "Notandi sem óskað var eftir er ekki til."
 
 #: wp-admin/user-new.php:178
 #, fuzzy
 msgid "Please enter a valid email address."
-msgstr "Villa: sláðu inn rétt netfang. "
+msgstr "Vinsamlegast sláðu inn gilt netfang."
 
 #: wp-admin/user-new.php:183
 msgid "User added."
@@ -6069,7 +6064,7 @@ msgstr "<strong>Fleiri WordPress fréttir</strong> - birta fréttamola frá <a h
 
 #: wp-admin/index.php:46
 msgid "<strong>Plugins</strong> - Features the most popular, newest, and recently updated plugins from the WordPress.org Plugin Directory."
-msgstr "<strong>Íbætur</strong> - birta yfirlit yfir vinsælustu, nýjar og nýlega uppfærðar íbætur frá WordPress.org. "
+msgstr "<strong>Viðbætur</strong> - birta yfirlit yfir vinsælustu, nýjar og nýlega uppfærðar viðbætur frá WordPress.org. "
 
 #: wp-admin/index.php:48
 msgid "<a href=\"http://codex.wordpress.org/Dashboard_SubPanel\" target=\"_blank\">Documentation on Dashboard</a>"
@@ -6233,7 +6228,7 @@ msgstr "Kjörorð"
 #: wp-admin/options-general.php:91
 #, fuzzy
 msgid "In a few words, explain what this site is about."
-msgstr "Settu inn stutta lýsingu á blogginu."
+msgstr "Útskýrðu í fáum orðum um hvað þessi vefur fjallar."
 
 #: wp-admin/options-general.php:95
 msgid "WordPress address (URL)"
@@ -6385,16 +6380,15 @@ msgstr ""
 #: wp-admin/theme-editor.php:33
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Using_Themes\" target=\"_blank\">Documentation on Using Themes</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Users_Users_SubPanel\" target=\"_blank\">Skjölun á umsýslu með notendur</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Dashboard_SubPanel\" target=\"_blank\">Skjölun á Stjórnborði</a>"
 
 #: wp-admin/themes.php:61
 msgid "The active theme is broken.  Reverting to the default theme."
 msgstr "Virkt snið er gallað. Taka aftur upp sjálfgefið snið."
 
 #: wp-admin/themes.php:64
-#, fuzzy
 msgid "New theme activated. This theme supports widgets, please visit the <a href=\"%s\">widgets settings</a> screen to configure them."
-msgstr "Nýtt snið er nú virkt. Sniðið styður aukahluti, skoðaðu <a href=\"%s\">stillingar fyrir aukahluti</a> til að nota þá með sniðinu."
+msgstr "Nýtt þema er nú virkt. Þemað styður aukahluti, skoðaðu <a href=\"%s\">stillingar fyrir aukahluti</a> til að nota þá með þemanu."
 
 #: wp-admin/themes.php:66
 msgid "New theme activated. <a href=\"%s\">Visit site</a>"
@@ -6402,7 +6396,7 @@ msgstr "Nýtt snið virkjað. <a href=\"%s\">Skoða vef</a>"
 
 #: wp-admin/themes.php:69
 msgid "Theme deleted."
-msgstr "Sniði eytt."
+msgstr "Þemu eytt."
 
 #: wp-admin/themes.php:78
 msgctxt "theme"
@@ -6411,7 +6405,7 @@ msgstr "Setja upp snið"
 
 #: wp-admin/themes.php:86
 msgid "Current Theme"
-msgstr "Snið í notkun"
+msgstr "Núverandi þema"
 
 #: wp-admin/themes.php:89
 msgid "Current theme preview"
@@ -6462,9 +6456,8 @@ msgid "Broken Themes"
 msgstr "Ófullkomin snið"
 
 #: wp-admin/themes.php:212
-#, fuzzy
 msgid "The following themes are installed but incomplete. Themes must have a stylesheet and a template."
-msgstr "Eftirtalin snið hafa verið sett upp en eru ófullnægjandi. Öll snið verða að hafa stílmát og sniðmát."
+msgstr "Eftirtalin þemu hafa verið sett upp en eru ófullnægjandi. Öll snið verða að hafa stílmát og sniðmát."
 
 #: wp-admin/media.php:23
 #: wp-admin/media.php:57
@@ -6480,7 +6473,7 @@ msgstr "Breyta gögnum"
 #: wp-admin/media.php:61
 #, fuzzy
 msgid "You attempted to edit an attachment that doesn&#8217;t exist. Perhaps it was deleted?"
-msgstr "Þú reyndir að breyta síðu sem er ekki til. Gæti henni hafa verið eytt?"
+msgstr "Þú reyndir að breyta hlut sem er ekki til. Er hugsanlegt að honum hafi verið eytt?"
 
 #: wp-admin/media.php:62
 msgid "You can&#8217;t edit this attachment because it is in the Trash. Please move it out of the Trash and try again."
@@ -6505,7 +6498,7 @@ msgstr ""
 #: wp-admin/media.php:76
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Media_Add_New_SubPanel#Edit_Media\" target=\"_blank\">Documentation on Edit Media</a>"
-msgstr "<a href=\"http://codex.wordpress.org/\" target=\"_blank\">Leiðbeiningar</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Links_Add_New_SubPanel\" target=\"_blank\">Skjölun á stofnun tengla</a>"
 
 #: wp-admin/media.php:88
 #: wp-admin/upload.php:171
@@ -6548,7 +6541,7 @@ msgstr "Sérsniðinn síðuhaus"
 #: wp-admin/custom-header.php:430
 #, fuzzy
 msgid "Header updated. <a href=\"%s\">Visit your site</a> to see how it looks."
-msgstr "Nýtt snið virkjað. <a href=\"%s\">Skoða vef</a>"
+msgstr "Bakgrunnur uppfÃ¦rÃ°ur. <a href=\"%s\">SkoÃ°aÃ°u vef Ã¾inn</a> til aÃ° sjÃ¡ hann lÃ­tur Ãºt."
 
 #: wp-admin/custom-header.php:434
 msgid "Header Image"
@@ -6605,7 +6598,7 @@ msgstr "Fjarlægja mynd"
 #: wp-admin/custom-header.php:503
 #, fuzzy
 msgid "This will remove the header image. You will not be able to restore any customizations."
-msgstr "Þessi aðgerð fjarlægir mynd í síðuhaus. Eldri séraðlaganir hverfa og ekki er hægt að afturkalla."
+msgstr "Ãessi aÃ°gerÃ° mun fjarlÃ¦gja bakgrunnsmyndina. Ekki verÃ°ur hÃ¦gt aÃ° endurheimta sÃ©raÃ°laganir."
 
 #: wp-admin/custom-header.php:504
 #, fuzzy
@@ -6620,22 +6613,20 @@ msgstr "Umslagsmynd"
 #: wp-admin/custom-header.php:513
 #, fuzzy
 msgid "This will restore the original header image. You will not be able to restore any customizations."
-msgstr "Þessi aðgerð færir síðuhaus og lit í upprunalegt horf. Eldri stillingar hverfa; ekki hægt að afturkalla."
+msgstr "Þessi aðgerð færir síðuhaus og lit í upprunalegt horf. Þú munt ekki geta endurheimt séraðlaganir."
 
 #: wp-admin/custom-header.php:514
 #, fuzzy
 msgid "Restore Original Header Image"
-msgstr "Eyða upprunalegum myndskrám"
+msgstr "Endurheimta upprunalega síðuhaus"
 
 #: wp-admin/custom-header.php:522
-#, fuzzy
 msgid "Header Text"
-msgstr "Textasía"
+msgstr "Texti síðuhauss"
 
 #: wp-admin/custom-header.php:526
-#, fuzzy
 msgid "Display Text"
-msgstr "Sýna texta:"
+msgstr "Birta texta"
 
 #: wp-admin/custom-header.php:530
 #: wp-admin/comment.php:182
@@ -6668,12 +6659,12 @@ msgstr "Endursetja lit á texta"
 #: wp-admin/custom-header.php:552
 #, fuzzy
 msgid "This will restore the original header text. You will not be able to restore any customizations."
-msgstr "Þessi aðgerð færir síðuhaus og lit í upprunalegt horf. Eldri stillingar hverfa; ekki hægt að afturkalla."
+msgstr "Þessi aðgerð færir síðuhaus og lit í upprunalegt horf. Þú munt ekki geta endurheimt séraðlaganir."
 
 #: wp-admin/custom-header.php:553
 #, fuzzy
 msgid "Restore Original Header Text"
-msgstr "_Endurheimta upprunalega stærð"
+msgstr "Endurheimta upprunalega síðuhaus"
 
 #: wp-admin/custom-header.php:586
 #, fuzzy
@@ -6734,7 +6725,7 @@ msgstr "Þú verður að ýta á hnappinn Vista breytingar neðst á skjánum ti
 #: wp-admin/options-discussion.php:22
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Settings_Discussion_SubPanel\" target=\"_blank\">Documentation on Discussion Settings</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Users_Users_SubPanel\" target=\"_blank\">Skjölun á umsýslu með notendur</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Settings_General_SubPanel\" target=\"_blank\">Skjölun á almennum stillingum</a>"
 
 #: wp-admin/options-discussion.php:38
 #: wp-admin/options-discussion.php:39
@@ -7070,7 +7061,7 @@ msgstr "Setja upp íbætur"
 
 #: wp-admin/plugin-install.php:45
 msgid "Plugins hook into WordPress to extend its functionality with custom features. Plugins are developed independently from WordPress core by thousands of developers all over the world. All plugins in the official <a href=\"%s\" target=\"_blank\">WordPress.org Plugin Directory</a> are compatible with the WordPress GPL v2 license. You can find new plugins to install by searching or browsing the Directory right here in your own Plugins section."
-msgstr "Íbætur krækja inn í WordPress og útvíkka þannig virkni með sérsniðnum möguleikum. Íbætur eru þróaðar af þúsundum forritara út um allan heim.  Allar íbætur sem finna má á <a href=\"%s\" target=\"_blank\">WordPress.org viðbótaspjaldskránni</a> eru samhæfð WordPress GPL v2 leyfinu. Þú getur fundið nýjar íbætur til innsetningar með því að leita eða vafra um spjaldskránna hér í viðbóta hluta vefsins. "
+msgstr "Viðbætur krækja inn í WordPress og útvíkka þannig virkni með sérsniðnum möguleikum. Viðbætur eru þróaðar af þúsundum forritara út um allan heim.  Allar viðbætur sem finna má á <a href=\"%s\" target=\"_blank\">WordPress.org viðbótaspjaldskránni</a> eru samhæfð WordPress GPL v2 leyfinu. Þú getur fundið nýjar viðbætur til innsetningar með því að leita eða vafra um spjaldskránna hér í umsýsluhluta viðbóta. "
 
 #: wp-admin/plugin-install.php:46
 msgid "If you know what you&#8217;re looking for, Search is your best bet. The Search screen has options to search the WordPress.org Plugin Directory for a particular Term, Author, or Tag. You can also search the directory by selecting a popular tags. Tags in larger type mean more plugins have been labeled with that tag."
@@ -7161,16 +7152,16 @@ msgstr "<a href=\"http://codex.wordpress.org/Theme_Development\" target=\"_blank
 #: wp-admin/theme-editor.php:34
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Editing_Files\" target=\"_blank\">Documentation on Editing Files</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Users_Users_SubPanel\" target=\"_blank\">Skjölun á umsýslu með notendur</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Plugins_Editor_SubPanel\" target=\"_blank\">Skjölun á breytingu íbóta</a>"
 
 #: wp-admin/theme-editor.php:35
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Template_Tags\" target=\"_blank\">Documentation on Template Tags</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Users_Users_SubPanel\" target=\"_blank\">Skjölun á umsýslu með notendur</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Dashboard_SubPanel\" target=\"_blank\">Skjölun á Stjórnborði</a>"
 
 #: wp-admin/theme-editor.php:52
 msgid "The requested theme does not exist."
-msgstr "Snið sem óskað er eftir er ekki til."
+msgstr "Þemað sem óskað var eftir er ekki til."
 
 #: wp-admin/theme-editor.php:122
 msgid "Function Name..."
@@ -7257,16 +7248,19 @@ msgid "You appear to have already installed WordPress. To reinstall please clear
 msgstr "Svo virðist sem uppsetning WordPress hafi þegar farið fram. Ef þú hyggst setja kerfið upp aftur skaltu rýma töflur í gagnagrunni fyrst."
 
 #: wp-admin/install.php:153
+#, fuzzy
 msgid "You cannot install because <a href=\"http://codex.wordpress.org/Version_%1$s\">WordPress %1$s</a> requires PHP version %2$s or higher and MySQL version %3$s or higher. You are running PHP version %4$s and MySQL version %5$s."
-msgstr ""
+msgstr "Þú getur ekki uppfært vegna þess að <a href=\"http://codex.wordpress.org/Version_%1$s\">WordPress %1$s</a> krefst PHP útgáfu %2$s eða hærra og MySQL útgáfu %3$s eða hærra. Þú ert að keyra PHP útgáfu %4$s og MySQL útgáfu %5$s."
 
 #: wp-admin/install.php:155
+#, fuzzy
 msgid "You cannot install because <a href=\"http://codex.wordpress.org/Version_%1$s\">WordPress %1$s</a> requires PHP version %2$s or higher. You are running version %3$s."
-msgstr ""
+msgstr "Þú getur ekki uppfært vegna þess að <a href=\"http://codex.wordpress.org/Version_%1$s\">WordPress %1$s</a> krefst PHP útgáfu %2$s eða hærra. Þú ert að keyra PHP útgáfu %3$s."
 
 #: wp-admin/install.php:157
+#, fuzzy
 msgid "You cannot install because <a href=\"http://codex.wordpress.org/Version_%1$s\">WordPress %1$s</a> requires MySQL version %2$s or higher. You are running version %3$s."
-msgstr ""
+msgstr "Þú getur ekki uppfært vegna þess að <a href=\"http://codex.wordpress.org/Version_%1$s\">WordPress %1$s</a> krefst MySQL útgáfu %2$s eða hærra. Þú ert að keyra MySQL útgáfu %3$s."
 
 #: wp-admin/install.php:161
 msgid "Insufficient Requirements"
@@ -7339,7 +7333,7 @@ msgstr "Athugið: Turbo/Gears viðbótin er ekki lengur í boði á þessum skj�
 #: wp-admin/tools.php:19
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Tools_Tools_SubPanel\" target=\"_blank\">Documentation on Tools</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Users_Users_SubPanel\" target=\"_blank\">Skjölun á umsýslu með notendur</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Dashboard_SubPanel\" target=\"_blank\">Skjölun á Stjórnborði</a>"
 
 #: wp-admin/tools.php:32
 #: wp-admin/tools.php:37
@@ -7479,7 +7473,7 @@ msgstr "Eigindi"
 #: wp-admin/edit-form-advanced.php:133
 #, fuzzy
 msgid "Featured Image"
-msgstr "Umslagsmynd"
+msgstr "Nota sem mynd"
 
 #: wp-admin/edit-form-advanced.php:139
 msgid "Send Trackbacks"
@@ -7560,9 +7554,8 @@ msgid "<strong>Parent</strong> - You can arrange your pages in hierarchies. For 
 msgstr "Þú getur raðað síðunum í þrep. Þú getur t.d. sett upp síðu sem heitir &#8222;Um mig&#8220; með undirsíðum sem heita &#8222;Æviágrip&#8220; og &#8222;Hundurinn minn&#8220;. Engin takmörk eru fyrir undirskipun af þessu tagi fyrir síður."
 
 #: wp-admin/edit-form-advanced.php:190
-#, fuzzy
 msgid "<strong>Template</strong> - Some themes have custom templates you can use for certain pages that might have additional features or custom layouts. If so, you&#8217;ll see them in this dropdown menu."
-msgstr "Sum snið hafa sértæk sniðmát sem nota má fyrir tilteknar síður sem hafa aukaeiginleika af einhverju tagi eða sérsniðið útlit. Ef svo er ættirðu að sjá þau hér að ofan."
+msgstr "<strong>Sniðmát</strong> - Sum þemu hafa sértæk sniðmát sem nota má fyrir tilteknar síður sem hafa viðbótar eiginleika af einhverju tagi eða sérsniðið útlit. Ef svo er ættirðu að sjá þau hér í fellivalmyndinni."
 
 #: wp-admin/edit-form-advanced.php:191
 msgid "<strong>Order</strong> - Pages are usually ordered alphabetically, but you can choose your own order by entering a number (1 for first, etc.) in this field."
@@ -7571,12 +7564,12 @@ msgstr ""
 #: wp-admin/edit-form-advanced.php:193
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Pages_Add_New_SubPanel\" target=\"_blank\">Documentation on Adding New Pages</a>"
-msgstr "<a href=\"http://codex.wordpress.org/\" target=\"_blank\">Leiðbeiningar</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Links_Add_New_SubPanel\" target=\"_blank\">Skjölun á stofnun tengla</a>"
 
 #: wp-admin/edit-form-advanced.php:194
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Pages_Pages_SubPanel#Editing_Individual_Pages\" target=\"_blank\">Documentation on Editing Pages</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Pages_Pages_SubPanel#Editing_Individual_Pages\" target=\"_blank\">Skjölun á hvernig breyta á síðum</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Plugins_Editor_SubPanel\" target=\"_blank\">Skjölun á breytingu íbóta</a>"
 
 #: wp-admin/edit-form-advanced.php:246
 #, fuzzy
@@ -7615,7 +7608,7 @@ msgstr "Ógild færsla."
 #: wp-admin/edit-tags.php:227
 #, fuzzy
 msgid "You are not allowed to edit this item."
-msgstr "Þú hefur ekki heimild til að breyta þessu fylgiskjali."
+msgstr "ÃÃº hefur ekki heimild til aÃ° eyÃ°a Ã¾essari fÃ¦rslu."
 
 #: wp-admin/comment.php:46
 #: wp-admin/edit-form-comment.php:16
@@ -7701,12 +7694,12 @@ msgstr "Samþykkja athugasemd"
 #: wp-admin/comment.php:138
 #, fuzzy
 msgid "This comment is currently approved."
-msgstr "Þetta mundasafn er ekki tiltækt."
+msgstr "Ãessi athugasemd hefur Ã¾egar veriÃ° samÃ¾ykkt."
 
 #: wp-admin/comment.php:141
 #, fuzzy
 msgid "This comment is currently marked as spam."
-msgstr "%s athugasemd flokkuð sem amasending"
+msgstr "Þessi athugasemd flokkuð sem ruslsending."
 
 #: wp-admin/comment.php:144
 msgid "This comment is currently in the Trash."
@@ -7993,12 +7986,12 @@ msgstr "Endurheimta upprunalega mynd"
 #: wp-admin/custom-background.php:227
 #, fuzzy
 msgid "This will restore the original background image. You will not be able to restore any customizations."
-msgstr "Þessi aðgerð mun fjarlægja upprunalegu bakgrunnsmyndina. Ekki verður hægt að endurheimta séraðlaganir."
+msgstr "Ãessi aÃ°gerÃ° mun fjarlÃ¦gja bakgrunnsmyndina. Ekki verÃ°ur hÃ¦gt aÃ° endurheimta sÃ©raÃ°laganir."
 
 #: wp-admin/custom-background.php:247
 #, fuzzy
 msgid "Display Options"
-msgstr "Birtingarvalkostir"
+msgstr "Birta rofa á skipanalínu"
 
 #: wp-admin/custom-background.php:253
 #: wp-admin/widgets.php:278
@@ -8078,7 +8071,7 @@ msgstr ""
 #: wp-admin/options-media.php:24
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Settings_Media_SubPanel\" target=\"_blank\">Documentation on Media Settings</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Users_Users_SubPanel\" target=\"_blank\">Skjölun á umsýslu með notendur</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Media_Library_SubPanel\" target=\"_blank\">HjÃ¡lpaskjÃ¶lun um MargmiÃ°lunarsafn</a>"
 
 #: wp-admin/options-media.php:39
 msgid "Image sizes"
@@ -8133,7 +8126,7 @@ msgstr ""
 #: wp-admin/options-media.php:90
 #, fuzzy
 msgid "Maximum embed size"
-msgstr "Hámarksstærð ívefja"
+msgstr "Hámarksstærð: %1 MiB"
 
 #: wp-admin/options-media.php:96
 msgid "If the width value is left blank, embeds will default to the max width of your theme."
@@ -8396,7 +8389,7 @@ msgstr[1] "Fylgiskjal uppnýjað."
 #: wp-admin/upload.php:198
 #, fuzzy
 msgid "Media permanently deleted."
-msgstr "Er ekki hægt að eyða"
+msgstr "%s athugasemd eytt endanlega"
 
 #: wp-admin/upload.php:199
 msgid "Error saving media attachment."
@@ -8410,7 +8403,7 @@ msgstr "Flutningur í ruslið tókst."
 #: wp-admin/upload.php:201
 #, fuzzy
 msgid "Media restored from the trash."
-msgstr "Ekki var hægt að endurheimta hlutinn úr ruslinu"
+msgstr "hlutur endurheimtur úr ruslinu."
 
 #: wp-admin/upload.php:216
 #: wp-admin/includes/media.php:1923
@@ -8456,7 +8449,7 @@ msgstr "Athugasemdin %d er ekki til"
 #: wp-admin/admin-ajax.php:1370
 #, fuzzy
 msgid "An error has occurred. Please reload the page and try again."
-msgstr "Villa kom upp. Nýglæddu síðuna og reyndu aftur."
+msgstr "Villa kom upp við að kvarða mynd. Prófaðu að endurhlaða síðunni og reyna að nýju."
 
 #: wp-admin/admin-ajax.php:577
 msgid "No tags found!"
@@ -8567,7 +8560,7 @@ msgstr "d/m/Y"
 #: wp-admin/export.php:13
 #, fuzzy
 msgid "You do not have sufficient permissions to export the content of this site."
-msgstr "Þú hefur ekki heimild til að breyta sniðum á þessum vef."
+msgstr "Þú hefur ekki fullnægjandi réttindi til að bæta við tenglum á þessum vef."
 
 #: wp-admin/export.php:17
 #: wp-admin/menu.php:212
@@ -8965,7 +8958,7 @@ msgstr ""
 #: wp-admin/options-writing.php:22
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Settings_Writing_SubPanel\" target=\"_blank\">Documentation on Writing Settings</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Users_Users_SubPanel\" target=\"_blank\">Skjölun á umsýslu með notendur</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Settings_General_SubPanel\" target=\"_blank\">Skjölun á almennum stillingum</a>"
 
 #: wp-admin/options-writing.php:38
 msgid "Size of the post box"
@@ -8993,9 +8986,8 @@ msgid "Default Post Category"
 msgstr "Sjálfgefinn efnisflokkur"
 
 #: wp-admin/options-writing.php:65
-#, fuzzy
 msgid "Default Post Format"
-msgstr "Sjálfgefið snið lita"
+msgstr "Sjálfgefið færsluforsnið"
 
 #: wp-admin/options-writing.php:68
 #: wp-admin/includes/meta-boxes.php:257
@@ -9213,20 +9205,19 @@ msgstr "Uppsett (læst við núverandi útgáfu)"
 #: wp-admin/menu.php:148
 #: wp-admin/menu.php:153
 msgid "Themes"
-msgstr "Snið"
+msgstr "Þemu"
 
 #: wp-admin/update-core.php:260
 msgid "Your themes are all up to date."
-msgstr "Öll snið eru af nýjustu gerð."
+msgstr "Öll þemu eru af nýjustu gerð."
 
 #: wp-admin/update-core.php:268
 msgid "The following themes have new versions available. Check the ones you want to update and then click &#8220;Update Themes&#8221;."
-msgstr "Eftirfarandi snið eru til í nýrri útgáfu. Hakaðu við þau snið sem þú vilt uppfæra og ýttu svo á &#8220;Stigbæta snið&#8221;."
+msgstr "Eftirfarandi þemu eru til í nýrri útgáfu. Hakaðu við þau þemu sem þú vilt uppfæra og ýttu svo á &#8220;Uppfæra þemu&#8221;."
 
 #: wp-admin/update-core.php:269
-#, fuzzy
 msgid "<strong>Please Note:</strong> Any customizations you have made to theme files will be lost. Please consider using <a href=\"%s\">child themes</a> for modifications."
-msgstr "<strong>Vinsamlegast athugið:</strong> Ef þú hefur framkvæmt séraðlaganir á sniði þá munu þær tapast. Vinsamlegast íhugaðu að nota <a href=\"%s\">barnasnið</a> fyrir séraðlaganir."
+msgstr "<strong>Vinsamlegast athugið:</strong> Allar séraðlaganir á þemu munu tapast. Vinsamlegast íhugaðu að nota <a href=\"%s\">undirþemu</a> fyrir séraðlaganir."
 
 #: wp-admin/update-core.php:269
 #, fuzzy
@@ -9250,9 +9241,8 @@ msgid "Installation Failed"
 msgstr "Uppsetning mistókst"
 
 #: wp-admin/update-core.php:357
-#, fuzzy
 msgid "WordPress updated successfully"
-msgstr "vino-passwd: lykilorðið uppfærðist.\n"
+msgstr "WordPress uppfært án vandræða"
 
 #: wp-admin/update-core.php:358
 #, fuzzy
@@ -9295,7 +9285,7 @@ msgstr ""
 #: wp-admin/options-reading.php:50
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Settings_Reading_SubPanel\" target=\"_blank\">Documentation on Reading Settings</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Users_Users_SubPanel\" target=\"_blank\">Skjölun á umsýslu með notendur</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Settings_General_SubPanel\" target=\"_blank\">Skjölun á almennum stillingum</a>"
 
 #: wp-admin/options-reading.php:78
 #: wp-admin/options-reading.php:79
@@ -9318,9 +9308,8 @@ msgstr "Forsíða: %s"
 #: wp-admin/options-reading.php:92
 #: wp-admin/includes/template.php:544
 #: wp-admin/widgets.php:295
-#, fuzzy
 msgid "&mdash; Select &mdash;"
-msgstr "Veldu snið:"
+msgstr "&mdash; Veldu &mdash;"
 
 #: wp-admin/options-reading.php:92
 msgid "Posts page: %s"
@@ -9479,25 +9468,24 @@ msgid "Change Theme"
 msgstr "Breyta sniði"
 
 #: wp-admin/includes/dashboard.php:392
-#, fuzzy
 msgid "Theme <span class=\"b\">%1$s</span> with <span class=\"b\"><a href=\"widgets.php\">%2$s Widget</a></span>"
 msgid_plural "Theme <span class=\"b\">%1$s</span> with <span class=\"b\"><a href=\"widgets.php\">%2$s Widgets</a></span>"
-msgstr[0] "Snið: <span class=\"b\"><a href=\"themes.php\">%1$s</a></span> ásamt <span class=\"b\"><a href=\"widgets.php\">%2$s aukahlut</a></span>"
-msgstr[1] "Snið: <span class=\"b\"><a href=\"themes.php\">%1$s</a></span> ásamt <span class=\"b\"><a href=\"widgets.php\">%2$s aukahlutum</a></span>"
+msgstr[0] "Þemað <span class=\"b\"><a href=\"themes.php\">%1$s</a></span> ásamt <span class=\"b\"><a href=\"widgets.php\">%2$s aukahlut</a></span>"
+msgstr[1] "Þemað <span class=\"b\"><a href=\"themes.php\">%1$s</a></span> ásamt <span class=\"b\"><a href=\"widgets.php\">%2$s aukahlutum</a></span>"
 
 #: wp-admin/includes/dashboard.php:394
 msgid "Theme <span class=\"b\">%1$s</span> with <span class=\"b\">%2$s Widget</span>"
 msgid_plural "Theme <span class=\"b\">%1$s</span> with <span class=\"b\">%2$s Widgets</span>"
-msgstr[0] "Sniðið <span class=\"b\">%1$s</span> ásamt <span class=\"b\">%2$s aukahlut</span>"
-msgstr[1] "Sniðið <span class=\"b\">%1$s</span> ásamt <span class=\"b\">%2$s aukahlutum</span>"
+msgstr[0] "Þemað <span class=\"b\">%1$s</span> ásamt <span class=\"b\">%2$s aukahlut</span>"
+msgstr[1] "Þemað <span class=\"b\">%1$s</span> ásamt <span class=\"b\">%2$s aukahlutum</span>"
 
 #: wp-admin/includes/dashboard.php:399
 msgid "Theme <span class=\"b\"><a href=\"themes.php\">%1$s</a></span>"
-msgstr "Snið <span class=\"b\"><a href=\"themes.php\">%1$s</a></span>"
+msgstr "Þemað <span class=\"b\"><a href=\"themes.php\">%1$s</a></span>"
 
 #: wp-admin/includes/dashboard.php:401
 msgid "Theme <span class=\"b\">%1$s</span>"
-msgstr "Snið <span class=\"b\">%1$s</span>"
+msgstr "Þemað <span class=\"b\">%1$s</span>"
 
 #: wp-admin/includes/dashboard.php:416
 msgid "Create a New Site"
@@ -10009,7 +9997,7 @@ msgstr "Spegla lóðrétt"
 #: wp-admin/includes/image-edit.php:54
 #, fuzzy
 msgid "Flip horizontally"
-msgstr "Spegla lárétt"
+msgstr "Spegla lóðrétt"
 
 #: wp-admin/includes/image-edit.php:82
 msgid "Scale Image"
@@ -10092,7 +10080,6 @@ msgid "Once started, the selection can be adjusted by entering new values (in pi
 msgstr ""
 
 #: wp-admin/includes/image-edit.php:139
-#, fuzzy
 msgid "Aspect ratio:"
 msgstr "Stærðarhlutföll:"
 
@@ -10549,7 +10536,7 @@ msgstr "Óþekkt villa átti sér stað."
 
 #: wp-admin/includes/plugin-install.php:84
 msgid "Plugins extend and expand the functionality of WordPress. You may automatically install plugins from the <a href=\"http://wordpress.org/extend/plugins/\">WordPress Plugin Directory</a> or upload a plugin in .zip format via this page."
-msgstr "Íbætur eru hjálpargögn sem auka hæfni WordPress-kerfisins. Þú getur sett upp íbætur sjálfvirkt með því að sækja þær úr <a href=\"http://wordpress.org/extend/plugins/\">viðbótaskránni</a> eða flutt þær upp á .zip sniði hér á þessari síðu."
+msgstr "Viðbætur eru hjálpargögn sem auka hæfni WordPress-kerfisins. Þú getur sett upp íbætur sjálfvirkt með því að sækja þær úr <a href=\"http://wordpress.org/extend/plugins/\">viðbótaskránni</a> eða flutt þær upp á .zip sniði hér á þessari síðu."
 
 #: wp-admin/includes/plugin-install.php:87
 msgid "Search for plugins by keyword, author, or tag."
@@ -10592,9 +10579,8 @@ msgid "Install a plugin in .zip format"
 msgstr "Setja upp viðbót af .zip skrá"
 
 #: wp-admin/includes/plugin-install.php:145
-#, fuzzy
 msgid "If you have a plugin in a .zip format, you may install it by uploading it here."
-msgstr "Ef þú hefur snið á .zip skrá getur þú sett það upp með því að hlaða upp skránni hér."
+msgstr "Ef þú hefur viðbót í .zip skrá þá getur þú innsett hana hér með því að hlaða upp skránni."
 
 #: wp-admin/includes/plugin-install.php:148
 msgid "Plugin zip file"
@@ -10806,7 +10792,7 @@ msgstr[1] "Rusl (<span class=\"spam-count\">%s</span>)"
 #, fuzzy
 msgid "Trash <span class=\"count\">(<span class=\"trash-count\">%s</span>)</span>"
 msgid_plural "Trash <span class=\"count\">(<span class=\"trash-count\">%s</span>)</span>"
-msgstr[0] "Virk <span class=\"count\">(%s)</span>"
+msgstr[0] "Fleygja <span class=\"count\">(%s)</span>"
 msgstr[1] "Rusl (<span class=\"spam-count\">%s</span>)"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:190
@@ -10963,9 +10949,8 @@ msgid "Popup Comments Template"
 msgstr "Athugasemdir (sprettigluggi)"
 
 #: wp-admin/includes/file.php:65
-#, fuzzy
 msgid "%s Page Template"
-msgstr "Sniðmát síðu"
+msgstr "%s Síðusniðmát"
 
 #: wp-admin/includes/file.php:238
 msgid "Sorry, can&#8217;t edit files with &#8220;..&#8221; in the name. If you are trying to edit a file in your WordPress home directory, you can just type the name of the file in."
@@ -11311,9 +11296,8 @@ msgid "<strong>ERROR</strong>: The e-mail address isn&#8217;t correct."
 msgstr "<strong>VILLA</strong>: Netfangið er ekki rétt."
 
 #: wp-admin/includes/user.php:375
-#, fuzzy
 msgid "Notice:"
-msgstr "Tilkynningar"
+msgstr "Tilkynning:"
 
 #: wp-admin/includes/user.php:376
 msgid "You&rsquo;re using the auto-generated password for your account. Would you like to change it to something easier to remember?"
@@ -11341,14 +11325,12 @@ msgid "Submit Reply"
 msgstr "Senda"
 
 #: wp-admin/includes/template.php:406
-#, fuzzy
 msgid "Comment by %s moved to the trash."
-msgstr "Flutti öll bréf í ruslmöppuna"
+msgstr "Athugasemd eftir %s hefur verið flutt í ruslið."
 
 #: wp-admin/includes/template.php:409
-#, fuzzy
 msgid "Comment by %s marked as spam."
-msgstr "Merkja þessa athugasemd sem rusl"
+msgstr "Athugasemd eftir %s var merkt sem ruslsending."
 
 #: wp-admin/includes/template.php:429
 #: wp-admin/includes/template.php:444
@@ -11362,9 +11344,8 @@ msgid "Key"
 msgstr "Lykill"
 
 #: wp-admin/includes/template.php:530
-#, fuzzy
 msgid "Add New Custom Field:"
-msgstr "Bæta við sérsniðinni sýslaramöppu."
+msgstr "Bæta við sérsniðinni reit:"
 
 #: wp-admin/includes/template.php:554
 msgid "Enter new"
@@ -11589,9 +11570,8 @@ msgstr "Þetta er nýjasta útgáfa viðbótarinnar."
 #: wp-admin/includes/class-wp-upgrader.php:371
 #: wp-admin/includes/class-wp-upgrader.php:611
 #: wp-admin/includes/class-wp-upgrader.php:864
-#, fuzzy
 msgid "Update package not available."
-msgstr "Pakki `%s' er ekki aðgengilegur.\n"
+msgstr "Uppfærslupakki ekki aðgengilegur."
 
 #: wp-admin/includes/class-wp-upgrader.php:372
 #: wp-admin/includes/class-wp-upgrader.php:612
@@ -11610,7 +11590,7 @@ msgstr "Drög vistuð&#8230;"
 #: wp-admin/includes/class-wp-upgrader.php:374
 #, fuzzy
 msgid "Deactivating the plugin&#8230;"
-msgstr "Drög vistuð&#8230;"
+msgstr "Endurvirkja íbót&#8230;"
 
 #: wp-admin/includes/class-wp-upgrader.php:375
 #, fuzzy
@@ -11622,14 +11602,12 @@ msgid "Could not remove the old plugin."
 msgstr "Gat ekki eytt eldri viðbótinni."
 
 #: wp-admin/includes/class-wp-upgrader.php:377
-#, fuzzy
 msgid "Plugin update failed."
-msgstr "Tókst ekki að hlaða íforrit"
+msgstr "Uppfærsla viðbótar mistókst."
 
 #: wp-admin/includes/class-wp-upgrader.php:378
-#, fuzzy
 msgid "Plugin updated successfully."
-msgstr "Viðbót hefur verið virkjuð á ný."
+msgstr "Uppfærsla viðbótar tókst án vandræða."
 
 #: wp-admin/includes/class-wp-upgrader.php:382
 #: wp-admin/includes/class-wp-upgrader.php:621
@@ -11651,26 +11629,24 @@ msgstr "Drög vistuð&#8230;"
 #: wp-admin/includes/class-wp-upgrader.php:385
 #, fuzzy
 msgid "Installing the plugin&#8230;"
-msgstr "Set upp viðbót á upphlaðinni skrá: %s"
+msgstr "Endurvirkja íbót&#8230;"
 
 #: wp-admin/includes/class-wp-upgrader.php:386
-#, fuzzy
 msgid "Plugin install failed."
-msgstr "Tókst ekki að hlaða íforrit"
+msgstr "Uppsetning viðbótar mistókst."
 
 #: wp-admin/includes/class-wp-upgrader.php:387
 #, fuzzy
 msgid "Plugin installed successfully."
-msgstr "Uppsetningu viðbótarinnar <strong>%s %s</strong> lokið."
+msgstr "Uppsetningu íbótarinnar <strong>%s %s</strong> lokið."
 
 #: wp-admin/includes/class-wp-upgrader.php:610
 msgid "The theme is at the latest version."
 msgstr "Þetta er nýjasta útgáfa sniðsins."
 
 #: wp-admin/includes/class-wp-upgrader.php:614
-#, fuzzy
 msgid "Removing the old version of the theme&#8230;"
-msgstr "Eyði eldri útgáfu af sniðinu."
+msgstr "Eyði eldri útgáfu þemu&#8230;"
 
 #: wp-admin/includes/class-wp-upgrader.php:615
 msgid "Could not remove the old theme."
@@ -11752,9 +11728,8 @@ msgid "The update of %1$s failed."
 msgstr "Uppfærsla mistókst"
 
 #: wp-admin/includes/class-wp-upgrader.php:1086
-#, fuzzy
 msgid "%1$s updated successfully."
-msgstr "Hlóð niður %1..."
+msgstr ""
 
 #: wp-admin/includes/class-wp-upgrader.php:1086
 msgid "Show Details"
@@ -11787,9 +11762,8 @@ msgid "Updating Theme %1$s (%2$d/%3$d)"
 msgstr "Uppfæri snið %1$s (%2$d/%3$d)"
 
 #: wp-admin/includes/class-wp-upgrader.php:1229
-#, fuzzy
 msgid "Go to themes page"
-msgstr "Fara aftur á síðu sniðs"
+msgstr "Fara á þema síðu"
 
 #: wp-admin/includes/class-wp-upgrader.php:1229
 #: wp-admin/includes/class-wp-upgrader.php:1363
@@ -12202,19 +12176,22 @@ msgstr ""
 #: wp-admin/includes/upgrade.php:337
 #, fuzzy
 msgid "New WordPress Site"
-msgstr "ný WordPress lykkja"
+msgstr "Stofna nýjan vef"
 
 #: wp-admin/includes/update-core.php:305
+#, fuzzy
 msgid "The update cannot be installed because WordPress %1$s requires PHP version %2$s or higher and MySQL version %3$s or higher. You are running PHP version %4$s and MySQL version %5$s."
-msgstr ""
+msgstr "Þú getur ekki uppfært vegna þess að <a href=\"http://codex.wordpress.org/Version_%1$s\">WordPress %1$s</a> krefst PHP útgáfu %2$s eða hærra og MySQL útgáfu %3$s eða hærra. Þú ert að keyra PHP útgáfu %4$s og MySQL útgáfu %5$s."
 
 #: wp-admin/includes/update-core.php:307
+#, fuzzy
 msgid "The update cannot be installed because WordPress %1$s requires PHP version %2$s or higher. You are running version %3$s."
-msgstr ""
+msgstr "Þú getur ekki uppfært vegna þess að <a href=\"http://codex.wordpress.org/Version_%1$s\">WordPress %1$s</a> krefst PHP útgáfu %2$s eða hærra. Þú ert að keyra PHP útgáfu %3$s."
 
 #: wp-admin/includes/update-core.php:309
+#, fuzzy
 msgid "The update cannot be installed because WordPress %1$s requires MySQL version %2$s or higher. You are running version %3$s."
-msgstr ""
+msgstr "Þú getur ekki uppfært vegna þess að <a href=\"http://codex.wordpress.org/Version_%1$s\">WordPress %1$s</a> krefst MySQL útgáfu %2$s eða hærra. Þú ert að keyra MySQL útgáfu %3$s."
 
 #: wp-admin/includes/update-core.php:312
 #, fuzzy
@@ -12334,7 +12311,7 @@ msgstr "Engir hlutir."
 #: wp-admin/includes/nav-menu.php:640
 #, fuzzy
 msgid "Most Recent"
-msgstr "Nýlega spilað"
+msgstr "Nýjustu athugasemdirnar"
 
 #: wp-admin/includes/nav-menu.php:641
 #: wp-admin/includes/nav-menu.php:848
@@ -12450,7 +12427,7 @@ msgstr "Ein af viðbótunum er ógild."
 #: wp-admin/includes/plugin.php:718
 #, fuzzy
 msgid "Could not fully remove the plugin(s) %s."
-msgstr "Gat ekki eytt eldri viðbótinni."
+msgstr "Gat ekki eytt eldri íbótinni."
 
 #: wp-admin/includes/plugin.php:779
 msgid "Invalid plugin path."
@@ -12488,7 +12465,7 @@ msgstr[1] "Óvirkar <span class=\"count\">(%s)</span>"
 msgctxt "uploaded files"
 msgid "Trash <span class=\"count\">(%s)</span>"
 msgid_plural "Trash <span class=\"count\">(%s)</span>"
-msgstr[0] "Virk <span class=\"count\">(%s)</span>"
+msgstr[0] "Fleygja <span class=\"count\">(%s)</span>"
 msgstr[1] "Drög <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-media-list-table.php:81
@@ -12562,7 +12539,7 @@ msgstr "Vista drög sjálfkrafa"
 #: wp-admin/includes/post.php:525
 #, fuzzy
 msgid "You are not allowed to create pages on this site."
-msgstr "Þú hefur ekki heimild til að setja upp síður með þessu notandanafni."
+msgstr "Því miður hefur þú ekki heimild til að birta síður á þessum vef."
 
 #: wp-admin/includes/post.php:527
 #, fuzzy
@@ -12664,7 +12641,7 @@ msgstr "Vefsíða"
 #: wp-admin/includes/schema.php:202
 #, fuzzy
 msgid "Just another WordPress site"
-msgstr "Enn eitt WordPress-bloggið"
+msgstr "Settu inn mynd af Ã¶Ã°ru vefsvÃ¦Ã°i"
 
 #: wp-admin/includes/schema.php:227
 msgid "F j, Y g:i a"
@@ -12816,9 +12793,8 @@ msgid "Could not fully remove the theme %s."
 msgstr "Gat ekki eytt eldra sniðinu."
 
 #: wp-admin/includes/theme.php:244
-#, fuzzy
 msgid "Updating this theme will lose any customizations you have made.  'Cancel' to stop, 'OK' to update."
-msgstr "Með því að stigbæta þetta snið glatarðu öllum aðhæfingum sem þú hefur gert.  &#8222;Cancel&#8220; til að hætta við, &#8222;OK&#8220; til að stigbæta."
+msgstr "Með því að uppfæra þetta þema glatarðu öllum séraðlögunum sem þú hefur gert.  'Hætta við' til að stöðva, 'Í lagi' til að uppfæra."
 
 #: wp-admin/includes/theme.php:248
 #, fuzzy
@@ -12826,9 +12802,8 @@ msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickb
 msgstr "Ný útgáfa af %1$s er nú aðgengileg. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s\">Skoða útgáfu %3$s</a>."
 
 #: wp-admin/includes/theme.php:250
-#, fuzzy
 msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s\">View version %3$s details</a>. <em>Automatic update is unavailable for this theme.</em>"
-msgstr "Ný útgáfa af %1$s er nú aðgengileg. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s\">Skoða útgáfu %3$s</a> <em>ekki er unnt að stigbæta þetta snið sjálfvirkt</em>."
+msgstr "Ný útgáfa af %1$s er nú aðgengileg. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s\">Skoða útgáfu %3$s nánar</a>. <em>Sjálfvirk uppfærsla er ekki möguleg fyrir þessa þemu.</em>."
 
 #: wp-admin/includes/theme.php:252
 #, fuzzy
@@ -13533,13 +13508,14 @@ msgid "The Optional fields let you customize the &#8220;category&#8221; and &#82
 msgstr ""
 
 #: wp-admin/options-permalink.php:26
+#, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Settings_Permalinks_SubPanel\" target=\"_blank\">Documentation on Permalinks Settings</a>"
-msgstr ""
+msgstr "<a href=\"http://codex.wordpress.org/Settings_General_SubPanel\" target=\"_blank\">Skjölun á almennum stillingum</a>"
 
 #: wp-admin/options-permalink.php:27
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Using_Permalinks\" target=\"_blank\">Documentation on Using Permalinks</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Users_Users_SubPanel\" target=\"_blank\">Skjölun á umsýslu með notendur</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Dashboard_SubPanel\" target=\"_blank\">Skjölun á Stjórnborði</a>"
 
 #: wp-admin/options-permalink.php:133
 msgid "You should update your web.config now"
@@ -13716,7 +13692,7 @@ msgstr "Gera flýtivísanir hnappaborðsins virkar fyrir athugasemdir."
 #: wp-admin/user-edit.php:205
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Keyboard_Shortcuts\" target=\"_blank\">More information</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Keyboard_Shortcuts\">Frekari upplýsingar</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Keyboard_Shortcuts\" target=\"_blank\">HjÃ¡lparskjÃ¶lun um flÃ½tilykla</a>"
 
 #: wp-admin/user-edit.php:209
 #: wp-admin/user-edit.php:210
@@ -13773,12 +13749,13 @@ msgid "Contact Info"
 msgstr "Hvar má ná sambandi við þig?"
 
 #: wp-admin/user-edit.php:322
+#, fuzzy
 msgid "There is a pending change of your e-mail to <code>%1$s</code>. <a href=\"%2$s\">Cancel</a>"
-msgstr ""
+msgstr "Það bíður breyting á kerfisstjórnunarnefangi til <code>%1$s</code>. <a href=\"%2$s\">Hætta við</a>"
 
 #: wp-admin/user-edit.php:345
 msgid "About Yourself"
-msgstr "Persónuupplýsingar"
+msgstr "Um þig"
 
 #: wp-admin/user-edit.php:345
 msgid "About the user"
@@ -13790,7 +13767,7 @@ msgstr "Persónuupplýsingar"
 
 #: wp-admin/user-edit.php:351
 msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
-msgstr "Skrifaðu gagnorða sjálfslýsingu, t.d. æviágrip. Þetta má birta á vefsíðunni."
+msgstr "Skrifaðu gagnorða sjálfslýsingu, t.d. æviágrip. Þetta gæti verið birt á vefsíðunni."
 
 #: wp-admin/user-edit.php:359
 msgid "New Password"
@@ -13810,11 +13787,11 @@ msgstr "Aukaeiginleikar"
 
 #: wp-admin/user-edit.php:399
 msgid "Update Profile"
-msgstr "Uppnýja yfirlit"
+msgstr "Uppfæra yfirlit"
 
 #: wp-admin/user-edit.php:399
 msgid "Update User"
-msgstr "Uppnýja notanda"
+msgstr "Uppfæra notanda"
 
 #: wp-admin/widgets.php:37
 msgid "Widgets are independent sections of content that can be placed into any widgetized area provided by your theme (commonly called sidebars). To populate your sidebars/widget areas with individual widgets, drag and drop the title bars into the desired area. By default, only the first widget area is expanded. To populate additional widget areas, click on their title bars to expand them."
@@ -13843,7 +13820,7 @@ msgstr ""
 #: wp-admin/widgets.php:45
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Appearance_Widgets_SubPanel\" target=\"_blank\">Documentation on Widgets</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Users_Users_SubPanel\" target=\"_blank\">Skjölun á umsýslu með notendur</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Appearance_Menus_SubPanel\" target=\"_blank\">Skjölun um valmyndir</a>"
 
 #: wp-admin/widgets.php:51
 #: wp-admin/widgets.php:374
@@ -13856,7 +13833,7 @@ msgstr "Engar hliðarstikur skilgreindar"
 
 #: wp-admin/widgets.php:145
 msgid "The theme you are currently using isn&#8217;t widget-aware, meaning that it has no sidebars that you are able to change. For information on making your theme widget-aware, please <a href=\"http://codex.wordpress.org/Widgetizing_Themes\">follow these instructions</a>."
-msgstr "Sniðið sem þú notar styður ekki aukahluti, en í því felst að þú getur ekki breytt hliðarstikum þess. Upplýsingar um hvernig þú getur breytt sniðinu svo að það styðji aukahluti má <a href=\"http://codex.wordpress.org/Widgetizing_Themes\">nálgast hér</a>."
+msgstr "Þemað sem þú notar styður ekki aukahluti, en í því felst að þú getur ekki breytt hliðarstikum þess. Upplýsingar um hvernig þú getur breytt sniðinu svo að það styðji aukahluti má <a href=\"http://codex.wordpress.org/Widgetizing_Themes\">nálgast hér</a>."
 
 #: wp-admin/widgets.php:265
 msgid "Widget %s"
@@ -14008,11 +13985,11 @@ msgstr "Smelltu til að skoða lista yfir allar skrár sem eyddar verða"
 #: wp-admin/plugins.php:328
 msgctxt "plugins per page (screen options)"
 msgid "Plugins"
-msgstr "Íbætur"
+msgstr "Viðbætur"
 
 #: wp-admin/plugins.php:331
 msgid "Plugins extend and expand the functionality of WordPress. Once a plugin is installed, you may activate it or deactivate it here."
-msgstr "Íbætur eru hjálpargögn sem auka hæfni WordPress-kerfisins. Þegar viðbót hefur verið sett upp má gera hana virka eða óvirka hér. "
+msgstr "Viðbætur eru hjálpargögn sem auka hæfni WordPress-kerfisins. Þegar viðbót hefur verið sett upp má gera hana virka eða óvirka hér. "
 
 #: wp-admin/plugins.php:332
 #, fuzzy
@@ -14134,9 +14111,8 @@ msgid "<strong>Parent</strong> - Categories, unlike tags, can have a hierarchy. 
 msgstr "Ólíkt efnisorðum eru efnisflokkar stigskipt kerfi. Efnisflokkurinn &#8222;Djass&#8220; gæti t.d. verið með undirflokkinn &#8222;Bebop&#8220; og &#8222;Big Band&#8220;. Þetta er valfrjálst."
 
 #: wp-admin/edit-tags.php:206
-#, fuzzy
 msgid "<strong>Description</strong> - The description is not prominent by default; however, some themes may display it."
-msgstr "Sem sjálfgildi er lýsingin ekki áberandi en hún kann þó að birtast í sumum sniðum."
+msgstr "Sem sjálfgildi er lýsingin ekki áberandi en hún kann þó að birtast í sumum þemum."
 
 #: wp-admin/edit-tags.php:208
 msgid "You can change the display of this screen using the Screen Options tab to set how many items are displayed per screen and to display/hide columns in the table."
@@ -14145,12 +14121,12 @@ msgstr ""
 #: wp-admin/edit-tags.php:212
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Posts_Categories_SubPanel\" target=\"_blank\">Documentation on Categories</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Users_Users_SubPanel\" target=\"_blank\">Skjölun á umsýslu með notendur</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Posts_Posts_SubPanel\" target=\"_blank\">HjÃ¡lparskjÃ¶lun um umsÃ½slu meÃ° fÃ¦rslur</a>"
 
 #: wp-admin/edit-tags.php:214
 #, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Links_Link_Categories_SubPanel\" target=\"_blank\">Documentation on Link Categories</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Settings_General_SubPanel\" target=\"_blank\">Almennar stillingar</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Links_Add_New_SubPanel\" target=\"_blank\">Skjölun á stofnun tengla</a>"
 
 #: wp-admin/edit-tags.php:216
 #, fuzzy
@@ -14219,7 +14195,7 @@ msgstr "Fangamarkið er hluti af slóð (URL) flokksins. Það er venjulega lág
 #, fuzzy
 msgctxt "Taxonomy Parent"
 msgid "Parent"
-msgstr "Foreldrar"
+msgstr "Parent"
 
 #: wp-admin/edit-tags.php:350
 #: wp-admin/edit-tag-form.php:57
@@ -14233,9 +14209,8 @@ msgid "Description"
 msgstr "Lýsing"
 
 #: wp-admin/edit-tags.php:357
-#, fuzzy
 msgid "The description is not prominent by default; however, some themes may show it."
-msgstr "Sem sjálfgildi er lýsingin ekki áberandi en hún kann þó að birtast í sumum sniðum."
+msgstr "Sem sjálfgildi er lýsingin ekki áberandi en hún kann þó að birtast í sumum þemum."
 
 #: wp-admin/media-upload.php:35
 msgid "You are not allowed to be here"
@@ -14320,7 +14295,7 @@ msgstr "Ritill"
 
 #: wp-admin/menu.php:176
 msgid "Plugins %s"
-msgstr "Íbætur %s"
+msgstr "Viðbætur %s"
 
 #: wp-admin/menu.php:181
 msgctxt "plugin editor"
@@ -14634,7 +14609,7 @@ msgstr "Staða amasendingu var breytt í %s"
 #: wp-content/plugins/akismet/akismet.php:271
 #, fuzzy
 msgid "Akismet cleared this comment"
-msgstr "Svara þessari athugasemd"
+msgstr "Akismet greip þessa athugasemd og merkti sem amasendingu"
 
 #: wp-content/plugins/akismet/akismet.php:274
 msgid "Comment was caught by wp_blacklist_check"
