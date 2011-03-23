@@ -21,6 +21,7 @@ h2. Staðan í grófum dráttum
 
 h3. Staða þýddra strengja 
 
+23. mar 2011 : 82% þýtt 3173 strengir ( 351 óljósir,214 óþýddir)
 21. mar 2011 : 81% þýtt 3173 strengir ( 366 óljósir,219 óþýddir)
 14. mar 2011 : 80% þýtt 3173 strengir ( 394 óljósir,228 óþýddir)
 07. mar 2011 : 77% þýtt 3173 strengir ( 471 óljósir,228 óþýddir)

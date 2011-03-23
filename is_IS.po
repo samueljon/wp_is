@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: is_IS\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-02-23 17:12:19+00:00\n"
-"PO-Revision-Date: 2011-03-21 02:16-0000\n"
+"PO-Revision-Date: 2011-03-23 00:12-0000\n"
 "Last-Translator: Samúel Jón Gunnarsson <sammi@villingaholt.nu>\n"
 "Language-Team: Samúel Jón Gunnarsson <sammi@villingaholt.nu>\n"
 "Language: is\n"
@@ -1132,7 +1132,7 @@ msgstr "Ertu viss um að þú viljir setja upp þessa viðbót?"
 #: wp-includes/script-loader.php:420
 #: wp-admin/includes/media.php:1312
 msgid "Use as featured image"
-msgstr "Nota sem mynd"
+msgstr "Nota sem einkennandi mynd"
 
 #: wp-includes/script-loader.php:421
 msgid "Saving..."
@@ -1331,8 +1331,9 @@ msgid "Pingback"
 msgstr "Bakvísun"
 
 #: wp-includes/comment-template.php:726
+#, fuzzy
 msgid "Use <code>get_trackback_url()</code> instead if you do not want the value echoed."
-msgstr ""
+msgstr "Nota skal <code>get_trackback_url()</code> ef þú vilt ekki að gildið birtist. "
 
 #: wp-includes/comment-template.php:977
 msgid "Comments Off"
@@ -1539,10 +1540,7 @@ msgstr "%s er varin WP valkostur sem ekki er unnt að breyta"
 #: wp-includes/functions.php:1740
 #, fuzzy
 msgid "ERROR: %s is not a valid feed template."
-msgstr ""
-"<b>Villa</b>\n"
-"‚%s‘ er ekki gild Perl segð.\n"
-"%s"
+msgstr "VILLA: %s er ekki gilt feed sniðmát."
 
 #: wp-includes/functions.php:2202
 #: wp-includes/functions.php:2320
@@ -1771,9 +1769,8 @@ msgid "UTC"
 msgstr "UTC"
 
 #: wp-includes/functions.php:4183
-#, fuzzy
 msgid "Manual Offsets"
-msgstr "Handbók tækis"
+msgstr "Handvirkar hliðranir"
 
 #: wp-includes/bookmark-template.php:82
 msgid "Last updated: %s"
@@ -1804,14 +1801,12 @@ msgid "Once Daily"
 msgstr "Daglega"
 
 #: wp-includes/taxonomy.php:47
-#, fuzzy
 msgid "Navigation Menus"
-msgstr "Breyta valmyndum"
+msgstr "Leiðsagnarvalmyndir"
 
 #: wp-includes/taxonomy.php:48
-#, fuzzy
 msgid "Navigation Menu"
-msgstr "Aðalvalmynd"
+msgstr "Leiðsagnarvalmynd"
 
 #: wp-includes/taxonomy.php:60
 #: wp-admin/menu.php:88
@@ -2272,9 +2267,8 @@ msgstr "Notaðu aukahlut til að bæta við einni af sérsniðnum valmyndum þí
 
 #: wp-includes/default-widgets.php:1057
 #: wp-admin/includes/theme.php:304
-#, fuzzy
 msgid "Custom Menu"
-msgstr "Valmyndar sem er skipt upp"
+msgstr "Sértæk valmynd"
 
 #: wp-includes/default-widgets.php:1094
 msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
@@ -5729,7 +5723,6 @@ msgstr ""
 #: wp-admin/edit-tags.php:209
 #: wp-admin/media-upload.php:67
 #: wp-admin/nav-menus.php:455
-#, fuzzy
 msgid "For more information:"
 msgstr "Nánari upplýsingar:"
 
@@ -5780,7 +5773,6 @@ msgstr "<a href=\"http://wordpress.org/support/\" target=\"_blank\">Umræðutorg
 
 #: wp-admin/link-manager.php:62
 #: wp-admin/menu.php:87
-#, fuzzy
 msgctxt "link"
 msgid "Add New"
 msgstr "Bæta við"
@@ -5843,6 +5835,14 @@ msgid ""
 "Please click the following link to activate your user account:\n"
 "%%s"
 msgstr ""
+"Hæ,\n"
+"Þér er boðið að tengjast '%1$s' þann\n"
+"%2$s sem %3$s.\n"
+"Þér er óhætt að hundsa þennan tölvupóst ef þú vilt ekki\n"
+"tengjast þessum vef. Þetta boð mun renna út eftir nokkra daga.\n"
+"\n"
+"Vinsamlegast ýttu á eftirfarandi tengil til að virkja aðgang þinn:\n"
+"%%s"
 
 #: wp-admin/user-new.php:75
 msgid ""
@@ -6016,7 +6016,7 @@ msgstr "Bæta við notanda"
 
 #: wp-admin/index.php:34
 msgid "Welcome to your WordPress Dashboard! You will find helpful tips in the Help tab of each screen to assist you as you get to know the application."
-msgstr "Velkomin(n) á Wordpress skjáborðið þitt ! Hér getur þú fundið gagnleg ráð undir hjálparflipa meðan þú lærir Wordpress að þekkja."
+msgstr "Velkomin(n) á Wordpress skjáborðið þitt ! Hér undir hjálparflipa finnur þú ýmis gagnleg ráð fyrir hvert skjásvæði. Ráðin ættu að veita þér stuðning meðan þú lærir á kerfið. "
 
 #: wp-admin/index.php:35
 msgid "The Admin Bar at the top, new in 3.1, provides quick access to common tasks when you are viewing your site."
@@ -6032,7 +6032,7 @@ msgstr ""
 
 #: wp-admin/index.php:38
 msgid "The boxes on your Dashboard screen are:"
-msgstr ""
+msgstr "Kassarnir á skjáborðinu hjá þér eru: "
 
 #: wp-admin/index.php:39
 msgid "<strong>Right Now</strong> - Displays a summary of the content on your site and identifies which theme and version of WordPress you are using."
@@ -6056,7 +6056,7 @@ msgstr "<strong>Nýleg drög</strong> - birtir tengla á síðustu 5 drög sem �
 
 #: wp-admin/index.php:44
 msgid "<strong>WordPress Development Blog</strong> - Come here for the latest scoop."
-msgstr ""
+msgstr "<strong>WordPress þróunar bloggið</strong> - Hér finnur þú nýjasta skúbbið."
 
 #: wp-admin/index.php:45
 msgid "<strong>Other WordPress News</strong> - Shows the feed from <a href=\"http://planet.wordpress.org\" target=\"_blank\">WordPress Planet</a>. You can configure it to show a different feed of your choosing."
@@ -6606,19 +6606,16 @@ msgid "Remove Header Image"
 msgstr "Haus myndarinnar skemmdur"
 
 #: wp-admin/custom-header.php:511
-#, fuzzy
 msgid "Reset Image"
-msgstr "Umslagsmynd"
+msgstr "Endurstilla mynd"
 
 #: wp-admin/custom-header.php:513
-#, fuzzy
 msgid "This will restore the original header image. You will not be able to restore any customizations."
-msgstr "Þessi aðgerð færir síðuhaus og lit í upprunalegt horf. Þú munt ekki geta endurheimt séraðlaganir."
+msgstr "Þessi aðgerð mun endurheimta upprunalegu mynd í síðuhaus. Þú munt ekki geta endurheimt séraðlaganir."
 
 #: wp-admin/custom-header.php:514
-#, fuzzy
 msgid "Restore Original Header Image"
-msgstr "Endurheimta upprunalega síðuhaus"
+msgstr "Endurheimta upprunalega mynd í síðuhaus"
 
 #: wp-admin/custom-header.php:522
 msgid "Header Text"
@@ -6657,14 +6654,12 @@ msgid "Reset Text Color"
 msgstr "Endursetja lit á texta"
 
 #: wp-admin/custom-header.php:552
-#, fuzzy
 msgid "This will restore the original header text. You will not be able to restore any customizations."
-msgstr "Þessi aðgerð færir síðuhaus og lit í upprunalegt horf. Þú munt ekki geta endurheimt séraðlaganir."
+msgstr "Þessi aðgerð mun endurheimta upprunalega texta í síðuhaus. Þú munt ekki geta endurheimt séraðlaganir."
 
 #: wp-admin/custom-header.php:553
-#, fuzzy
 msgid "Restore Original Header Text"
-msgstr "Endurheimta upprunalega síðuhaus"
+msgstr "Endurheimta upprunalega texta í síðuhaus"
 
 #: wp-admin/custom-header.php:586
 #, fuzzy
@@ -7462,18 +7457,16 @@ msgid "There is an autosave of this post that is more recent than the version be
 msgstr "Sjálfvistuð gerð þessarar færslu er nýrri en sú sem birtist hér að neðan.  <a href=\"%s\">Skoða sjálfvistuðu færsluna</a>."
 
 #: wp-admin/edit-form-advanced.php:129
-#, fuzzy
 msgid "Page Attributes"
-msgstr "Eyða eigindum"
+msgstr "Síðueigindi"
 
 #: wp-admin/edit-form-advanced.php:129
 msgid "Attributes"
 msgstr "Eigindi"
 
 #: wp-admin/edit-form-advanced.php:133
-#, fuzzy
 msgid "Featured Image"
-msgstr "Nota sem mynd"
+msgstr "Einkennandi mynd"
 
 #: wp-admin/edit-form-advanced.php:139
 msgid "Send Trackbacks"
@@ -7519,7 +7512,7 @@ msgstr ""
 
 #: wp-admin/edit-form-advanced.php:178
 msgid "<strong>Featured Image</strong> - This allows you to associate an image with your post without inserting it. This is usually useful only if your theme makes use of the featured image as a post thumbnail on the home page, a custom header, etc."
-msgstr ""
+msgstr "<strong>Einkennandi mynd</strong> - leyfir þér að tengja mynd við færslu án þess að hún sé flutt inn í færslu. Þetta er vanalega nytsamlegt ef þemað sem er í notkun styður einkennandi myndir, sérsniðinn haus osfrv."
 
 #: wp-admin/edit-form-advanced.php:179
 #, fuzzy
@@ -7606,9 +7599,8 @@ msgstr "Ógild færsla."
 #: wp-admin/async-upload.php:38
 #: wp-admin/post.php:152
 #: wp-admin/edit-tags.php:227
-#, fuzzy
 msgid "You are not allowed to edit this item."
-msgstr "ÃÃº hefur ekki heimild til aÃ° eyÃ°a Ã¾essari fÃ¦rslu."
+msgstr "Þú hefur ekki heimild til að breyta þessum hlut."
 
 #: wp-admin/comment.php:46
 #: wp-admin/edit-form-comment.php:16
@@ -12607,14 +12599,12 @@ msgstr "Breyta samsetningu vefslóða"
 
 #: wp-admin/includes/post.php:1187
 #: wp-admin/includes/post.php:1188
-#, fuzzy
 msgid "Set featured image"
-msgstr "Setja sem mynd"
+msgstr "Setja sem einkennandi mynd"
 
 #: wp-admin/includes/post.php:1200
-#, fuzzy
 msgid "Remove featured image"
-msgstr "Fjarlægja skýringartexta myndar"
+msgstr "Fjarlægja einkennandi mynd"
 
 #: wp-admin/includes/post.php:1270
 msgid "Warning: %s is currently editing this post"
@@ -14609,7 +14599,7 @@ msgstr "Staða amasendingu var breytt í %s"
 #: wp-content/plugins/akismet/akismet.php:271
 #, fuzzy
 msgid "Akismet cleared this comment"
-msgstr "Akismet greip þessa athugasemd og merkti sem amasendingu"
+msgstr "Akismet hreinsaði þessa athugasemd"
 
 #: wp-content/plugins/akismet/akismet.php:274
 msgid "Comment was caught by wp_blacklist_check"
