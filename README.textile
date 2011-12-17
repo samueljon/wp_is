@@ -29,14 +29,20 @@ h3. Staða þýddra strengja
 28. feb 2011 : 74% þýtt 3173 strengir ( 508 óljósir,293 óþýddir)
 26. feb 2011 : 68% þýtt 3173 strengir ( 697 óljósir,300 óþýddir)
 22. feb 2011 : 66% þýtt 3186 strengir ( 661 óljósir,392 óþýddir)
+17. des 2011 : 94% þýtt 3491 strengir (  18 óljósir,174 óþýddir)
 
 h3. Að þýðingu lokinni
 
 Þegar búið er að fullþýða WordPress yfir á íslensku þá er mjög líklegt að þörf sé á að samræma hugtök og ýmis orðasambönd innan kerfisins. Þar af leiðandi er það óskandi að á þeim tíma verði komnir fleiri áhugasamir þáttakendur inn í verkefnið og geti lagt lið við að fínpússa og betrumbæta þýðinguna og jafnframt gert hana heilsteyptari. 
 
+Verið er að samræma hugtök í "þessu skjali":https://docs.google.com/spreadsheet/ccc?key=0Ao3sgWzUSMODdGV0OWwwOHA5c0hrNXRUcWZfSWZ0WHc
+
+Þeir sem hafa sýnt verkefninu áhuga á twitter eru ma. @valurthor @axelrafn @officialstation og @EgillErlendsson
+
 h2. Aðrar markverðar breytingar
 
 2011-02-26: Bætti við .pot skránni fyrir wordpress 3.1 og uppfærði .po skrá í samræmi við það.
+2011-12-17: Uppfærði .po skrá og inniheldur hún nú strengi fyrir 3.3
 
 h2. Verkfæri sem aðstoða við þýðingar
 
