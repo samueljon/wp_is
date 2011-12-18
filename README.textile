@@ -30,6 +30,7 @@ h3. Staða þýddra strengja
 26. feb 2011 : 68% þýtt 3173 strengir ( 697 óljósir,300 óþýddir)
 22. feb 2011 : 66% þýtt 3186 strengir ( 661 óljósir,392 óþýddir)
 17. des 2011 : 94% þýtt 3491 strengir (  18 óljósir,174 óþýddir)
+18. des 2011 : 95% þýtt 3492 strengir (  12 óljósir,143 óþýddir)
 
 h3. Að þýðingu lokinni
 
@@ -43,6 +44,7 @@ h2. Aðrar markverðar breytingar
 
 2011-02-26: Bætti við .pot skránni fyrir wordpress 3.1 og uppfærði .po skrá í samræmi við það.
 2011-12-17: Uppfærði .po skrá og inniheldur hún nú strengi fyrir 3.3
+2011-12-18: Uppfærtði .pot skrá fyrir 3.4 og uppfærði .po skrá til samræmis.
 
 h2. Verkfæri sem aðstoða við þýðingar
 
