@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Wordpress 3.3\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-12-16 21:13:13+00:00\n"
-"PO-Revision-Date: 2011-12-18 11:12-0000\n"
+"PO-Revision-Date: 2011-12-29 13:28-0000\n"
 "Last-Translator: Samúel Jón Gunnarsson <sammi@villingaholt.nu>\n"
 "Language-Team: Icelandic <sammi@villingaholt.nu>\n"
 "MIME-Version: 1.0\n"
@@ -24,8 +24,9 @@ msgid "Use <code>WP_User->ID</code> instead."
 msgstr "Notaðu <code>WP_User->ID</code> í staðinn."
 
 #: wp-includes/capabilities.php:855
+#, fuzzy
 msgid "Usage of user levels by plugins and themes is deprecated. Use roles and capabilities instead."
-msgstr ""
+msgstr "Notkun á \"user levels\" í viðbótum og þemum er nú úrelt. Nota á \"roles\" og \"capabilities\" í staðinn."
 
 #: wp-includes/functions.wp-styles.php:28
 #: wp-includes/functions.wp-styles.php:55
@@ -3810,7 +3811,7 @@ msgstr "Svartur"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:32
 msgid "Burnt orange"
-msgstr ""
+msgstr "Dökk appelsínugulur"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:33
 msgid "Dark olive"
@@ -3879,7 +3880,7 @@ msgstr "Rauður"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:48
 msgid "Amber"
-msgstr ""
+msgstr "Rafgulur"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:49
 msgid "Yellow green"
@@ -3904,7 +3905,7 @@ msgstr "Fjólublár"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:54
 msgid "Medium gray"
-msgstr "Miðlungsgrátt"
+msgstr "Miðlungsgrár"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:55
 msgid "Magenta"
@@ -3925,7 +3926,7 @@ msgstr "Skærgrænn"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:59
 msgid "Aqua"
-msgstr "Sjávargrænn"
+msgstr "Sægrænn"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:60
 msgid "Sky blue"
@@ -4079,7 +4080,7 @@ msgstr "Skorða fullkomlega af (víxlhnappur)"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:104
 msgid "New layer..."
-msgstr "Nýtt lag &hellip;"
+msgstr "Nýtt lag..."
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:108
 msgid "Cancel all changes"
@@ -13079,8 +13080,8 @@ msgstr[1] ""
 #: wp-admin/includes/class-wp-plugins-list-table.php:224
 msgid "Drop-ins <span class=\"count\">(%s)</span>"
 msgid_plural "Drop-ins <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Íbót <span class=\"count\">(%s)</span>"
+msgstr[1] "Íbætur <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:227
 msgid "Update Available <span class=\"count\">(%s)</span>"
@@ -13103,7 +13104,7 @@ msgstr "Skrár í möppunni <code>%s</code> eru keyrðar sjálfkrafa."
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:290
 msgid "Drop-ins are advanced plugins in the <code>%s</code> directory that replace WordPress functionality when present."
-msgstr ""
+msgstr "Íbætur eru háþróaðar viðbætur staðsettar í möppunni <code>%s</code> og koma í stað staðlaðrar WordPress virkni ef þær eru til staðar."
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:345
 msgid "Inactive:"
