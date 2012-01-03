@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Wordpress 3.3\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-12-16 21:13:13+00:00\n"
-"PO-Revision-Date: 2011-12-29 13:28-0000\n"
+"PO-Revision-Date: 2012-01-03 15:04-0000\n"
 "Last-Translator: Samúel Jón Gunnarsson <sammi@villingaholt.nu>\n"
 "Language-Team: Icelandic <sammi@villingaholt.nu>\n"
 "MIME-Version: 1.0\n"
@@ -2664,8 +2664,9 @@ msgid "XML error: %s at line %d"
 msgstr "XML villa: %s á línu %d"
 
 #: wp-includes/plugin.php:676
+#, fuzzy
 msgid "Only a static class method or function can be used in an uninstall hook."
-msgstr ""
+msgstr "Það er eingögnu hægt að nota statískar aðgerðir klasa eða föll með \"uninstall hook\"."
 
 #: wp-includes/post.php:22
 msgctxt "add new on admin bar"
@@ -2701,14 +2702,12 @@ msgid "Revision"
 msgstr "Útgáfa"
 
 #: wp-includes/post.php:87
-#, fuzzy
 msgid "Navigation Menu Items"
-msgstr "Engir hlutir fundust."
+msgstr "Hlutir leiðarkerfis"
 
 #: wp-includes/post.php:88
-#, fuzzy
 msgid "Navigation Menu Item"
-msgstr "Breyta valmyndarhluta"
+msgstr "Hlutur leiðarkerfis"
 
 #: wp-includes/post.php:98
 msgctxt "post"
@@ -3211,9 +3210,8 @@ msgid "http://codex.wordpress.org"
 msgstr "http://codex.wordpress.org"
 
 #: wp-includes/admin-bar.php:114
-#, fuzzy
 msgid "Support Forums"
-msgstr "RTL tungumálastuðningur"
+msgstr "Stuðningsumræðutorg"
 
 #: wp-includes/admin-bar.php:115
 msgid "http://wordpress.org/support/"
@@ -5535,7 +5533,7 @@ msgstr "Skipta yfir í HTML-ham"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:263
 msgid "Editor width in Distraction-free writing mode:"
-msgstr ""
+msgstr "Breidd ritils í truflana-lausum ham:"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:264
 msgid "Wider"
@@ -6460,7 +6458,7 @@ msgstr "Til að bæta nýjum notanda við á vefinn þá fyllir þú í formið 
 
 #: wp-admin/user-new.php:145
 msgid "Because this is a multisite installation, you may add accounts that already exist on the Network by specifying a username or email, and defining a role. For more options, such as specifying a password, you have to be a Network Administrator and use the hover link under an existing user&#8217;s name to Edit the user profile under Network Admin > All Users."
-msgstr ""
+msgstr "Þar sem þetta er fjölvefjauppsetning þá getur þú bætt við notendum sem eru til núþegar innan fjölvefjanets með því að tilgreina notendanafn, netfang ásamt því að skilgreina hlutverk fyrir viðkomandi notendur. Netkerfisstjórar geta breytt frekari valkostum eins og lykilorðum með því að staldra með músarbendil yfir notendanafni þess sem á að breyta undir Netkerfisstjóri > Allir notendur."
 
 #: wp-admin/user-new.php:146
 msgid "New users will receive an email letting them know they&#8217;ve been added as a user for your site. This email will also contain their password. Check the box if you don&#8217;t want the user to receive a welcome email."
@@ -7020,9 +7018,8 @@ msgid "You can see your active theme at the top of the screen. Below are the oth
 msgstr ""
 
 #: wp-admin/themes.php:51
-#, fuzzy
 msgid "Installing themes on Multisite can only be done from the Network Admin section."
-msgstr "Uppsetning þemu á \"Multisite\" uppsetningu er eingöngu hægt að framkvæma frá kerfisstjórnarsvæðinu sem hefur með net að gera."
+msgstr "Uppsetning þemu á fjölvefjauppsetningu er eingöngu hægt að framkvæma frá netkerfisstjóra hlutanum. "
 
 #: wp-admin/themes.php:53
 msgid "If you would like to see more themes to choose from, click on the &#8220;Install Themes&#8221; tab and you will be able to browse or search for additional themes from the <a href=\"%s\" target=\"_blank\">WordPress.org Theme Directory</a>. Themes in the WordPress.org Theme Directory are designed and developed by third parties, and are compatible with the license WordPress uses. Oh, and they&#8217;re free!"
@@ -7147,7 +7144,7 @@ msgstr ""
 
 #: wp-admin/media.php:77
 msgid "Remember to click Update Media to save metadata entered or changed."
-msgstr ""
+msgstr "Mundu að ýta á Uppfæra miðil til að vista innslegin eða breytt lýsigögn."
 
 #: wp-admin/media.php:82
 msgid "<a href=\"http://codex.wordpress.org/Media_Add_New_Screen#Edit_Media\" target=\"_blank\">Documentation on Edit Media</a>"
@@ -7170,7 +7167,7 @@ msgstr "Ný gögn"
 #: wp-admin/media.php:116
 #: wp-admin/media.php:125
 msgid "Update Media"
-msgstr "Uppfæra"
+msgstr "Uppfæra miðil"
 
 #: wp-admin/custom-header.php:106
 msgid "You can set a custom image header for your site. Simply upload the image and crop it, and the new header will go live immediately."
@@ -7985,7 +7982,7 @@ msgstr "Umsnúningur á efnisflokkum og -orðum"
 
 #: wp-admin/tools.php:22
 msgid "Categories have hierarchy, meaning that you can nest sub-categories. Tags do not have hierachy and cannot be nested. Sometimes people start out using one on their posts, then later realize that the other would work better for their content."
-msgstr ""
+msgstr "Flokkar eru stigskiptir sem þýðir að hægt er að vera með undirflokka. Efnisorð eru ekki stigskipt og hafa því ekki undirflokka. Í sumum tilfellum byrja notendur að nota annaðhvort fyrir færslunar sínar en átta sig á því að hinn kosturinn hentaði betur innihaldið. "
 
 #: wp-admin/tools.php:23
 msgid "The Categories and Tags Converter link on this screen will take you to the Import screen, where that Converter is one of the plugins you can install. Once that plugin is installed, return to this screen and the link will take you to a screen where you can choose to convert tags into categories or vice versa."
@@ -8207,7 +8204,7 @@ msgstr "Um síður"
 
 #: wp-admin/edit-form-advanced.php:222
 msgid "<strong>Parent</strong> - You can arrange your pages in hierarchies. For example, you could have an &#8220;About&#8221; page that has &#8220;Life Story&#8221; and &#8220;My Dog&#8221; pages under it. There are no limits to how many levels you can nest pages."
-msgstr ""
+msgstr "<strong>Foreldri</strong> - Hægt er að stigskipta síðum. Sem dæmi þá gætir þú verið með &#8220;Um&#8221; síðu sem inniheldur &#8220;Æviágrip&#8221; og &#8220;Hundurinn minn&#8221; þar undir. Það er engin takmörkun fjölda eða dýpt undirsíða. "
 
 #: wp-admin/edit-form-advanced.php:223
 msgid "<strong>Template</strong> - Some themes have custom templates you can use for certain pages that might have additional features or custom layouts. If so, you&#8217;ll see them in this dropdown menu."
@@ -8270,7 +8267,7 @@ msgstr "Breyta athugasemd"
 
 #: wp-admin/comment.php:52
 msgid "You can edit the information left in a comment if needed. This is often useful when you notice that a commenter has made a typographical error."
-msgstr ""
+msgstr "Það er mögulegt að breyta innihaldi athugasemda þegar þörf er á. Þetta er oft gagnlegt td. í þeim tilfellum þegar um stafsetningarvillur er um að ræða. "
 
 #: wp-admin/comment.php:53
 msgid "You can also moderate the comment from this screen using the Status box, where you can also change the timestamp of the comment."
@@ -8386,7 +8383,7 @@ msgstr "Gul röð táknar að athugasemdin bíður nú eftir því að þú sam�
 
 #: wp-admin/edit-comments.php:126
 msgid "In the <strong>Author</strong> column, in addition to the author&#8217;s name, email address, and blog URL, the commenter&#8217;s IP address is shown. Clicking on this link will show you all the comments made from this IP address."
-msgstr ""
+msgstr "Undir <strong>Höfundur</strong> dálkinum má til viðbótar finna nafn, netfang, veffang ásamt ip-vistfangi. Með því að smella á ip-visfangið birtast allar athugasemdir sem hafa verið ritaðar frá þessu tiltekna ip-vistfangi.   "
 
 #: wp-admin/edit-comments.php:127
 msgid "In the <strong>Comment</strong> column, above each comment it says &#8220;Submitted on,&#8221; followed by the date and time the comment was left on your site. Clicking on the date/time link will take you to that comment on your live site. Hovering over any comment gives you options to approve, reply (and approve), quick edit, edit, spam mark, or trash that comment."
@@ -8394,7 +8391,7 @@ msgstr ""
 
 #: wp-admin/edit-comments.php:128
 msgid "In the <strong>In Response To</strong> column, there are three elements. The text is the name of the post that inspired the comment, and links to the post editor for that entry. The View Post link leads to that post on your live site. The small bubble with the number in it shows how many comments that post has received. If the bubble is gray, you have moderated all comments for that post. If it is blue, there are pending comments. Clicking the bubble will filter the comments screen to show only comments on that post."
-msgstr ""
+msgstr "Í <strong>sem svar við</strong> dálknum eru þrjú atriði. Texti færslunar sem hvatti til athugasemda ásamt tengli á færsluritil fyrir þessa tilteknu færslu. Tengill á skoða færslu birtir færsluna eins og hún kemur fyrir á vefnum. Lítil blaðra með tölugildi sýnir hve margar athugasemdir hafa verið ritaðar við færsluna. Ef blaðran er blá þá bíða athugasemd(ir) eftir samþykki. Ef blaðran er grá þá eru engar athugasemdir á bið. Ef ýtt er á blöðruna þá vera athugasemdir fyrir viðkomandi færslu eingöngu birtar."
 
 #: wp-admin/edit-comments.php:129
 msgid "Many people take advantage of keyboard shortcuts to moderate their comments more quickly. Use the link to the side to learn more."
@@ -8577,7 +8574,7 @@ msgstr "Þú getur breytt útliti á vefnum þínum án þess að breyta kóðan
 
 #: wp-admin/custom-background.php:88
 msgid "To use a background image, simply upload it, then choose your display options below. You can display a single instance of your image, or tile it to fill the screen. You can have your background fixed in place, so your site content moves on top of it, or you can have it scroll with your site."
-msgstr ""
+msgstr "Til þess að nota bakgrunnsmynd þá þarf einfaldlega að hlaða henni upp og velja hvernig hún birtist hér fyrir neðan. Hægt er að birta eina mynd eða að endurtaka hana svo hún fylli út í skjáinn. Bakgrunnsmynd getur verið með fasta staðsetningu þar sem innihaldið flýtur ofaná eða þá að hún fylgir innihaldi. "
 
 #: wp-admin/custom-background.php:89
 msgid "You can also choose a background color. If you know the hexadecimal code for the color you want, enter it in the Background Color field. If not, click on the Select a Color link, and a color picker will allow you to choose the exact shade you want."
@@ -8703,7 +8700,7 @@ msgstr "Ef þú hefur ekki skilgreint hámark á inngreyptri stærð þá mun st
 
 #: wp-admin/options-media.php:27
 msgid "Uploading Files allows you to choose the folder and path for storing your uploaded files."
-msgstr ""
+msgstr "Við upphleðslu á skrám þá færð þú möguleika á að skilgreina möppu og slóð þar sem þær verða geymdar. "
 
 #: wp-admin/options-media.php:40
 msgid "<a href=\"http://codex.wordpress.org/Settings_Media_Screen\" target=\"_blank\">Documentation on Media Settings</a>"
@@ -8836,7 +8833,7 @@ msgstr "Skjáinnihald"
 
 #: wp-admin/edit.php:162
 msgid "You can customize the display of this screen&#8217;s contents in a number of ways:"
-msgstr ""
+msgstr "Þú getur séraðlagað birtingu á innihaldi undir þessum skjá með margvíslegum hætti:"
 
 #: wp-admin/edit.php:164
 msgid "You can hide/display columns based on your needs and decide how many posts to list per screen using the Screen Options tab."
@@ -8985,10 +8982,9 @@ msgid "Media Library"
 msgstr "Gagnamiðlun"
 
 #: wp-admin/upload.php:146
-#, fuzzy
 msgctxt "items per page (screen options)"
 msgid "Media items"
-msgstr "Hlut eytt."
+msgstr ""
 
 #: wp-admin/upload.php:152
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."
@@ -9607,9 +9603,8 @@ msgid "You can submit content in several different ways; this screen holds the s
 msgstr ""
 
 #: wp-admin/options-writing.php:33
-#, fuzzy
 msgid "Due to security issues, you cannot use Post By Email on Multisite Installs."
-msgstr "Af öryggisástæðum er ekki hægt að nota aðgerðina að senda færslur í tölvupósti þegar multisite install er virkt. "
+msgstr "Af öryggisástæðum er ekki hægt að nota aðgerðina að senda færslur í tölvupósti í fjölvefjauppsetningu."
 
 #: wp-admin/options-writing.php:35
 msgid "Post via email settings allow you to send your WordPress install an email with the content of your post. You must set up a secret e-mail account with POP3 access to use this, and any mail received at this address will be posted, so it&#8217;s a good idea to keep this address very secret."
@@ -15661,9 +15656,8 @@ msgid "When you have finished building your custom menu, make sure you click the
 msgstr "Þegar þú ert búin að búa til sérsniðna valmynd, passaðu þig á að smella á 'Vista valmynd'."
 
 #: wp-admin/options.php:113
-#, fuzzy
 msgid "<strong>ERROR</strong>: options page not found."
-msgstr "<strong>Villa</strong>: options page not found."
+msgstr "<strong>Villa</strong>: Síða fyrir valmöguleika fannst ekki."
 
 #: wp-admin/options.php:117
 msgid "You do not have sufficient permissions to modify unregistered settings for this site."
