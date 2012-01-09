@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Wordpress 3.3\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2011-12-16 21:13:13+00:00\n"
-"PO-Revision-Date: 2012-01-03 15:04-0000\n"
+"PO-Revision-Date: 2012-01-09 11:19-0000\n"
 "Last-Translator: Samúel Jón Gunnarsson <sammi@villingaholt.nu>\n"
 "Language-Team: Icelandic <sammi@villingaholt.nu>\n"
 "MIME-Version: 1.0\n"
@@ -831,8 +831,9 @@ msgid "Close"
 msgstr "Loka"
 
 #: wp-includes/script-loader.php:175
+#, fuzzy
 msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
-msgstr ""
+msgstr "Þessi virkni krefst þess að nota inline frames. Annaðhvort ertu með iframes stuðning afvirkjaðan eða vafrinn þinn styður þá ekki."
 
 #: wp-includes/script-loader.php:188
 msgid "not configured"
@@ -888,7 +889,7 @@ msgstr "Upphleðsla mistókst."
 
 #: wp-includes/script-loader.php:204
 msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
-msgstr ""
+msgstr "Reyndu að hlaða upp þessari skrá með %1$svafra upphleðslu%2$s."
 
 #: wp-includes/script-loader.php:205
 msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
@@ -2012,7 +2013,6 @@ msgid "A name is required for this term"
 msgstr "Gefa verður þessu hugtaki heiti"
 
 #: wp-includes/taxonomy.php:2024
-#, fuzzy
 msgid "A term with the name provided already exists with this parent."
 msgstr "Efnisorð með saman nafni finnst núþegar í yfirflokk. "
 
@@ -2485,7 +2485,7 @@ msgstr "Vefslóðin sem þú slóst inn virðist ekki vera gild vefslóð (URL).
 
 #: wp-includes/formatting.php:2615
 msgid "The timezone you have entered is not valid. Please select a valid timezone."
-msgstr ""
+msgstr "Ógilt tímabelti hefur verið slegið inn. Vinsamlegast sláðu inn rétt skilgreint tímabelti."
 
 #. translators: used between list items, there is a space after the comma
 #: wp-includes/formatting.php:2768
@@ -2664,7 +2664,6 @@ msgid "XML error: %s at line %d"
 msgstr "XML villa: %s á línu %d"
 
 #: wp-includes/plugin.php:676
-#, fuzzy
 msgid "Only a static class method or function can be used in an uninstall hook."
 msgstr "Það er eingögnu hægt að nota statískar aðgerðir klasa eða föll með \"uninstall hook\"."
 
@@ -6238,7 +6237,7 @@ msgstr "Yfirlit"
 
 #: wp-admin/link-manager.php:47
 msgid "You can add links here to be displayed on your site, usually using <a href=\"%s\">Widgets</a>. By default, links to several sites in the WordPress community are included as examples."
-msgstr ""
+msgstr "Þú getur bætt við tenglum sem birtir verða á vefnum hjá þér oftast í formi <a href=\"%s\">aukahlutar</a>. Sem sjálfgildi þá hefur nokkrum tenglum úr WordPress samfélaginu verið bætt við sem sýnidæmi. "
 
 #: wp-admin/link-manager.php:48
 msgid "Links may be separated into Link Categories; these are different than the categories used on your posts."
@@ -6462,7 +6461,7 @@ msgstr "Þar sem þetta er fjölvefjauppsetning þá getur þú bætt við noten
 
 #: wp-admin/user-new.php:146
 msgid "New users will receive an email letting them know they&#8217;ve been added as a user for your site. This email will also contain their password. Check the box if you don&#8217;t want the user to receive a welcome email."
-msgstr ""
+msgstr "Nýjir notendur munu fá tölvupóst sem lætur þá vita að þeim hafi verið bætt við sem notanda á vefnum þínum. Þessi tölvupósti mun einnig innihalda lykilorð notanda. Hakaðu við boxið ef þú vilt ekki að notandi fái sendan tölvupóst um að honum hafi verið bætt við. "
 
 #: wp-admin/user-new.php:148
 msgid "You must assign a password to the new user, which they can change after logging in. The username, however, cannot be changed."
@@ -6470,7 +6469,7 @@ msgstr "Þú verður að gefa nýjum notanda lykilorð sem hann getur breytt eft
 
 #: wp-admin/user-new.php:149
 msgid "New users will receive an email letting them know they&#8217;ve been added as a user for your site. By default, this email will also contain their password. Uncheck the box if you don&#8217;t want the password to be included in the welcome email."
-msgstr ""
+msgstr "Nýjir notendur munu fá tölvupóst sem lætur þá vita að þeim hafi verið bætt við sem notanda á vefnum þínum. Þessi tölvupósti mun einnig innihalda lykilorð notanda. Hakaðu við boxið ef þú vilt ekki að notandi fái sent lykilorð með í tölvupósti um að honum hafi verið bætt við. "
 
 #: wp-admin/user-new.php:152
 msgid "Remember to click the Add New User button at the bottom of this screen when you are finished."
@@ -6710,7 +6709,7 @@ msgstr "Vensl tengils (XFN)"
 
 #: wp-admin/edit-link-form.php:46
 msgid "You can add or edit links on this screen by entering information in each of the boxes. Only the link&#8217;s web address and name (the text you want to display on your site as the link) are required fields."
-msgstr ""
+msgstr "Þú getur bætt við eða breytt tenglum á þessum skjá með því að breyta upplýsingum í hverju boxi. Einungis tengillinn á vefslóð og nafn (eða sá texti sem þú vilt að birtist með tengli) eru skilyrtir reitir."
 
 #: wp-admin/edit-link-form.php:47
 msgid "The boxes for link name, web address, and description have fixed positions, while the others may be repositioned using drag and drop. You can also hide boxes you don&#8217;t use in the Screen Options tab, or minimize boxes by clicking on the title bar of the box."
@@ -7015,7 +7014,7 @@ msgstr "Burtséð frá sjálfgefna þemanu sem fylgir með WordPress uppsetningu
 
 #: wp-admin/themes.php:41
 msgid "You can see your active theme at the top of the screen. Below are the other themes you have installed that are not currently in use. You can see what your site would look like with one of these themes by clicking the Preview link. To change themes, click the Activate link."
-msgstr ""
+msgstr "Hægt er að sjá hvaða þema er virk hér efst á skjánum. Fyrir neðan eru aðrar þemu sem settar hafa verið inn en eru ekki í notkun. Þú getur séð hvernig vefurinn lítur út með einni af neðangreindri þemu með því að ýta á forskoða. Til að virkja þema ýttu þá á virkja."
 
 #: wp-admin/themes.php:51
 msgid "Installing themes on Multisite can only be done from the Network Admin section."
@@ -7243,7 +7242,7 @@ msgstr "Ef þú vilt ekki hlaða upp eigin mynd þá getur þú nýtt þér sjá
 
 #: wp-admin/custom-header.php:552
 msgid "You can use one of these cool headers or show a random one on each page."
-msgstr ""
+msgstr "Þú getur nýtt þér eina af þessum flottu myndum sem síðuhausmynd eða valið handahófskennda mynd fyrir hverja síðu."
 
 #: wp-admin/custom-header.php:562
 #: wp-admin/custom-background.php:218
@@ -7354,9 +7353,8 @@ msgid "This screen provides many options for controlling the management and disp
 msgstr ""
 
 #: wp-admin/options-discussion.php:27
-#, fuzzy
 msgid "<a href=\"http://codex.wordpress.org/Settings_Discussion_Screen\" target=\"_blank\">Documentation on Discussion Settings</a>"
-msgstr "<a href=\"http://codex.wordpress.org/Settings_General_Screen\" target=\"_blank\">Skjölun á almennum stillingum</a>"
+msgstr ""
 
 #: wp-admin/options-discussion.php:43
 #: wp-admin/options-discussion.php:44
@@ -7727,7 +7725,7 @@ msgstr ""
 
 #: wp-admin/options-privacy.php:22
 msgid "When this setting is in effect a reminder is shown in the Right Now box of the Dashboard that says, &#8220;Search Engines Blocked,&#8221; to remind you that your site is not being crawled."
-msgstr ""
+msgstr "Þegar þessi stilling er virk þá birtist áminning í boxinu sem heitir þessa stundina og þar mun standa &#8220;Lokað á leitarvélar,&#8221; sem minnir þig á að leitarvélar eru ekki að leita á vefnum þínum."
 
 #: wp-admin/options-privacy.php:27
 msgid "<a href=\"http://codex.wordpress.org/Settings_Privacy_Screen\" target=\"_blank\">Documentation on Privacy Settings</a>"
@@ -7748,7 +7746,7 @@ msgstr "Biðja leitarvélar um að sleppa því að byggja upp atriðaskrá (e. 
 
 #: wp-admin/options-privacy.php:49
 msgid "Note: Neither of these options blocks access to your site &mdash; it is up to search engines to honor your request."
-msgstr ""
+msgstr "Athugið: Hvorugur þessa valkosta hindrar aðgang að vefnum þínum en það er ákvörðun leitarvélana hvort þær virði þína beiðni. "
 
 #: wp-admin/menu-header.php:169
 msgid "Collapse menu"
@@ -8196,7 +8194,7 @@ msgstr ""
 
 #: wp-admin/edit-form-advanced.php:214
 msgid "Creating a Page is very similar to creating a Post, and the screens can be customized in the same way using drag and drop, the Screen Options tab, and expanding/collapsing boxes as you choose. This screen also has the distraction-free writing space, available in both the Visual and HTML modes via the Fullscreen buttons. The Page editor mostly works the same as the Post editor, but there are some Page-specific features in the Page Attributes box:"
-msgstr ""
+msgstr "Að stofna síðu er sambærileg aðgerð og að stofna færslu. Hægt er að séraðlaga skjáinn með því að draga og sleppa, stilla skjá og opna eða loka boxum eins og þér hentar.  Þessi skjár inniheldur einnig truflunarlaust ritsvæði bæði fyrir ríkan texta eða html ham gegnum heilskjáshnappa.  Síðuritillinn virkar nánast eins og færsluritill að frátalinni virkni sem einskorðast bara við síður og sjá má í boxinu fyrir síðueigindi: "
 
 #: wp-admin/edit-form-advanced.php:218
 msgid "About Pages"
@@ -11377,9 +11375,8 @@ msgid "File URL"
 msgstr "Skrá"
 
 #: wp-admin/includes/media.php:781
-#, fuzzy
 msgid "Attachment Post URL"
-msgstr "Bæta við af slóð"
+msgstr ""
 
 #: wp-admin/includes/media.php:805
 #: wp-admin/includes/media.php:1967
@@ -14756,7 +14753,7 @@ msgstr "Veita þessum notanda ofurnotenda-réttindi yfir neti."
 
 #: wp-admin/user-edit.php:276
 msgid "Super admin privileges cannot be removed because this user has the network admin email."
-msgstr ""
+msgstr "Ekki var hægt að fjarlægja ofur kerfisstjórnunarréttindi þar sem þessi notandi er skráður með netfang netkerfisstjóra."
 
 #: wp-admin/user-edit.php:292
 msgid "Nickname"
@@ -14981,7 +14978,7 @@ msgstr "Aðalforritari"
 
 #: wp-admin/credits.php:152
 msgid "Core Committer"
-msgstr ""
+msgstr "Kjarnaþáttakandi"
 
 #: wp-admin/credits.php:153
 msgid "Guest Committer"
@@ -15649,7 +15646,7 @@ msgstr "Til að búa til sérsniðna valmynd, gefðu henni nafn og smelltu á 'B
 
 #: wp-admin/nav-menus.php:594
 msgid "After you have added your items, drag and drop to put them in the order you want. You can also click each item to reveal additional configuration options."
-msgstr ""
+msgstr "Eftir að þú hefur bætt við hlutum þá getur þú dregið og sleppt þeim í þeirri röðs sem þú vilt. Einnig er hægt að smella á hvernn hlut fyrir sig til að stilla hann nánar. "
 
 #: wp-admin/nav-menus.php:595
 msgid "When you have finished building your custom menu, make sure you click the Save Menu button."
@@ -15898,7 +15895,7 @@ msgstr "Netaðgerðir óvirkar."
 
 #: wp-content/plugins/akismet/admin.php:169
 msgid "Your web host or server administrator has disabled PHP's <code>fsockopen</code> or <code>gethostbynamel</code> functions.  <strong>Akismet cannot work correctly until this is fixed.</strong>  Please contact your web host or firewall administrator and give them <a href=\"%s\" target=\"_blank\">this information about Akismet's system requirements</a>."
-msgstr ""
+msgstr "Hýsingaraðili eða kerfisstjóri hefur afvirkjað PHP aðgerð <code>fsockopen</code> eða <code>gethostbynamel</code>. <strong>Akismet mun ekki virka eðlilega fyrr en þetta er lagfært.</strong> Vinsamlegast hafðu samband við hýsingaraðila eða kerfisstjóra og láttu þá fá <a href=\"%s\" target=\"_blank\">eftirfarandi upplýsingar um forkröfur svo hægt sé að keyra Akismet</a>."
 
 #: wp-content/plugins/akismet/admin.php:177
 msgid "Unable to reach some Akismet servers."
@@ -16006,9 +16003,8 @@ msgid "Flagged as spam by %s"
 msgstr "Merkt sem amapóstur af %s"
 
 #: wp-content/plugins/akismet/admin.php:333
-#, fuzzy
 msgid "Un-spammed by %s"
-msgstr "%1$s %2$s Færslur með %3$s straumi"
+msgstr ""
 
 #: wp-content/plugins/akismet/admin.php:342
 #: wp-content/plugins/akismet/admin.php:349

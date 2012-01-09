@@ -32,6 +32,7 @@ h3. Staða þýddra strengja
 17. des 2011 : 94% þýtt 3491 strengir (  18 óljósir,174 óþýddir)
 18. des 2011 : 95% þýtt 3492 strengir (  12 óljósir,143 óþýddir)
 03. jan 2012 : 96% þýtt 3492 strengir (   7 óljósir,127 óþýddir)
+09. jan 2012 : 96% þýtt 3492 strengir (   3 óljósir,114 óþýddir)
 
 h3. Að þýðingu lokinni
 
